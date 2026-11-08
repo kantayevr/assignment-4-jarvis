@@ -1,0 +1,302 @@
+{
+  "candidate": "mkdocstrings/mkdocstrings",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/mkdocstrings/mkdocstrings/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/mkdocstrings/mkdocstrings/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:58.161Z",
+      "end": false,
+      "records": [
+        {
+          "id": 417470431,
+          "tag_name": "1.0.8",
+          "published_at": "2026-10-19T15:43:06Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 408980955,
+          "tag_name": "1.0.7",
+          "published_at": "2026-10-10T13:51:02Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 352592224,
+          "tag_name": "1.0.6",
+          "published_at": "2026-07-11T19:38:14Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 352038825,
+          "tag_name": "1.0.5",
+          "published_at": "2026-07-10T10:48:47Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 309242597,
+          "tag_name": "1.0.4",
+          "published_at": "2026-04-15T09:16:56Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 284036073,
+          "tag_name": "1.0.3",
+          "published_at": "2026-02-07T14:31:43Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 279639861,
+          "tag_name": "1.0.2",
+          "published_at": "2026-01-24T15:57:27Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 277893438,
+          "tag_name": "1.0.1",
+          "published_at": "2026-01-19T11:36:27Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 265791498,
+          "tag_name": "1.0.0",
+          "published_at": "2025-11-27T15:39:43Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/1.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 248563213,
+          "tag_name": "0.30.1",
+          "published_at": "2025-09-19T10:49:32Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.30.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 234395468,
+          "tag_name": "0.30.0",
+          "published_at": "2025-07-22T23:49:19Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.30.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209281082,
+          "tag_name": "0.29.1",
+          "published_at": "2025-03-31T08:33:08Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.29.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 204733729,
+          "tag_name": "0.29.0",
+          "published_at": "2025-03-10T13:10:14Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.29.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 204552389,
+          "tag_name": "0.28.3",
+          "published_at": "2025-03-08T21:43:26Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.28.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 202080136,
+          "tag_name": "0.28.2",
+          "published_at": "2025-02-24T16:12:48Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.28.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 200378056,
+          "tag_name": "0.28.1",
+          "published_at": "2025-02-14T12:40:14Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.28.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 198134538,
+          "tag_name": "0.28.0",
+          "published_at": "2025-02-03T16:01:15Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184408871,
+          "tag_name": "0.27.0",
+          "published_at": "2024-11-08T17:07:44Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 179651428,
+          "tag_name": "0.26.2",
+          "published_at": "2024-10-12T16:56:52Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.26.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173812299,
+          "tag_name": "0.26.1",
+          "published_at": "2024-09-06T10:26:02Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.26.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172956993,
+          "tag_name": "0.26.0",
+          "published_at": "2024-09-01T22:29:19Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167152996,
+          "tag_name": "0.25.2",
+          "published_at": "2024-07-25T14:56:26Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.25.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154306681,
+          "tag_name": "0.25.1",
+          "published_at": "2024-05-05T14:09:16Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.25.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153097067,
+          "tag_name": "0.25.0",
+          "published_at": "2024-04-27T16:12:48Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149966513,
+          "tag_name": "0.24.3",
+          "published_at": "2024-04-05T14:56:33Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.24.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149459186,
+          "tag_name": "0.24.2",
+          "published_at": "2024-04-02T19:23:12Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.24.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143838709,
+          "tag_name": "0.24.1",
+          "published_at": "2024-02-27T16:06:43Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 129404529,
+          "tag_name": "0.24.0",
+          "published_at": "2023-11-14T17:46:28Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119687966,
+          "tag_name": "0.23.0",
+          "published_at": "2023-09-02T09:32:18Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89641313,
+          "tag_name": "0.20.0",
+          "published_at": "2023-01-19T23:00:14Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.20.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "52c638bed470a6a6ec53762e6538bc2fab77054ea479dfbc2bfc68335ee3a5c9"
+    },
+    {
+      "url": "https://api.github.com/repos/mkdocstrings/mkdocstrings/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/mkdocstrings/mkdocstrings/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:58.840Z",
+      "end": true,
+      "records": [
+        {
+          "id": 68074364,
+          "tag_name": "0.19.0",
+          "published_at": "2022-05-28T15:57:31Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58832494,
+          "tag_name": "0.18.0",
+          "published_at": "2022-02-06T19:21:38Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57182043,
+          "tag_name": "0.17.0",
+          "published_at": "2022-01-15T13:22:05Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 49977009,
+          "tag_name": "0.16.0",
+          "published_at": "2021-09-21T11:48:48Z",
+          "html_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.16.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "ccade7b8aadc3b65dde3bb6af317436dbf74e8556db606020a778e85eb7eced4"
+    }
+  ]
+}

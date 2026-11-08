@@ -1,0 +1,2870 @@
+{
+  "candidate": "tox-dev/tox",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:34.585Z",
+      "end": false,
+      "records": [
+        {
+          "id": 436668305,
+          "tag_name": "4.67.13",
+          "published_at": "2026-11-06T15:33:25Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 435877836,
+          "tag_name": "4.67.12",
+          "published_at": "2026-11-05T23:31:55Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 434591055,
+          "tag_name": "4.67.11",
+          "published_at": "2026-11-04T23:42:34Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 434361469,
+          "tag_name": "4.67.10",
+          "published_at": "2026-11-04T19:34:18Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 433635177,
+          "tag_name": "4.67.9",
+          "published_at": "2026-11-04T07:43:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 433018940,
+          "tag_name": "4.67.8",
+          "published_at": "2026-11-03T17:35:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 432045647,
+          "tag_name": "4.67.7",
+          "published_at": "2026-11-02T22:40:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 431745758,
+          "tag_name": "4.67.6",
+          "published_at": "2026-11-02T17:17:02Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 429721747,
+          "tag_name": "4.67.5",
+          "published_at": "2026-10-31T04:31:20Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 426331006,
+          "tag_name": "4.67.4",
+          "published_at": "2026-10-28T06:33:55Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 426169551,
+          "tag_name": "4.67.3",
+          "published_at": "2026-10-28T01:32:56Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 425184094,
+          "tag_name": "4.67.2",
+          "published_at": "2026-10-27T08:20:11Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416304756,
+          "tag_name": "4.67.1",
+          "published_at": "2026-10-18T07:33:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416008963,
+          "tag_name": "4.67.0",
+          "published_at": "2026-10-17T19:15:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.67.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 414698430,
+          "tag_name": "4.66.0",
+          "published_at": "2026-10-16T08:08:42Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.66.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 414357645,
+          "tag_name": "4.65.6",
+          "published_at": "2026-10-15T23:06:31Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 412242588,
+          "tag_name": "4.65.5",
+          "published_at": "2026-10-14T01:11:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 410326648,
+          "tag_name": "4.65.4",
+          "published_at": "2026-10-12T07:41:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 409511134,
+          "tag_name": "4.65.3",
+          "published_at": "2026-10-11T07:44:05Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 409114691,
+          "tag_name": "4.65.2",
+          "published_at": "2026-10-10T18:03:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 408717336,
+          "tag_name": "4.65.1",
+          "published_at": "2026-10-10T06:12:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 408321716,
+          "tag_name": "4.65.0",
+          "published_at": "2026-10-09T20:32:00Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.65.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 407118385,
+          "tag_name": "4.64.10",
+          "published_at": "2026-10-08T17:59:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 403757987,
+          "tag_name": "4.64.9",
+          "published_at": "2026-10-05T13:44:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 402735460,
+          "tag_name": "4.64.8",
+          "published_at": "2026-10-03T23:38:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 401423826,
+          "tag_name": "4.64.7",
+          "published_at": "2026-10-01T23:13:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 400729243,
+          "tag_name": "4.64.6",
+          "published_at": "2026-10-01T07:20:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 399337363,
+          "tag_name": "4.64.5",
+          "published_at": "2026-09-29T16:37:45Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 397719535,
+          "tag_name": "4.64.4",
+          "published_at": "2026-09-27T16:19:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 397022159,
+          "tag_name": "4.64.3",
+          "published_at": "2026-09-26T01:35:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "a30c5e924f9d4e1cde535d2b6cf0c9b6c2b0808b1447eb7accba6395db54d979"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:35.651Z",
+      "end": false,
+      "records": [
+        {
+          "id": 396061909,
+          "tag_name": "4.64.2",
+          "published_at": "2026-09-24T20:39:05Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 395217930,
+          "tag_name": "4.64.1",
+          "published_at": "2026-09-24T01:24:09Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 395165676,
+          "tag_name": "4.64.0",
+          "published_at": "2026-09-24T00:09:21Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.64.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 392140702,
+          "tag_name": "4.63.0",
+          "published_at": "2026-09-19T16:45:06Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.63.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 392108245,
+          "tag_name": "4.62.1",
+          "published_at": "2026-09-19T15:01:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.62.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391907438,
+          "tag_name": "4.62.0",
+          "published_at": "2026-09-19T04:03:47Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.62.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 390424953,
+          "tag_name": "4.61.5",
+          "published_at": "2026-09-17T04:00:54Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.61.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 385167648,
+          "tag_name": "4.61.4",
+          "published_at": "2026-09-09T01:36:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.61.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 385008571,
+          "tag_name": "4.61.3",
+          "published_at": "2026-09-08T19:30:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.61.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 380023771,
+          "tag_name": "4.61.2",
+          "published_at": "2026-08-31T20:13:07Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.61.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 378804767,
+          "tag_name": "4.61.1",
+          "published_at": "2026-08-28T22:59:40Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.61.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 378784553,
+          "tag_name": "4.61.0",
+          "published_at": "2026-08-28T21:57:05Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.61.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 376167550,
+          "tag_name": "4.60.1",
+          "published_at": "2026-08-25T05:38:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.60.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370261287,
+          "tag_name": "4.60.0",
+          "published_at": "2026-08-13T23:13:49Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.60.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368243141,
+          "tag_name": "4.59.0",
+          "published_at": "2026-08-10T22:50:32Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.59.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357356928,
+          "tag_name": "4.58.0",
+          "published_at": "2026-07-21T13:09:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.58.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357064573,
+          "tag_name": "4.57.2",
+          "published_at": "2026-07-21T01:14:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.57.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 356802597,
+          "tag_name": "4.57.1",
+          "published_at": "2026-07-20T15:06:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.57.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 355926094,
+          "tag_name": "4.57.0",
+          "published_at": "2026-07-17T21:11:51Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.57.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 351230778,
+          "tag_name": "4.56.4",
+          "published_at": "2026-07-08T23:54:16Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.56.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 351071236,
+          "tag_name": "4.56.3",
+          "published_at": "2026-07-08T16:59:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.56.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 349980334,
+          "tag_name": "4.56.2",
+          "published_at": "2026-07-07T02:06:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.56.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 344510960,
+          "tag_name": "4.56.1",
+          "published_at": "2026-06-25T06:14:45Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.56.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 343707499,
+          "tag_name": "4.56.0",
+          "published_at": "2026-06-23T19:12:45Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.56.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 333968654,
+          "tag_name": "4.55.1",
+          "published_at": "2026-06-03T19:58:57Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.55.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 330664104,
+          "tag_name": "4.55.0",
+          "published_at": "2026-05-28T05:14:46Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.55.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 321367660,
+          "tag_name": "4.54.0",
+          "published_at": "2026-05-12T19:12:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.54.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 316665863,
+          "tag_name": "4.53.1",
+          "published_at": "2026-05-02T08:33:26Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.53.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 308850372,
+          "tag_name": "4.53.0",
+          "published_at": "2026-04-14T13:43:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.53.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 307172565,
+          "tag_name": "4.52.1",
+          "published_at": "2026-04-09T16:45:26Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.52.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "03567d28a23e9c8def5843eec623c3719a4788b6672e5e2aa9707cec8cb36d7a"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:36.861Z",
+      "end": false,
+      "records": [
+        {
+          "id": 303397344,
+          "tag_name": "4.52.0",
+          "published_at": "2026-03-30T20:32:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.52.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 302463174,
+          "tag_name": "4.51.0",
+          "published_at": "2026-03-27T16:53:49Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.51.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 299218239,
+          "tag_name": "4.50.3",
+          "published_at": "2026-03-20T01:17:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.50.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 299149431,
+          "tag_name": "4.50.2",
+          "published_at": "2026-03-19T20:43:51Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.50.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 298750380,
+          "tag_name": "4.50.1",
+          "published_at": "2026-03-19T01:56:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.50.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 298062022,
+          "tag_name": "4.50.0",
+          "published_at": "2026-03-17T16:53:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.50.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 294928336,
+          "tag_name": "4.49.1",
+          "published_at": "2026-03-09T22:42:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.49.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 294076452,
+          "tag_name": "4.49.0",
+          "published_at": "2026-03-06T19:56:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.49.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 293760042,
+          "tag_name": "4.48.1",
+          "published_at": "2026-03-06T01:40:14Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.48.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 293725420,
+          "tag_name": "4.48.0",
+          "published_at": "2026-03-05T23:25:25Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.48.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292796550,
+          "tag_name": "4.47.3",
+          "published_at": "2026-03-04T02:38:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.47.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292631059,
+          "tag_name": "4.47.2",
+          "published_at": "2026-03-03T16:48:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.47.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292605588,
+          "tag_name": "4.47.1",
+          "published_at": "2026-03-03T15:49:31Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.47.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 291805427,
+          "tag_name": "4.47.0",
+          "published_at": "2026-03-01T14:59:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.47.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290434855,
+          "tag_name": "4.46.3",
+          "published_at": "2026-02-25T15:47:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.46.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290386979,
+          "tag_name": "4.46.2",
+          "published_at": "2026-02-25T14:30:34Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.46.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290378011,
+          "tag_name": "4.46.1",
+          "published_at": "2026-02-25T14:11:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.46.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289987717,
+          "tag_name": "4.46.0",
+          "published_at": "2026-02-24T17:50:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.46.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289565017,
+          "tag_name": "4.45.0",
+          "published_at": "2026-02-23T19:46:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.45.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 288892801,
+          "tag_name": "4.44.0",
+          "published_at": "2026-02-20T21:28:38Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.44.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 288819129,
+          "tag_name": "4.43.0",
+          "published_at": "2026-02-20T17:53:34Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.43.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 288611047,
+          "tag_name": "4.42.0",
+          "published_at": "2026-02-20T07:39:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.42.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 288297376,
+          "tag_name": "4.41.0",
+          "published_at": "2026-02-19T16:19:47Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.41.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 288012280,
+          "tag_name": "4.40.0",
+          "published_at": "2026-02-19T05:50:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.40.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 287851047,
+          "tag_name": "4.39.0",
+          "published_at": "2026-02-18T20:14:00Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.39.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 287419524,
+          "tag_name": "4.38.0",
+          "published_at": "2026-02-17T20:59:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.38.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 287373801,
+          "tag_name": "4.37.0",
+          "published_at": "2026-02-17T18:37:11Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.37.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 287040401,
+          "tag_name": "4.36.1",
+          "published_at": "2026-02-17T01:06:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.36.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 286593816,
+          "tag_name": "4.36.0",
+          "published_at": "2026-02-15T20:31:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.36.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 285903991,
+          "tag_name": "4.35.0",
+          "published_at": "2026-02-12T23:09:08Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.35.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9dae8c3fcdfca81d079bdc24c11c887f1908b16da34a097b6d6a69a4d25150b2"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:38.113Z",
+      "end": false,
+      "records": [
+        {
+          "id": 275569036,
+          "tag_name": "4.34.1",
+          "published_at": "2026-01-09T17:39:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.34.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 275228595,
+          "tag_name": "4.34.0",
+          "published_at": "2026-01-08T16:10:46Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.34.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 273898552,
+          "tag_name": "4.33.0",
+          "published_at": "2026-01-02T22:52:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.33.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 257085234,
+          "tag_name": "4.32.0",
+          "published_at": "2025-10-24T18:03:17Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.32.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253447077,
+          "tag_name": "4.31.0",
+          "published_at": "2025-10-09T18:53:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.31.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 251788028,
+          "tag_name": "4.30.3",
+          "published_at": "2025-10-02T16:22:03Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.30.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244847933,
+          "tag_name": "4.30.2",
+          "published_at": "2025-09-04T16:24:09Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.30.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244475387,
+          "tag_name": "4.30.1",
+          "published_at": "2025-09-03T14:49:19Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.30.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244475228,
+          "tag_name": "4.30.0",
+          "published_at": "2025-09-03T14:48:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.30.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 243604882,
+          "tag_name": "4.29.0",
+          "published_at": "2025-08-29T22:30:47Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.29.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 236708893,
+          "tag_name": "4.28.4",
+          "published_at": "2025-07-31T21:19:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.28.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235330972,
+          "tag_name": "4.28.3",
+          "published_at": "2025-07-26T00:45:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.28.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235245298,
+          "tag_name": "4.28.2",
+          "published_at": "2025-07-25T18:10:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.28.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 234442603,
+          "tag_name": "4.28.1",
+          "published_at": "2025-07-23T06:16:14Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.28.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 233767340,
+          "tag_name": "4.28.0",
+          "published_at": "2025-07-20T18:23:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 225904134,
+          "tag_name": "4.27.0",
+          "published_at": "2025-06-17T15:17:37Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 218301633,
+          "tag_name": "4.26.0",
+          "published_at": "2025-05-13T15:02:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 208714039,
+          "tag_name": "4.25.0",
+          "published_at": "2025-03-27T15:14:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 204447652,
+          "tag_name": "4.24.2",
+          "published_at": "2025-03-07T18:33:55Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.24.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195916291,
+          "tag_name": "4.24.1",
+          "published_at": "2025-01-21T18:57:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195909313,
+          "tag_name": "4.24.0",
+          "published_at": "2025-01-21T18:13:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 181245685,
+          "tag_name": "4.23.2",
+          "published_at": "2024-10-22T14:27:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.23.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 181141710,
+          "tag_name": "4.23.1",
+          "published_at": "2024-10-22T05:38:59Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.23.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180359122,
+          "tag_name": "4.23.0",
+          "published_at": "2024-10-17T03:42:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180359113,
+          "tag_name": "4.22.0",
+          "published_at": "2024-10-17T03:42:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178238213,
+          "tag_name": "4.21.2",
+          "published_at": "2024-10-03T15:22:07Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.21.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178094886,
+          "tag_name": "4.21.1",
+          "published_at": "2024-10-02T21:00:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178094869,
+          "tag_name": "4.21.0",
+          "published_at": "2024-10-02T21:00:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178094854,
+          "tag_name": "4.20.0",
+          "published_at": "2024-10-02T21:00:25Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178094840,
+          "tag_name": "4.19.0",
+          "published_at": "2024-10-02T21:00:19Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.19.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "4c0aeeb67cea3a997fbcd6d6acc333b327ef9dfdf8e5f34365474ae680d679a9"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=5",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=5",
+      "size": 30,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:40.010Z",
+      "end": false,
+      "records": [
+        {
+          "id": 173980009,
+          "tag_name": "4.18.1",
+          "published_at": "2024-09-07T18:13:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 170015186,
+          "tag_name": "4.18.0",
+          "published_at": "2024-08-13T16:44:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169163899,
+          "tag_name": "4.17.1",
+          "published_at": "2024-08-07T17:20:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 168779291,
+          "tag_name": "4.17.0",
+          "published_at": "2024-08-05T19:47:38Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 163715007,
+          "tag_name": "4.16.0",
+          "published_at": "2024-07-03T03:16:40Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159097598,
+          "tag_name": "4.15.1",
+          "published_at": "2024-06-06T00:53:45Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153041971,
+          "tag_name": "4.15.0",
+          "published_at": "2024-04-26T18:57:13Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 147938738,
+          "tag_name": "4.14.2",
+          "published_at": "2024-03-22T15:43:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145121431,
+          "tag_name": "4.14.1",
+          "published_at": "2024-03-06T18:53:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145121393,
+          "tag_name": "4.14.0",
+          "published_at": "2024-03-06T18:53:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142427889,
+          "tag_name": "4.13.0",
+          "published_at": "2024-02-17T00:50:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137325767,
+          "tag_name": "4.12.1",
+          "published_at": "2024-01-17T04:16:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 136760709,
+          "tag_name": "4.12.0",
+          "published_at": "2024-01-12T02:03:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 131669762,
+          "tag_name": "4.11.4",
+          "published_at": "2023-11-28T04:13:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.11.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 120496416,
+          "tag_name": "4.11.3",
+          "published_at": "2023-09-08T22:44:51Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 120372738,
+          "tag_name": "4.11.2",
+          "published_at": "2023-09-08T03:47:21Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119638885,
+          "tag_name": "4.11.1",
+          "published_at": "2023-09-01T19:00:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119473171,
+          "tag_name": "4.5.1.1",
+          "published_at": "2023-08-31T16:05:49Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.5.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119128131,
+          "tag_name": "4.11.0",
+          "published_at": "2023-08-29T19:20:16Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 118559996,
+          "tag_name": "4.10.0",
+          "published_at": "2023-08-24T13:43:31Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117477675,
+          "tag_name": "4.9.0",
+          "published_at": "2023-08-16T15:02:40Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 116759775,
+          "tag_name": "4.8.0",
+          "published_at": "2023-08-12T18:46:20Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 115631520,
+          "tag_name": "4.7.0",
+          "published_at": "2023-08-08T15:08:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 111287403,
+          "tag_name": "4.6.4",
+          "published_at": "2023-07-06T16:03:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.6.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 109164411,
+          "tag_name": "4.6.3",
+          "published_at": "2023-06-20T02:44:06Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 108949918,
+          "tag_name": "4.6.2",
+          "published_at": "2023-06-17T01:12:26Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 108806965,
+          "tag_name": "4.6.1",
+          "published_at": "2023-06-15T23:53:51Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 107373689,
+          "tag_name": "4.6.0",
+          "published_at": "2023-06-05T14:55:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 107373663,
+          "tag_name": "4.5.2",
+          "published_at": "2023-06-05T14:55:37Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100864408,
+          "tag_name": "4.5.1",
+          "published_at": "2023-04-25T20:21:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.5.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0acca9ca860dacc3568c309b820ab9bc304659833dbf9134692745a832966c21"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=6",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=6",
+      "size": 30,
+      "page": 6,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:40.903Z",
+      "end": false,
+      "records": [
+        {
+          "id": 100693338,
+          "tag_name": "4.5.0",
+          "published_at": "2023-04-24T17:21:56Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 99448168,
+          "tag_name": "4.4.12",
+          "published_at": "2023-04-13T18:55:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 99448036,
+          "tag_name": "4.4.11",
+          "published_at": "2023-04-13T18:54:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 98221179,
+          "tag_name": "4.4.10",
+          "published_at": "2023-04-05T16:52:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 98221154,
+          "tag_name": "4.4.9",
+          "published_at": "2023-04-05T16:52:02Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96941905,
+          "tag_name": "4.4.8",
+          "published_at": "2023-03-26T17:12:02Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 95320941,
+          "tag_name": "4.4.7",
+          "published_at": "2023-03-12T16:33:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93191013,
+          "tag_name": "4.4.6",
+          "published_at": "2023-02-21T17:15:47Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91683933,
+          "tag_name": "4.4.5",
+          "published_at": "2023-02-08T02:21:54Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90891192,
+          "tag_name": "4.4.4",
+          "published_at": "2023-01-31T20:35:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90775280,
+          "tag_name": "4.4.3",
+          "published_at": "2023-01-31T03:21:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90240380,
+          "tag_name": "4.4.2",
+          "published_at": "2023-01-25T22:39:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90240370,
+          "tag_name": "4.4.1",
+          "published_at": "2023-01-25T22:39:19Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90226307,
+          "tag_name": "4.4.0",
+          "published_at": "2023-01-25T20:26:09Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89419846,
+          "tag_name": "4.3.5",
+          "published_at": "2023-01-18T15:50:46Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89253108,
+          "tag_name": "4.3.4",
+          "published_at": "2023-01-17T15:15:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89176988,
+          "tag_name": "4.3.3",
+          "published_at": "2023-01-16T22:09:02Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89153818,
+          "tag_name": "4.3.2",
+          "published_at": "2023-01-16T17:09:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89082081,
+          "tag_name": "4.3.1",
+          "published_at": "2023-01-16T04:47:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89070869,
+          "tag_name": "4.3.0",
+          "published_at": "2023-01-16T00:22:16Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88667849,
+          "tag_name": "4.2.8",
+          "published_at": "2023-01-12T02:34:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88606186,
+          "tag_name": "4.2.7",
+          "published_at": "2023-01-11T15:56:28Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88189005,
+          "tag_name": "4.2.6",
+          "published_at": "2023-01-06T23:27:55Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88143127,
+          "tag_name": "4.2.5",
+          "published_at": "2023-01-06T15:45:09Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88042025,
+          "tag_name": "4.2.4",
+          "published_at": "2023-01-05T18:23:13Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87953868,
+          "tag_name": "4.2.3",
+          "published_at": "2023-01-05T00:11:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87953873,
+          "tag_name": "4.2.2",
+          "published_at": "2023-01-05T00:11:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87845928,
+          "tag_name": "4.2.1",
+          "published_at": "2023-01-04T05:17:58Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87845523,
+          "tag_name": "4.2.0",
+          "published_at": "2023-01-04T05:04:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87718572,
+          "tag_name": "4.1.3",
+          "published_at": "2023-01-02T20:01:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.1.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "4b60d3436d3522f8858dd666cab5fa7d2c4d771acc2e1716af2e46521954b100"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=7",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=7",
+      "size": 30,
+      "page": 7,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:41.720Z",
+      "end": false,
+      "records": [
+        {
+          "id": 87617728,
+          "tag_name": "4.1.2",
+          "published_at": "2022-12-31T00:29:02Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87617720,
+          "tag_name": "4.1.1",
+          "published_at": "2022-12-31T00:28:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87536141,
+          "tag_name": "4.1.0",
+          "published_at": "2022-12-29T16:50:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416633394,
+          "tag_name": "4.0.19",
+          "published_at": "2026-10-18T18:46:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87253932,
+          "tag_name": "4.0.18",
+          "published_at": "2022-12-26T17:10:18Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87220853,
+          "tag_name": "4.0.17",
+          "published_at": "2022-12-26T04:07:38Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86688885,
+          "tag_name": "4.0.16",
+          "published_at": "2022-12-20T19:03:42Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86590701,
+          "tag_name": "4.0.15",
+          "published_at": "2022-12-19T22:27:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86456349,
+          "tag_name": "4.0.14",
+          "published_at": "2022-12-18T16:21:44Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86423100,
+          "tag_name": "4.0.13",
+          "published_at": "2022-12-18T02:20:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86350365,
+          "tag_name": "4.0.12",
+          "published_at": "2022-12-16T18:24:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86106293,
+          "tag_name": "4.0.11",
+          "published_at": "2022-12-15T02:58:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416633244,
+          "tag_name": "4.0.10",
+          "published_at": "2026-10-18T18:46:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86093600,
+          "tag_name": "3.28.0",
+          "published_at": "2022-12-14T22:46:37Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85894051,
+          "tag_name": "4.0.9",
+          "published_at": "2022-12-13T16:18:38Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85669973,
+          "tag_name": "4.0.8",
+          "published_at": "2022-12-11T19:54:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85667614,
+          "tag_name": "4.0.7",
+          "published_at": "2022-12-11T18:12:16Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85644153,
+          "tag_name": "4.0.6",
+          "published_at": "2022-12-11T03:03:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85614727,
+          "tag_name": "4.0.5",
+          "published_at": "2022-12-10T03:47:49Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85614719,
+          "tag_name": "4.0.4",
+          "published_at": "2022-12-10T03:47:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85462768,
+          "tag_name": "4.0.3",
+          "published_at": "2022-12-08T17:08:00Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85378338,
+          "tag_name": "4.0.2",
+          "published_at": "2022-12-08T02:04:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85375070,
+          "tag_name": "4.0.1",
+          "published_at": "2022-12-08T00:52:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85334723,
+          "tag_name": "4.0.0",
+          "published_at": "2022-12-07T17:15:37Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85237359,
+          "tag_name": "4.0.0rc4",
+          "published_at": "2022-12-07T01:16:40Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 85091863,
+          "tag_name": "4.0.0rc3",
+          "published_at": "2022-12-06T04:38:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 84944988,
+          "tag_name": "4.0.0rc2",
+          "published_at": "2022-12-05T04:16:34Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 84488920,
+          "tag_name": "4.0.0rc1",
+          "published_at": "2022-11-29T18:43:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 84285779,
+          "tag_name": "4.0.0b3",
+          "published_at": "2022-11-28T04:04:31Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 82937410,
+          "tag_name": "3.27.1",
+          "published_at": "2022-11-14T05:07:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.27.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "853fd4a7642e13e57ffbfc7cd58db1764b920702ab2cca24ba6e2e4a93651b78"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=8",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=8",
+      "size": 30,
+      "page": 8,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:42.593Z",
+      "end": false,
+      "records": [
+        {
+          "id": 80987184,
+          "tag_name": "3.27.0",
+          "published_at": "2022-10-26T01:00:57Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 76555292,
+          "tag_name": "3.26.0",
+          "published_at": "2022-09-08T06:08:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 70921769,
+          "tag_name": "3.25.1",
+          "published_at": "2022-06-29T23:25:56Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.25.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632979,
+          "tag_name": "4.0.0b2",
+          "published_at": "2026-10-18T18:45:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632695,
+          "tag_name": "3.25.0",
+          "published_at": "2026-10-18T18:45:16Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60944650,
+          "tag_name": "4.0.0b1",
+          "published_at": "2022-03-03T22:35:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0b1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56756400,
+          "tag_name": "4.0.0a10",
+          "published_at": "2022-01-10T16:56:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632679,
+          "tag_name": "3.24.5",
+          "published_at": "2026-10-18T18:45:14Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.24.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50941336,
+          "tag_name": "4.0.0a9",
+          "published_at": "2021-10-07T07:28:06Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50941320,
+          "tag_name": "3.24.4",
+          "published_at": "2021-10-07T07:27:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.24.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632909,
+          "tag_name": "4.0.0a8",
+          "published_at": "2026-10-18T18:45:42Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632640,
+          "tag_name": "3.24.3",
+          "published_at": "2026-10-18T18:45:09Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.24.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632630,
+          "tag_name": "3.24.2",
+          "published_at": "2026-10-18T18:45:07Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.24.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632613,
+          "tag_name": "3.24.1",
+          "published_at": "2026-10-18T18:45:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632890,
+          "tag_name": "4.0.0a7",
+          "published_at": "2026-10-18T18:45:40Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632594,
+          "tag_name": "3.24.0",
+          "published_at": "2026-10-18T18:45:02Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42700637,
+          "tag_name": "3.23.1",
+          "published_at": "2021-05-10T12:09:53Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.23.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632547,
+          "tag_name": "3.23.0",
+          "published_at": "2026-10-18T18:44:57Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632530,
+          "tag_name": "3.22.0",
+          "published_at": "2026-10-18T18:44:55Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632873,
+          "tag_name": "4.0.0a6",
+          "published_at": "2026-10-18T18:45:38Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a6",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632512,
+          "tag_name": "3.21.4",
+          "published_at": "2026-10-18T18:44:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.21.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632496,
+          "tag_name": "3.21.3",
+          "published_at": "2026-10-18T18:44:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.21.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632859,
+          "tag_name": "4.0.0a5",
+          "published_at": "2026-10-18T18:45:35Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632481,
+          "tag_name": "3.21.2",
+          "published_at": "2026-10-18T18:44:47Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.21.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632840,
+          "tag_name": "4.0.0a4",
+          "published_at": "2026-10-18T18:45:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632817,
+          "tag_name": "4.0.0a3",
+          "published_at": "2026-10-18T18:45:31Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632463,
+          "tag_name": "3.21.1",
+          "published_at": "2026-10-18T18:44:45Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632798,
+          "tag_name": "4.0.0a2",
+          "published_at": "2026-10-18T18:45:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/4.0.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416632447,
+          "tag_name": "3.21.0",
+          "published_at": "2026-10-18T18:44:42Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632431,
+          "tag_name": "3.20.1",
+          "published_at": "2026-10-18T18:44:40Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.20.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "5b3225c3d7a2f89e27b98756df476af26ea90c306fb5c72df4bcf054ca5eb436"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=9",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=9",
+      "size": 30,
+      "page": 9,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:43.649Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416632420,
+          "tag_name": "3.20.0",
+          "published_at": "2026-10-18T18:44:38Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632400,
+          "tag_name": "3.19.0",
+          "published_at": "2026-10-18T18:44:35Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632375,
+          "tag_name": "3.18.1",
+          "published_at": "2026-10-18T18:44:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632356,
+          "tag_name": "3.18.0",
+          "published_at": "2026-10-18T18:44:31Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632342,
+          "tag_name": "3.17.1",
+          "published_at": "2026-10-18T18:44:29Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632323,
+          "tag_name": "3.17.0",
+          "published_at": "2026-10-18T18:44:26Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632296,
+          "tag_name": "3.16.1",
+          "published_at": "2026-10-18T18:44:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632276,
+          "tag_name": "3.16.0",
+          "published_at": "2026-10-18T18:44:22Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632255,
+          "tag_name": "3.15.2",
+          "published_at": "2026-10-18T18:44:20Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632234,
+          "tag_name": "3.15.1",
+          "published_at": "2026-10-18T18:44:17Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632212,
+          "tag_name": "3.15.0",
+          "published_at": "2026-10-18T18:44:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632199,
+          "tag_name": "3.14.6",
+          "published_at": "2026-10-18T18:44:13Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632189,
+          "tag_name": "3.14.5",
+          "published_at": "2026-10-18T18:44:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632166,
+          "tag_name": "3.14.4",
+          "published_at": "2026-10-18T18:44:08Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632144,
+          "tag_name": "3.14.3",
+          "published_at": "2026-10-18T18:44:06Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632120,
+          "tag_name": "3.14.2",
+          "published_at": "2026-10-18T18:44:04Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632099,
+          "tag_name": "3.14.1",
+          "published_at": "2026-10-18T18:44:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416632077,
+          "tag_name": "3.14.0",
+          "published_at": "2026-10-18T18:43:59Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18418134,
+          "tag_name": "3.13.2",
+          "published_at": "2019-07-04T15:07:00Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18418143,
+          "tag_name": "3.13.1",
+          "published_at": "2019-07-04T15:07:08Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18202941,
+          "tag_name": "3.13.0",
+          "published_at": "2019-06-25T09:09:42Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18188196,
+          "tag_name": "3.12.1",
+          "published_at": "2019-06-24T17:28:03Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631991,
+          "tag_name": "3.12.0",
+          "published_at": "2026-10-18T18:43:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631970,
+          "tag_name": "3.11.1",
+          "published_at": "2026-10-18T18:43:46Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631953,
+          "tag_name": "3.11.0",
+          "published_at": "2026-10-18T18:43:44Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631939,
+          "tag_name": "3.10.0",
+          "published_at": "2026-10-18T18:43:42Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631918,
+          "tag_name": "3.9.0",
+          "published_at": "2026-10-18T18:43:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16734348,
+          "tag_name": "3.8.6",
+          "published_at": "2019-04-12T18:39:03Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631877,
+          "tag_name": "3.8.5",
+          "published_at": "2026-10-18T18:43:35Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631866,
+          "tag_name": "3.8.4",
+          "published_at": "2026-10-18T18:43:33Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b1948419af2e70d7e469657e427cff5ef894399575f0df159bae4a90575a95d4"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=10",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=10",
+      "size": 30,
+      "page": 10,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:44.986Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416631846,
+          "tag_name": "3.8.3",
+          "published_at": "2026-10-18T18:43:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631835,
+          "tag_name": "3.8.2",
+          "published_at": "2026-10-18T18:43:28Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631814,
+          "tag_name": "3.8.1",
+          "published_at": "2026-10-18T18:43:26Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631797,
+          "tag_name": "3.8.0",
+          "published_at": "2026-10-18T18:43:24Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15827383,
+          "tag_name": "3.7.0",
+          "published_at": "2019-02-28T09:26:13Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631758,
+          "tag_name": "3.6.1",
+          "published_at": "2026-10-18T18:43:19Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631737,
+          "tag_name": "3.6.0",
+          "published_at": "2026-10-18T18:43:17Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631722,
+          "tag_name": "3.5.3",
+          "published_at": "2026-10-18T18:43:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631697,
+          "tag_name": "3.5.2",
+          "published_at": "2026-10-18T18:43:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631678,
+          "tag_name": "3.5.1",
+          "published_at": "2026-10-18T18:43:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13298031,
+          "tag_name": "3.5.0",
+          "published_at": "2018-10-08T08:45:37Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631643,
+          "tag_name": "3.4.0",
+          "published_at": "2026-10-18T18:43:06Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631621,
+          "tag_name": "3.3.0",
+          "published_at": "2026-10-18T18:43:03Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631599,
+          "tag_name": "3.2.1",
+          "published_at": "2026-10-18T18:43:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631582,
+          "tag_name": "3.2.0",
+          "published_at": "2026-10-18T18:42:59Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631555,
+          "tag_name": "3.1.3",
+          "published_at": "2026-10-18T18:42:56Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631536,
+          "tag_name": "3.1.2",
+          "published_at": "2026-10-18T18:42:54Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631516,
+          "tag_name": "3.1.1",
+          "published_at": "2026-10-18T18:42:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631492,
+          "tag_name": "3.1.0",
+          "published_at": "2026-10-18T18:42:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631463,
+          "tag_name": "3.0.0",
+          "published_at": "2026-10-18T18:42:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631445,
+          "tag_name": "3.0.0rc4",
+          "published_at": "2026-10-18T18:42:46Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.0.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631425,
+          "tag_name": "3.0.0rc3",
+          "published_at": "2026-10-18T18:42:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.0.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631408,
+          "tag_name": "3.0.0rc2",
+          "published_at": "2026-10-18T18:42:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631381,
+          "tag_name": "3.0.0rc1",
+          "published_at": "2026-10-18T18:42:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/3.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631364,
+          "tag_name": "2.9.1",
+          "published_at": "2026-10-18T18:42:37Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631339,
+          "tag_name": "2.9.0",
+          "published_at": "2026-10-18T18:42:34Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631306,
+          "tag_name": "2.9.0rc1",
+          "published_at": "2026-10-18T18:42:32Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.9.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631282,
+          "tag_name": "2.8.2",
+          "published_at": "2026-10-18T18:42:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631265,
+          "tag_name": "2.8.1",
+          "published_at": "2026-10-18T18:42:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631244,
+          "tag_name": "2.8.0",
+          "published_at": "2026-10-18T18:42:25Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.8.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "4af0fda20dc7aa93aa4a33d088eea016592a1410b5636a1ae5bf737c34e7af85"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=11",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=11",
+      "size": 30,
+      "page": 11,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:46.096Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416631220,
+          "tag_name": "2.8.0rc2",
+          "published_at": "2026-10-18T18:42:22Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.8.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631198,
+          "tag_name": "2.8.0rc1",
+          "published_at": "2026-10-18T18:42:20Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.8.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416631177,
+          "tag_name": "2.7.0",
+          "published_at": "2026-10-18T18:42:18Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631156,
+          "tag_name": "2.6.0",
+          "published_at": "2026-10-18T18:42:15Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631061,
+          "tag_name": "2.3.2",
+          "published_at": "2026-10-18T18:42:06Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631136,
+          "tag_name": "2.5.0",
+          "published_at": "2026-10-18T18:42:13Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631104,
+          "tag_name": "2.4.1",
+          "published_at": "2026-10-18T18:42:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631079,
+          "tag_name": "2.4.0",
+          "published_at": "2026-10-18T18:42:08Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631044,
+          "tag_name": "2.3.1",
+          "published_at": "2026-10-18T18:42:03Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631025,
+          "tag_name": "2.3.0",
+          "published_at": "2026-10-18T18:42:01Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416631002,
+          "tag_name": "2.2.1",
+          "published_at": "2026-10-18T18:41:59Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630988,
+          "tag_name": "2.2.0",
+          "published_at": "2026-10-18T18:41:57Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630972,
+          "tag_name": "2.1.1",
+          "published_at": "2026-10-18T18:41:54Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630952,
+          "tag_name": "2.1.0",
+          "published_at": "2026-10-18T18:41:52Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630931,
+          "tag_name": "2.0.2",
+          "published_at": "2026-10-18T18:41:50Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630916,
+          "tag_name": "2.0.1",
+          "published_at": "2026-10-18T18:41:48Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630908,
+          "tag_name": "2.0.0",
+          "published_at": "2026-10-18T18:41:45Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630891,
+          "tag_name": "1.9.2",
+          "published_at": "2026-10-18T18:41:43Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630866,
+          "tag_name": "1.9.1",
+          "published_at": "2026-10-18T18:41:41Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630847,
+          "tag_name": "1.9.0",
+          "published_at": "2026-10-18T18:41:39Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630828,
+          "tag_name": "1.8.1",
+          "published_at": "2026-10-18T18:41:36Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630808,
+          "tag_name": "1.8.0",
+          "published_at": "2026-10-18T18:41:34Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630793,
+          "tag_name": "1.7.2",
+          "published_at": "2026-10-18T18:41:32Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630772,
+          "tag_name": "1.7.1",
+          "published_at": "2026-10-18T18:41:30Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630743,
+          "tag_name": "1.7.0",
+          "published_at": "2026-10-18T18:41:27Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630729,
+          "tag_name": "1.6.1",
+          "published_at": "2026-10-18T18:41:25Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630711,
+          "tag_name": "1.6.0",
+          "published_at": "2026-10-18T18:41:23Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630683,
+          "tag_name": "1.5.0",
+          "published_at": "2026-10-18T18:41:21Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630660,
+          "tag_name": "1.4.3",
+          "published_at": "2026-10-18T18:41:19Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630630,
+          "tag_name": "1.4.2",
+          "published_at": "2026-10-18T18:41:16Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.4.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "14f99a46d383ef65152829848914ee167f4ea998fcb2c95b2731f30d7cd62fed"
+    },
+    {
+      "url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=12",
+      "response_url": "https://api.github.com/repos/tox-dev/tox/releases?per_page=30&page=12",
+      "size": 30,
+      "page": 12,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:47.022Z",
+      "end": true,
+      "records": [
+        {
+          "id": 416630612,
+          "tag_name": "1.4.1",
+          "published_at": "2026-10-18T18:41:14Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630582,
+          "tag_name": "1.4",
+          "published_at": "2026-10-18T18:41:12Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630560,
+          "tag_name": "1.3",
+          "published_at": "2026-10-18T18:41:10Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630538,
+          "tag_name": "1.2",
+          "published_at": "2026-10-18T18:41:07Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630523,
+          "tag_name": "1.1",
+          "published_at": "2026-10-18T18:41:05Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630507,
+          "tag_name": "1.0",
+          "published_at": "2026-10-18T18:41:03Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630484,
+          "tag_name": "0.9",
+          "published_at": "2026-10-18T18:41:00Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630467,
+          "tag_name": "0.8",
+          "published_at": "2026-10-18T18:40:58Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630442,
+          "tag_name": "0.6",
+          "published_at": "2026-10-18T18:40:56Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416630418,
+          "tag_name": "0.5",
+          "published_at": "2026-10-18T18:40:54Z",
+          "html_url": "https://github.com/tox-dev/tox/releases/tag/0.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "aa58f544237a753369fd81311c3b11b912cb0a84e270f6bff869a8a81bd64206"
+    }
+  ]
+}

@@ -1,0 +1,2910 @@
+{
+  "candidate": "jupyterlab/jupyterlab",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=1",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=1",
+      "size": 15,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:18.800Z",
+      "end": false,
+      "records": [
+        {
+          "id": 436610519,
+          "tag_name": "v4.7.0b1",
+          "published_at": "2026-11-06T15:11:23Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.7.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 436550837,
+          "tag_name": "v4.6.6",
+          "published_at": "2026-11-06T14:18:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 427846096,
+          "tag_name": "v4.6.5",
+          "published_at": "2026-10-29T15:36:59Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 426846295,
+          "tag_name": "v4.7.0b0",
+          "published_at": "2026-10-28T19:12:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.7.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 393124447,
+          "tag_name": "v4.7.0a2",
+          "published_at": "2026-09-21T17:11:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.7.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 393058981,
+          "tag_name": "v4.6.4",
+          "published_at": "2026-09-21T15:39:48Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 393100403,
+          "tag_name": "v4.5.11",
+          "published_at": "2026-09-21T16:31:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368103935,
+          "tag_name": "v4.6.3",
+          "published_at": "2026-08-10T19:46:47Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357348978,
+          "tag_name": "v4.7.0a1",
+          "published_at": "2026-07-21T13:24:03Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.7.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 357304668,
+          "tag_name": "v4.6.2",
+          "published_at": "2026-07-21T12:15:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357326515,
+          "tag_name": "v4.5.10",
+          "published_at": "2026-07-21T12:53:34Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 346234257,
+          "tag_name": "v4.7.0a0",
+          "published_at": "2026-06-29T12:19:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.7.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 346251397,
+          "tag_name": "v4.6.1",
+          "published_at": "2026-06-29T12:57:28Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 341425203,
+          "tag_name": "v4.6.0",
+          "published_at": "2026-06-18T14:11:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 340727541,
+          "tag_name": "v4.6.0rc1",
+          "published_at": "2026-06-17T12:43:03Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0rc1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "eda349e1347aff8f515d82ed53ef11407ddad6e356124deb8c1ba2335f65db2e"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=2",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=2",
+      "size": 15,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:23.574Z",
+      "end": false,
+      "records": [
+        {
+          "id": 340864576,
+          "tag_name": "v4.5.9",
+          "published_at": "2026-06-17T15:51:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 337193012,
+          "tag_name": "v4.6.0rc0",
+          "published_at": "2026-06-10T12:13:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 334313707,
+          "tag_name": "v4.5.8",
+          "published_at": "2026-06-04T12:45:04Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 330907746,
+          "tag_name": "v4.6.0b1",
+          "published_at": "2026-05-28T15:13:46Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 326035061,
+          "tag_name": "v4.6.0b0",
+          "published_at": "2026-05-20T15:11:24Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 315281212,
+          "tag_name": "v4.6.0a5",
+          "published_at": "2026-04-29T15:55:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0a5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 315305900,
+          "tag_name": "v4.5.7",
+          "published_at": "2026-04-29T16:53:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 295654836,
+          "tag_name": "v4.6.0a4",
+          "published_at": "2026-03-11T13:46:21Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0a4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 295673836,
+          "tag_name": "v4.5.6",
+          "published_at": "2026-03-11T14:25:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289507219,
+          "tag_name": "v4.6.0a3",
+          "published_at": "2026-02-23T17:41:47Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 289533158,
+          "tag_name": "v4.5.5",
+          "published_at": "2026-02-23T19:06:05Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 285048240,
+          "tag_name": "v4.5.4",
+          "published_at": "2026-02-11T00:34:45Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 279390929,
+          "tag_name": "v4.5.3",
+          "published_at": "2026-01-23T15:12:34Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 279100233,
+          "tag_name": "v4.6.0a2",
+          "published_at": "2026-01-22T18:10:20Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 276024800,
+          "tag_name": "v4.6.0a1",
+          "published_at": "2026-01-12T14:27:26Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0a1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "5d5799002e223295ae108ace9739ea5acb4c48f4b673ddc5d976c7868e32b542"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=3",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=3",
+      "size": 15,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:26.433Z",
+      "end": false,
+      "records": [
+        {
+          "id": 275988948,
+          "tag_name": "v4.5.2",
+          "published_at": "2026-01-12T12:34:38Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 270485598,
+          "tag_name": "v4.6.0a0",
+          "published_at": "2025-12-15T18:16:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.6.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 270468630,
+          "tag_name": "v4.5.1",
+          "published_at": "2025-12-15T17:07:15Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 263286898,
+          "tag_name": "v4.5.0",
+          "published_at": "2025-11-18T13:28:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 262260967,
+          "tag_name": "v4.5.0rc1",
+          "published_at": "2025-11-13T22:28:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 258488558,
+          "tag_name": "v4.5.0rc0",
+          "published_at": "2025-10-30T14:34:33Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 256381179,
+          "tag_name": "v4.4.10",
+          "published_at": "2025-10-22T14:58:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 255102694,
+          "tag_name": "v4.5.0b1",
+          "published_at": "2025-10-16T18:43:53Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 250506508,
+          "tag_name": "v4.5.0b0",
+          "published_at": "2025-09-27T16:38:36Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 250363251,
+          "tag_name": "v4.4.9",
+          "published_at": "2025-09-26T17:35:29Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 250068442,
+          "tag_name": "v4.4.8",
+          "published_at": "2025-09-25T17:33:46Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 248948536,
+          "tag_name": "v4.5.0a4",
+          "published_at": "2025-09-22T07:59:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0a4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 244439086,
+          "tag_name": "v4.4.7",
+          "published_at": "2025-09-03T13:34:18Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 240215923,
+          "tag_name": "v4.5.0a3",
+          "published_at": "2025-08-15T13:40:40Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 240200018,
+          "tag_name": "v4.4.6",
+          "published_at": "2025-08-15T11:50:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.6",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "435217207cea0bfa9b2a00440f3fd1e375ee2a3d7541738c3c8a07b29788ed34"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=4",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=15&page=4",
+      "size": 15,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:29.446Z",
+      "end": false,
+      "records": [
+        {
+          "id": 238628436,
+          "tag_name": "v4.5.0a2",
+          "published_at": "2025-08-08T15:40:29Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 233739846,
+          "tag_name": "v4.4.5",
+          "published_at": "2025-07-20T09:28:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 228532396,
+          "tag_name": "v4.4.4",
+          "published_at": "2025-06-28T13:14:34Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 227421299,
+          "tag_name": "v4.3.8",
+          "published_at": "2025-06-24T16:59:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 220978408,
+          "tag_name": "v4.5.0a1",
+          "published_at": "2025-05-26T12:02:29Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 220963130,
+          "tag_name": "v4.4.3",
+          "published_at": "2025-05-26T11:25:08Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 216942235,
+          "tag_name": "v4.5.0a0",
+          "published_at": "2025-05-07T07:33:09Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.5.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 216734242,
+          "tag_name": "v4.4.2",
+          "published_at": "2025-05-06T12:36:48Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215840921,
+          "tag_name": "v4.3.7",
+          "published_at": "2025-04-30T19:07:46Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 213993705,
+          "tag_name": "v4.4.1",
+          "published_at": "2025-04-22T18:31:38Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 210153783,
+          "tag_name": "v4.4.0",
+          "published_at": "2025-04-03T16:41:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209887599,
+          "tag_name": "v4.4.0rc1",
+          "published_at": "2025-04-02T16:02:58Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 208176241,
+          "tag_name": "v4.4.0rc0",
+          "published_at": "2025-03-25T16:41:34Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 206975399,
+          "tag_name": "v4.4.0b2",
+          "published_at": "2025-03-19T20:28:40Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 205821399,
+          "tag_name": "v4.3.6",
+          "published_at": "2025-03-14T12:14:39Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.6",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "41837dfa722548938abe45a47fd3a0e2df23e86a7ed7fd2bc622c4360d9584d2"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=13",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=13",
+      "size": 5,
+      "page": 13,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:31.544Z",
+      "end": false,
+      "records": [
+        {
+          "id": 205662960,
+          "tag_name": "v4.4.0b1",
+          "published_at": "2025-03-13T18:54:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 201294012,
+          "tag_name": "v4.4.0b0",
+          "published_at": "2025-02-19T22:30:44Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 197434436,
+          "tag_name": "v4.3.5",
+          "published_at": "2025-01-29T19:35:52Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 197211226,
+          "tag_name": "v4.4.0a3",
+          "published_at": "2025-01-28T18:45:37Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 193683569,
+          "tag_name": "v4.2.7",
+          "published_at": "2025-01-08T12:37:17Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "739b0720fd9c41ea9fb392ec2a922ac19c4a6c27c56b8be17d0b4a88d07e42eb"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=14",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=14",
+      "size": 5,
+      "page": 14,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:32.963Z",
+      "end": false,
+      "records": [
+        {
+          "id": 193295126,
+          "tag_name": "v4.4.0a2",
+          "published_at": "2025-01-06T16:33:40Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 191474274,
+          "tag_name": "v4.4.0a1",
+          "published_at": "2024-12-18T16:15:59Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 191463063,
+          "tag_name": "v4.3.4",
+          "published_at": "2024-12-18T15:27:52Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 189943335,
+          "tag_name": "v4.3.3",
+          "published_at": "2024-12-10T12:54:38Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 188773603,
+          "tag_name": "v4.3.2",
+          "published_at": "2024-12-03T18:50:57Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "a1b8d5fd01b2b8851ee2ddbca725a5d547c5c173db88d4536361609dbb3f2c19"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=15",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=15",
+      "size": 5,
+      "page": 15,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:34.677Z",
+      "end": false,
+      "records": [
+        {
+          "id": 185820681,
+          "tag_name": "v4.4.0a0",
+          "published_at": "2024-11-19T23:42:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 185762652,
+          "tag_name": "v4.3.1",
+          "published_at": "2024-11-16T15:25:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185725901,
+          "tag_name": "v4.2.6",
+          "published_at": "2024-11-15T23:41:21Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 182742787,
+          "tag_name": "v4.3.0",
+          "published_at": "2024-10-30T17:14:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 181642224,
+          "tag_name": "v4.3.0rc1",
+          "published_at": "2024-10-24T06:17:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0rc1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "c1be9b465468d8e4d1a4cbbfe95f299fbe619d64c607f2eb7c04d4cc7f21b57c"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=16",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=16",
+      "size": 5,
+      "page": 16,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:35.840Z",
+      "end": false,
+      "records": [
+        {
+          "id": 179759471,
+          "tag_name": "v4.3.0rc0",
+          "published_at": "2024-10-14T10:04:45Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 178751324,
+          "tag_name": "v4.3.0b3",
+          "published_at": "2024-10-07T18:55:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 177329080,
+          "tag_name": "v4.3.0b2",
+          "published_at": "2024-09-27T17:01:40Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 172003391,
+          "tag_name": "v4.3.0b1",
+          "published_at": "2024-08-26T19:18:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 172003443,
+          "tag_name": "v4.2.5",
+          "published_at": "2024-08-26T19:43:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "64aa7586e5205d83b1444a198bb32bb7f3cab5e127c9936cb3a70a55284f04fa"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=17",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=17",
+      "size": 5,
+      "page": 17,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:37.230Z",
+      "end": false,
+      "records": [
+        {
+          "id": 172010838,
+          "tag_name": "v3.6.8",
+          "published_at": "2024-08-26T20:31:29Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169682235,
+          "tag_name": "v4.3.0b0",
+          "published_at": "2024-08-11T19:44:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 166089951,
+          "tag_name": "v4.2.4",
+          "published_at": "2024-07-18T16:50:22Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 164951623,
+          "tag_name": "v4.3.0a2",
+          "published_at": "2024-07-11T10:30:00Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 163042176,
+          "tag_name": "v4.3.0a1",
+          "published_at": "2024-06-28T18:43:06Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0a1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "b45da9205c73fca70f5effa2d5365590c305c10e63960b603fe37d40a393b05a"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=18",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=18",
+      "size": 5,
+      "page": 18,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:43.640Z",
+      "end": false,
+      "records": [
+        {
+          "id": 162573539,
+          "tag_name": "v4.2.3",
+          "published_at": "2024-06-26T15:56:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159629445,
+          "tag_name": "v4.2.2",
+          "published_at": "2024-06-10T09:50:18Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157079666,
+          "tag_name": "v4.3.0a0",
+          "published_at": "2024-05-23T10:12:53Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 157063093,
+          "tag_name": "v4.2.1",
+          "published_at": "2024-05-23T08:34:21Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154428437,
+          "tag_name": "v4.2.0",
+          "published_at": "2024-05-06T15:58:00Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "aec0da8aabd7aa6199fdfc92223b56e74c18db052bf1adab0806980747b51c62"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=19",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=19",
+      "size": 5,
+      "page": 19,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:45.578Z",
+      "end": false,
+      "records": [
+        {
+          "id": 153060577,
+          "tag_name": "v4.2.0rc0",
+          "published_at": "2024-04-26T22:19:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 153050096,
+          "tag_name": "v4.1.8",
+          "published_at": "2024-04-26T20:32:17Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152952509,
+          "tag_name": "v4.1.7",
+          "published_at": "2024-04-26T09:45:05Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151996947,
+          "tag_name": "v4.2.0b3",
+          "published_at": "2024-04-19T20:08:45Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 151826577,
+          "tag_name": "v4.2.0b2",
+          "published_at": "2024-04-18T22:05:35Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0b2",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "e89bfee2c31c863091355214dbfde8e6494363de33e749ac66264b96811326e9"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=20",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=20",
+      "size": 5,
+      "page": 20,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:47.213Z",
+      "end": false,
+      "records": [
+        {
+          "id": 150441408,
+          "tag_name": "v4.2.0b1",
+          "published_at": "2024-04-09T17:58:47Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 150224595,
+          "tag_name": "v4.1.6",
+          "published_at": "2024-04-08T14:10:11Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149434682,
+          "tag_name": "v4.2.0b0",
+          "published_at": "2024-04-02T17:59:14Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 148192860,
+          "tag_name": "v4.2.0a2",
+          "published_at": "2024-03-25T12:38:04Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 146630196,
+          "tag_name": "v4.2.0a1",
+          "published_at": "2024-03-14T17:45:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0a1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "a77e9ce703e42da8cff39b385316197a489b619d8f012638abdfa1801b653660"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=21",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=21",
+      "size": 5,
+      "page": 21,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:48.406Z",
+      "end": false,
+      "records": [
+        {
+          "id": 146624744,
+          "tag_name": "v4.1.5",
+          "published_at": "2024-03-14T17:16:09Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145260443,
+          "tag_name": "v4.1.4",
+          "published_at": "2024-03-07T13:50:32Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144853864,
+          "tag_name": "v4.2.0a0",
+          "published_at": "2024-03-05T12:53:13Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.2.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 144732931,
+          "tag_name": "v4.1.3",
+          "published_at": "2024-03-04T22:58:49Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143661331,
+          "tag_name": "v4.0.13",
+          "published_at": "2024-02-26T17:06:05Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.13",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9c342502c1e6177e7195e867a1f99954bda10e1d6e72619a88fff1b331df518f"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=22",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=22",
+      "size": 5,
+      "page": 22,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:49.413Z",
+      "end": false,
+      "records": [
+        {
+          "id": 142664002,
+          "tag_name": "v4.1.2",
+          "published_at": "2024-02-19T22:39:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 141717858,
+          "tag_name": "v4.1.1",
+          "published_at": "2024-02-13T00:38:44Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 139878174,
+          "tag_name": "v4.1.0",
+          "published_at": "2024-02-05T10:25:21Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 139477747,
+          "tag_name": "v4.1.0rc1",
+          "published_at": "2024-02-01T11:40:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 139132946,
+          "tag_name": "v4.0.12",
+          "published_at": "2024-01-30T14:28:14Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.12",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "d99bcbfeb90d389002fef4d94f04ce7f9fae7901dfa15cb6716434c2ec7c1952"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=23",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=23",
+      "size": 5,
+      "page": 23,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:50.340Z",
+      "end": false,
+      "records": [
+        {
+          "id": 138794225,
+          "tag_name": "v4.1.0rc0",
+          "published_at": "2024-01-27T22:38:12Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 137785560,
+          "tag_name": "v4.1.0b2",
+          "published_at": "2024-01-19T19:48:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 137718949,
+          "tag_name": "v4.0.11",
+          "published_at": "2024-01-19T19:48:31Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137726205,
+          "tag_name": "v3.6.7",
+          "published_at": "2024-01-19T19:47:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137461035,
+          "tag_name": "v4.1.0b1",
+          "published_at": "2024-01-17T22:16:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0b1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "a45e8696424a091df041e41f496b4e7e82378d82fc311e9f15618b4c02a4201f"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=24",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=24",
+      "size": 5,
+      "page": 24,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:51.545Z",
+      "end": false,
+      "records": [
+        {
+          "id": 135374538,
+          "tag_name": "v4.0.10",
+          "published_at": "2023-12-29T17:40:36Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 134653011,
+          "tag_name": "v4.1.0b0",
+          "published_at": "2023-12-20T16:55:09Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 132117341,
+          "tag_name": "v4.1.0a4",
+          "published_at": "2023-11-30T16:24:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0a4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 130072520,
+          "tag_name": "v4.0.9",
+          "published_at": "2023-11-18T15:13:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 129061692,
+          "tag_name": "v4.1.0a3",
+          "published_at": "2023-11-12T18:53:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0a3",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "31966e1874321dc88a76d13883c9015704d5244994b192e8175b108c1481dc00"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=25",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=25",
+      "size": 5,
+      "page": 25,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:52.509Z",
+      "end": false,
+      "records": [
+        {
+          "id": 127752419,
+          "tag_name": "v4.0.8",
+          "published_at": "2023-11-02T20:09:29Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 124672498,
+          "tag_name": "v4.0.7",
+          "published_at": "2023-10-11T19:43:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123485373,
+          "tag_name": "v4.1.0a2",
+          "published_at": "2023-10-03T12:25:57Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 122558527,
+          "tag_name": "v3.6.6",
+          "published_at": "2023-09-26T08:49:44Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121214722,
+          "tag_name": "v4.0.6",
+          "published_at": "2023-09-14T21:31:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.6",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "32031c86d0f5b8f9ef9ff3e60f2dbaae741b8f4f210c5eb0750d55b3f9bcd146"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=26",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=26",
+      "size": 5,
+      "page": 26,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:53.380Z",
+      "end": false,
+      "records": [
+        {
+          "id": 118385939,
+          "tag_name": "v4.1.0a1",
+          "published_at": "2023-08-23T15:02:32Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.1.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 117039409,
+          "tag_name": "v4.0.5",
+          "published_at": "2023-08-13T12:30:29Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 114990958,
+          "tag_name": "v4.0.4",
+          "published_at": "2023-08-03T17:01:09Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112084841,
+          "tag_name": "v4.0.3",
+          "published_at": "2023-07-13T10:55:20Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 109933609,
+          "tag_name": "v3.6.5",
+          "published_at": "2023-06-26T17:05:13Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b93f409b5099449ea9da743339569e0364c9e1451c91f010de965ddc888ab553"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=27",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=27",
+      "size": 5,
+      "page": 27,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:54.389Z",
+      "end": false,
+      "records": [
+        {
+          "id": 107862835,
+          "tag_name": "v4.0.2",
+          "published_at": "2023-06-08T16:57:46Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 105489905,
+          "tag_name": "v3.6.4",
+          "published_at": "2023-05-31T10:00:20Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 105326864,
+          "tag_name": "v4.0.1",
+          "published_at": "2023-05-30T09:08:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 103033596,
+          "tag_name": "v4.0.0",
+          "published_at": "2023-05-15T16:58:46Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102100231,
+          "tag_name": "v4.0.0rc1",
+          "published_at": "2023-05-06T17:15:48Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "fea0d847ae1bc845e99c0184110db851fc4a086509026bab55065ace25510f72"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=28",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=28",
+      "size": 5,
+      "page": 28,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:55.726Z",
+      "end": false,
+      "records": [
+        {
+          "id": 101138997,
+          "tag_name": "v4.0.0rc0",
+          "published_at": "2023-04-27T15:59:07Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 100750871,
+          "tag_name": "v4.0.0b2",
+          "published_at": "2023-04-25T11:06:49Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 98531063,
+          "tag_name": "v4.0.0b1",
+          "published_at": "2023-04-07T11:49:28Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 97490775,
+          "tag_name": "v3.6.3",
+          "published_at": "2023-03-31T07:17:59Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96974462,
+          "tag_name": "v4.0.0b0",
+          "published_at": "2023-03-27T06:07:58Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0b0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "b19d38ab0d8630bc0eaed92d862b96862d15a8a9a360e36fc4df579bf775022f"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=29",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=29",
+      "size": 5,
+      "page": 29,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:57.603Z",
+      "end": false,
+      "records": [
+        {
+          "id": 96170363,
+          "tag_name": "v3.6.2",
+          "published_at": "2023-03-20T11:03:49Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96002550,
+          "tag_name": "v4.0.0a37",
+          "published_at": "2023-03-17T15:45:04Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a37",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 95591926,
+          "tag_name": "v4.0.0a36",
+          "published_at": "2023-03-14T18:06:22Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a36",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 94293510,
+          "tag_name": "v4.0.0a35",
+          "published_at": "2023-03-02T18:31:26Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a35",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 92331904,
+          "tag_name": "v4.0.0a34",
+          "published_at": "2023-02-14T14:30:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a34",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "e2370597d67dbc08655f97ce589f417eb68f8fce9c9afefa7732f5fbb342d466"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=30",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=30",
+      "size": 5,
+      "page": 30,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:58.938Z",
+      "end": false,
+      "records": [
+        {
+          "id": 91264817,
+          "tag_name": "v3.6.1",
+          "published_at": "2023-02-03T14:21:38Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91092787,
+          "tag_name": "v3.6.0",
+          "published_at": "2023-02-02T12:28:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90407907,
+          "tag_name": "v4.0.0a33",
+          "published_at": "2023-01-27T14:12:28Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a33",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 90314953,
+          "tag_name": "v3.6.0rc1",
+          "published_at": "2023-01-27T09:53:18Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 89920502,
+          "tag_name": "v3.5.3",
+          "published_at": "2023-01-23T16:56:55Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "da52e4f9791720bf8679013a153e7993d71b6d4070361e54e02bcb7783f2eff0"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=31",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=31",
+      "size": 5,
+      "page": 31,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:00.290Z",
+      "end": false,
+      "records": [
+        {
+          "id": 88469611,
+          "tag_name": "v3.6.0rc0",
+          "published_at": "2023-01-11T08:44:37Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 87976481,
+          "tag_name": "v4.0.0a32",
+          "published_at": "2023-01-05T08:33:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a32",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 86512234,
+          "tag_name": "v3.5.2",
+          "published_at": "2022-12-19T12:28:39Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 86330516,
+          "tag_name": "v3.6.0b0",
+          "published_at": "2022-12-17T18:58:05Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 85126623,
+          "tag_name": "v3.6.0a5",
+          "published_at": "2022-12-06T13:46:17Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0a5",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "e07ca1264d6433e2fd68d209d60d2a9b52648045ae01d9c553e92f07e3e8eeb2"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=32",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=32",
+      "size": 5,
+      "page": 32,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:01.661Z",
+      "end": false,
+      "records": [
+        {
+          "id": 84721231,
+          "tag_name": "v3.5.1",
+          "published_at": "2022-12-05T09:46:32Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 83501701,
+          "tag_name": "v4.0.0a31",
+          "published_at": "2022-11-18T08:11:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a31",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 83576331,
+          "tag_name": "v3.6.0a4",
+          "published_at": "2022-11-18T17:42:55Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0a4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 82717624,
+          "tag_name": "v3.6.0a3",
+          "published_at": "2022-11-10T18:56:49Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 82104447,
+          "tag_name": "v3.6.0a2",
+          "published_at": "2022-11-04T17:22:57Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0a2",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "f2648acf93725a4ddc84879e5940724663a291689b7c3469de6f1586983ca796"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=33",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=33",
+      "size": 5,
+      "page": 33,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:02.870Z",
+      "end": false,
+      "records": [
+        {
+          "id": 81575614,
+          "tag_name": "v3.6.0a1",
+          "published_at": "2022-10-31T17:58:35Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 80935482,
+          "tag_name": "v3.6.0a0",
+          "published_at": "2022-10-26T07:40:57Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.6.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 80760728,
+          "tag_name": "v3.5.0",
+          "published_at": "2022-10-24T08:17:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 79770772,
+          "tag_name": "v3.5.0rc0",
+          "published_at": "2022-10-13T13:23:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 79564824,
+          "tag_name": "v4.0.0a30",
+          "published_at": "2022-10-11T19:05:50Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a30",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "f88bfdff5bcf45404771577ec2fdc45dd6fce9498ee7f705f34b1793a4a4972e"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=34",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=34",
+      "size": 5,
+      "page": 34,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:04.091Z",
+      "end": false,
+      "records": [
+        {
+          "id": 79162497,
+          "tag_name": "v3.5.0b0",
+          "published_at": "2022-10-06T13:42:03Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 79146904,
+          "tag_name": "v3.5.0a0",
+          "published_at": "2022-10-06T12:35:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.5.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 78927272,
+          "tag_name": "v3.4.8",
+          "published_at": "2022-10-04T12:28:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78450468,
+          "tag_name": "v4.0.0a29",
+          "published_at": "2022-09-28T15:06:32Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a29",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 76887195,
+          "tag_name": "v3.4.7",
+          "published_at": "2022-09-13T07:52:50Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "eeedac72a25a52b75cabbedbca386a7a9457b196788a0212d6d16937d310d0cb"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=35",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=35",
+      "size": 5,
+      "page": 35,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:05.497Z",
+      "end": false,
+      "records": [
+        {
+          "id": 76269447,
+          "tag_name": "v4.0.0a28",
+          "published_at": "2022-09-05T09:34:39Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a28",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 76287545,
+          "tag_name": "v3.4.6",
+          "published_at": "2022-09-05T13:02:23Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74103953,
+          "tag_name": "v3.4.5",
+          "published_at": "2022-08-10T13:50:12Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73895353,
+          "tag_name": "v4.0.0a27",
+          "published_at": "2022-08-08T14:33:37Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a27",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 72535535,
+          "tag_name": "v3.4.4",
+          "published_at": "2022-07-21T14:55:23Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "642decb7c1a74aa8556cff7819ad53d81d185d4d240e2d78e8dcce8531835df4"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=36",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=36",
+      "size": 5,
+      "page": 36,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:06.799Z",
+      "end": false,
+      "records": [
+        {
+          "id": 69056815,
+          "tag_name": "v4.0.0a26",
+          "published_at": "2022-06-09T13:14:39Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a26",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 68845463,
+          "tag_name": "v3.4.3",
+          "published_at": "2022-06-07T15:09:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67248101,
+          "tag_name": "v4.0.0a25",
+          "published_at": "2022-05-19T07:38:00Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a25",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 66750301,
+          "tag_name": "v3.4.2",
+          "published_at": "2022-05-13T01:02:27Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66651250,
+          "tag_name": "v3.4.1",
+          "published_at": "2022-05-12T06:34:51Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "1eb25b9db633e9b8fdcd8fe7bf7eb568be0d5a025f68235db5796caa570aa4e8"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=37",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=37",
+      "size": 5,
+      "page": 37,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:08.022Z",
+      "end": false,
+      "records": [
+        {
+          "id": 65932604,
+          "tag_name": "v3.4.0",
+          "published_at": "2022-05-03T15:13:47Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65650837,
+          "tag_name": "v3.4.0rc0",
+          "published_at": "2022-04-29T07:36:18Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 65341391,
+          "tag_name": "v3.4.0b0",
+          "published_at": "2022-04-26T12:46:35Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 65203314,
+          "tag_name": "v4.0.0a24",
+          "published_at": "2022-04-25T08:26:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a24",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 64966476,
+          "tag_name": "v3.4.0a0",
+          "published_at": "2022-04-21T14:30:33Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.4.0a0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "2c743796adbcb13bb57112bd471e41d88832f6954a44eef225c25a1267e2ad46"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=38",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=38",
+      "size": 5,
+      "page": 38,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:09.600Z",
+      "end": false,
+      "records": [
+        {
+          "id": 64532560,
+          "tag_name": "v3.3.4",
+          "published_at": "2022-04-15T12:38:22Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63825589,
+          "tag_name": "v3.3.3",
+          "published_at": "2022-04-07T07:25:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63262872,
+          "tag_name": "v4.0.0a23",
+          "published_at": "2022-04-01T09:48:26Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a23",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 62168832,
+          "tag_name": "v4.0.0a22",
+          "published_at": "2022-03-18T08:58:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a22",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 61769386,
+          "tag_name": "v3.3.2",
+          "published_at": "2022-03-14T14:54:16Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "bb6b52bb6b7a8094234db47369b82dc5576563694ac7a9d0c29e2c609cb5ea8a"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=39",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=39",
+      "size": 5,
+      "page": 39,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:10.780Z",
+      "end": false,
+      "records": [
+        {
+          "id": 61602192,
+          "tag_name": "v4.0.0a21",
+          "published_at": "2022-03-11T13:52:28Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a21",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 61443494,
+          "tag_name": "v3.3.1",
+          "published_at": "2022-03-10T00:43:52Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60816350,
+          "tag_name": "v3.3.0",
+          "published_at": "2022-03-02T17:23:19Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60410497,
+          "tag_name": "v4.0.0a20",
+          "published_at": "2022-02-24T19:32:14Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a20",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 59881687,
+          "tag_name": "v3.3.0rc0",
+          "published_at": "2022-02-18T08:42:57Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.0rc0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "593f6d755102a1877315c19b1c21e9305966d5a06f0240066455ae02ffa987fd"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=40",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=40",
+      "size": 5,
+      "page": 40,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:12.313Z",
+      "end": false,
+      "records": [
+        {
+          "id": 59217038,
+          "tag_name": "v3.3.0b0",
+          "published_at": "2022-02-10T10:34:01Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 58669351,
+          "tag_name": "v3.2.9",
+          "published_at": "2022-02-04T09:10:07Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58599778,
+          "tag_name": "v3.3.0a3",
+          "published_at": "2022-02-03T13:58:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 57830887,
+          "tag_name": "v3.3.0a2",
+          "published_at": "2022-01-24T13:52:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56996297,
+          "tag_name": "v3.3.0a1",
+          "published_at": "2022-01-13T09:44:39Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.3.0a1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "3673b4d7d80d7059cdaa90cf1e50a016e98402315d404c83911a01356e7fa586"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=41",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=41",
+      "size": 5,
+      "page": 41,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:14.580Z",
+      "end": false,
+      "records": [
+        {
+          "id": 57044526,
+          "tag_name": "v3.2.8",
+          "published_at": "2022-01-13T18:47:11Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56907497,
+          "tag_name": "v4.0.0a19",
+          "published_at": "2022-01-12T11:12:15Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a19",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56916641,
+          "tag_name": "v3.2.7",
+          "published_at": "2022-01-12T13:05:45Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56920186,
+          "tag_name": "v3.1.19",
+          "published_at": "2022-01-12T13:49:22Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56618119,
+          "tag_name": "v3.2.6",
+          "published_at": "2022-01-07T15:18:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.6",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "d632c2a4c7f31842a81a364ecce2206cc3b95fca4826b97889dd4566b81d9a65"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=42",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=42",
+      "size": 5,
+      "page": 42,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:15.761Z",
+      "end": false,
+      "records": [
+        {
+          "id": 56396153,
+          "tag_name": "v4.0.0a18",
+          "published_at": "2022-01-04T17:44:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a18",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 55048744,
+          "tag_name": "v3.2.5",
+          "published_at": "2021-12-10T15:33:13Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54982298,
+          "tag_name": "v4.0.0a17",
+          "published_at": "2021-12-09T17:27:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a17",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 54793101,
+          "tag_name": "v4.0.0a16",
+          "published_at": "2021-12-07T13:39:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a16",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 53574244,
+          "tag_name": "v3.2.4",
+          "published_at": "2021-11-17T17:09:13Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "41334c3a0ff28bee6940b06a740ed9cc7484af1596059dfe6d52811758846517"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=43",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=43",
+      "size": 5,
+      "page": 43,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:16.813Z",
+      "end": false,
+      "records": [
+        {
+          "id": 53142166,
+          "tag_name": "v3.2.3",
+          "published_at": "2021-11-11T07:03:15Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53024569,
+          "tag_name": "v4.0.0a15",
+          "published_at": "2021-11-09T17:50:17Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a15",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 52711532,
+          "tag_name": "v3.2.2",
+          "published_at": "2021-11-04T16:49:57Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 51721614,
+          "tag_name": "v4.0.0a14",
+          "published_at": "2021-10-20T16:48:48Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a14",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 51710854,
+          "tag_name": "v3.2.1",
+          "published_at": "2021-10-20T14:42:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0b730ef7717fdd9e218c6fad6fec234211c7b7f45d60a0f1a2445b68526b58b1"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=44",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=44",
+      "size": 5,
+      "page": 44,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:17.861Z",
+      "end": false,
+      "records": [
+        {
+          "id": 51351363,
+          "tag_name": "v3.2.0",
+          "published_at": "2021-10-14T10:49:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 51028307,
+          "tag_name": "v4.0.0a13",
+          "published_at": "2021-10-08T11:35:43Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a13",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50990397,
+          "tag_name": "v3.2.0rc0",
+          "published_at": "2021-10-07T19:56:26Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50968892,
+          "tag_name": "v3.1.18",
+          "published_at": "2021-10-07T14:31:59Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50883194,
+          "tag_name": "v4.0.0a12",
+          "published_at": "2021-10-06T12:05:02Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a12",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "3ebf682bfa491f9e088332540a15afaff6d1f16da405bf3768e94411ea85dc64"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=45",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=45",
+      "size": 5,
+      "page": 45,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:19.397Z",
+      "end": false,
+      "records": [
+        {
+          "id": 50846762,
+          "tag_name": "v3.1.17",
+          "published_at": "2021-10-05T21:34:23Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50837778,
+          "tag_name": "v3.1.16",
+          "published_at": "2021-10-05T18:47:07Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50410134,
+          "tag_name": "v3.2.0b0",
+          "published_at": "2021-09-28T16:17:22Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50348513,
+          "tag_name": "v4.0.0a11",
+          "published_at": "2021-09-27T20:17:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a11",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50346743,
+          "tag_name": "v3.1.14",
+          "published_at": "2021-09-27T19:48:07Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.14",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "ec1daf48848414e3878257b1075c1137d85b2a5e13e2feb2f4de7de33c2efaf0"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=46",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=46",
+      "size": 5,
+      "page": 46,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:20.793Z",
+      "end": false,
+      "records": [
+        {
+          "id": 50173538,
+          "tag_name": "v3.2.0a1",
+          "published_at": "2021-09-24T00:22:40Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50122263,
+          "tag_name": "v3.2.0a0",
+          "published_at": "2021-09-23T10:48:19Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.2.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50062886,
+          "tag_name": "v3.1.13",
+          "published_at": "2021-09-22T14:28:07Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 49614002,
+          "tag_name": "v4.0.0a10",
+          "published_at": "2021-09-15T16:27:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a10",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 49520305,
+          "tag_name": "v3.1.12",
+          "published_at": "2021-09-14T11:47:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.12",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "5c9027b9d117c1c86b544d7f9ddd516efbeba2b4990f83eef69d207e1a645c88"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=47",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=47",
+      "size": 5,
+      "page": 47,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:21.706Z",
+      "end": false,
+      "records": [
+        {
+          "id": 49480987,
+          "tag_name": "v4.0.0a9",
+          "published_at": "2021-09-13T19:47:01Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a9",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 49213959,
+          "tag_name": "v4.0.0a8",
+          "published_at": "2021-09-08T17:00:30Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 49208401,
+          "tag_name": "v3.1.11",
+          "published_at": "2021-09-08T15:23:01Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48825166,
+          "tag_name": "v4.0.0a7",
+          "published_at": "2021-09-01T15:28:52Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48822660,
+          "tag_name": "v3.1.10",
+          "published_at": "2021-09-01T14:32:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.10",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "aecca3ef4a815b05dfdc7a66568bcead4547c9d0cc7825db25bc60114085c4d1"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=48",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=48",
+      "size": 5,
+      "page": 48,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:22.694Z",
+      "end": false,
+      "records": [
+        {
+          "id": 48453420,
+          "tag_name": "v4.0.0a6",
+          "published_at": "2021-08-25T20:53:49Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a6",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48446392,
+          "tag_name": "v3.1.9",
+          "published_at": "2021-08-25T17:25:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48379284,
+          "tag_name": "v4.0.0a5",
+          "published_at": "2021-08-24T22:02:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48365558,
+          "tag_name": "v3.1.8",
+          "published_at": "2021-08-24T15:45:20Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47897840,
+          "tag_name": "v4.0.0a4",
+          "published_at": "2021-08-16T10:28:37Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a4",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "42d8fb22a29323d412d14ffcb216a75f39842cf804ac9dce6a0d1e2d53ee1599"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=49",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=49",
+      "size": 5,
+      "page": 49,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:23.468Z",
+      "end": false,
+      "records": [
+        {
+          "id": 47896884,
+          "tag_name": "v3.1.7",
+          "published_at": "2021-08-16T09:39:16Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47758752,
+          "tag_name": "v4.0.0a3",
+          "published_at": "2021-08-12T16:53:32Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47738755,
+          "tag_name": "v3.1.6",
+          "published_at": "2021-08-12T11:45:15Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47681951,
+          "tag_name": "v4.0.0a2",
+          "published_at": "2021-08-12T10:57:35Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47561369,
+          "tag_name": "v3.1.5",
+          "published_at": "2021-08-09T19:51:56Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "87f994907333b26d3f78217b546ed17ebea6be1952c171a18a8437019947f893"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=50",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=50",
+      "size": 5,
+      "page": 50,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:24.261Z",
+      "end": false,
+      "records": [
+        {
+          "id": 47418784,
+          "tag_name": "v4.0.0a1",
+          "published_at": "2021-08-06T10:19:00Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47302055,
+          "tag_name": "v3.1.2",
+          "published_at": "2021-08-04T15:09:11Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46990354,
+          "tag_name": "v3.1.1",
+          "published_at": "2021-07-29T16:11:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46862124,
+          "tag_name": "v4.0.0a0",
+          "published_at": "2021-07-27T20:42:28Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 46859378,
+          "tag_name": "v3.1.0",
+          "published_at": "2021-07-27T19:49:13Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "44c2526fd52f1605d8118b9f43586ea4c30f2afc9fdc0fff44a9262f1ba66fa2"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=51",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=51",
+      "size": 5,
+      "page": 51,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:25.019Z",
+      "end": false,
+      "records": [
+        {
+          "id": 46556573,
+          "tag_name": "v3.1.0rc2",
+          "published_at": "2021-07-21T16:59:39Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 46142743,
+          "tag_name": "v3.1.0rc1",
+          "published_at": "2021-07-13T18:55:14Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 46140300,
+          "tag_name": "v3.1.0rc0",
+          "published_at": "2021-07-13T18:23:36Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 45834335,
+          "tag_name": "v3.1.0b1",
+          "published_at": "2021-07-07T11:53:26Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 45431059,
+          "tag_name": "v3.1.0b0",
+          "published_at": "2021-06-29T14:58:16Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0b0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "8abdab18d3c960533d48425557397dc0be8a75bd407f8c10b4d920d8fa900dcf"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=52",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=52",
+      "size": 5,
+      "page": 52,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:25.670Z",
+      "end": false,
+      "records": [
+        {
+          "id": 44738480,
+          "tag_name": "v3.1.0a13",
+          "published_at": "2021-06-16T15:51:10Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a13",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 44293509,
+          "tag_name": "v3.1.0a12",
+          "published_at": "2021-06-08T16:47:18Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a12",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 43970163,
+          "tag_name": "v3.1.0a11",
+          "published_at": "2021-06-02T12:16:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a11",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 43624794,
+          "tag_name": "v3.1.0a10",
+          "published_at": "2021-05-26T16:34:11Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a10",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 43309126,
+          "tag_name": "v3.1.0a9",
+          "published_at": "2021-05-20T18:50:25Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a9",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "35e3bbb4746ce466bf269c0b93b13d21cbb05a4b6b9fe2079c51c013e26ddea4"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=53",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=53",
+      "size": 5,
+      "page": 53,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:26.499Z",
+      "end": false,
+      "records": [
+        {
+          "id": 43161640,
+          "tag_name": "v3.0.16",
+          "published_at": "2021-05-18T18:46:17Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42856471,
+          "tag_name": "v3.1.0a8",
+          "published_at": "2021-05-12T16:46:53Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 42709394,
+          "tag_name": "v3.1.0a7",
+          "published_at": "2021-05-10T14:19:31Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 42698749,
+          "tag_name": "v3.1.0a6",
+          "published_at": "2021-05-10T11:39:09Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a6",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 42716246,
+          "tag_name": "v3.0.15",
+          "published_at": "2021-05-10T16:05:33Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.15",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "bf3a755327a6870f0ee789a1a3aded385da3c8ff27f788be6994a1703e5e7ff3"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=54",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=54",
+      "size": 5,
+      "page": 54,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:27.163Z",
+      "end": false,
+      "records": [
+        {
+          "id": 41634422,
+          "tag_name": "v3.1.0a5",
+          "published_at": "2021-04-19T10:11:34Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 41281182,
+          "tag_name": "v3.0.14",
+          "published_at": "2021-04-12T13:51:33Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 41175346,
+          "tag_name": "v3.1.0a4",
+          "published_at": "2021-04-09T10:45:52Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.1.0a4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 41116015,
+          "tag_name": "v3.0.13",
+          "published_at": "2021-04-08T11:31:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 38453502,
+          "tag_name": "v3.0.9",
+          "published_at": "2021-02-22T22:25:38Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.9",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "fbb4f8dc92ee76da281d6cd6fcfd780a1ae38a763950426a13ec3600e39f9ca2"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=55",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=55",
+      "size": 5,
+      "page": 55,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:27.880Z",
+      "end": false,
+      "records": [
+        {
+          "id": 18043454,
+          "tag_name": "v1.0.0a8",
+          "published_at": "2019-06-17T17:42:04Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v1.0.0a8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 10573542,
+          "tag_name": "v0.32.0",
+          "published_at": "2018-04-16T22:17:51Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.32.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9194060,
+          "tag_name": "v0.31.0",
+          "published_at": "2018-01-11T11:32:37Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.31.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8775363,
+          "tag_name": "v0.30.0",
+          "published_at": "2017-12-05T11:19:19Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.30.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8560912,
+          "tag_name": "v0.29.2",
+          "published_at": "2017-11-17T12:39:41Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.29.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "758b0314f34e243b52aab7803347bcaab80c252b737930197c4227b5afc16c5c"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=56",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=56",
+      "size": 5,
+      "page": 56,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:28.497Z",
+      "end": false,
+      "records": [
+        {
+          "id": 8453609,
+          "tag_name": "v0.29.0",
+          "published_at": "2017-11-09T16:34:04Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.29.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8141223,
+          "tag_name": "v0.28.0",
+          "published_at": "2017-10-16T22:50:03Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7492543,
+          "tag_name": "v0.27.0",
+          "published_at": "2017-08-23T11:57:49Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7127152,
+          "tag_name": "v0.26.0",
+          "published_at": "2017-07-21T18:24:54Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6964479,
+          "tag_name": "v0.25.0",
+          "published_at": "2017-07-07T12:40:35Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.25.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "eb4a6a76905aab012a4ea4f3221cda5dcc40cd1e3c7161a9e07fb1bc2bff8ad2"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=57",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=57",
+      "size": 5,
+      "page": 57,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:29.242Z",
+      "end": false,
+      "records": [
+        {
+          "id": 6737586,
+          "tag_name": "v0.24.0",
+          "published_at": "2017-06-16T12:31:15Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6580418,
+          "tag_name": "v0.23.0",
+          "published_at": "2017-06-02T01:42:42Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6434229,
+          "tag_name": "v0.22.0",
+          "published_at": "2017-05-18T19:21:18Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6154368,
+          "tag_name": "v0.20.0",
+          "published_at": "2017-04-21T21:58:59Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5973826,
+          "tag_name": "v0.19.0",
+          "published_at": "2017-04-04T17:30:06Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.19.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "76905cef5d088f083204ba0b5fde5cacd5094c7604190cc9311219afc561e758"
+    },
+    {
+      "url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=58",
+      "response_url": "https://api.github.com/repos/jupyterlab/jupyterlab/releases?per_page=5&page=58",
+      "size": 5,
+      "page": 58,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:30.003Z",
+      "end": true,
+      "records": [
+        {
+          "id": 5819388,
+          "tag_name": "v0.18.0",
+          "published_at": "2017-03-21T15:41:21Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5606025,
+          "tag_name": "v0.17.0",
+          "published_at": "2017-03-01T13:29:07Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5412683,
+          "tag_name": "v0.16.0",
+          "published_at": "2017-02-09T20:02:31Z",
+          "html_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v0.16.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "bc286724ea1581dccc94726f0612d5711b9ba336b4ae09b5543336b59d107b8b"
+    }
+  ]
+}

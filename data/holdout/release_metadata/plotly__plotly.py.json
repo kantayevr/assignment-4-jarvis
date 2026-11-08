@@ -1,0 +1,926 @@
+{
+  "candidate": "plotly/plotly.py",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:47.429Z",
+      "end": false,
+      "records": [
+        {
+          "id": 389406848,
+          "tag_name": "v7.1.0",
+          "published_at": "2026-09-15T19:15:12Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v7.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 376594447,
+          "tag_name": "v7.0.0",
+          "published_at": "2026-08-25T17:43:58Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v7.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 361908444,
+          "tag_name": "v7.0.0rc0",
+          "published_at": "2026-07-29T16:47:39Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v7.0.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 351597576,
+          "tag_name": "v6.9.0",
+          "published_at": "2026-07-09T14:53:20Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 333918051,
+          "tag_name": "v6.8.0",
+          "published_at": "2026-06-03T18:30:27Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 307262321,
+          "tag_name": "v6.7.0",
+          "published_at": "2026-04-09T20:32:54Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292251178,
+          "tag_name": "v6.6.0",
+          "published_at": "2026-03-02T21:07:29Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 276871351,
+          "tag_name": "v6.5.2",
+          "published_at": "2026-01-14T21:25:39Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 274884692,
+          "tag_name": "v6.5.1",
+          "published_at": "2026-01-07T16:34:29Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 263064865,
+          "tag_name": "v6.5.0",
+          "published_at": "2025-11-17T18:37:45Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 259652170,
+          "tag_name": "v6.4.0",
+          "published_at": "2025-11-04T17:53:00Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 251781213,
+          "tag_name": "v6.3.1",
+          "published_at": "2025-10-02T15:58:03Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 239486383,
+          "tag_name": "v6.3.0",
+          "published_at": "2025-08-12T20:24:33Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 228067886,
+          "tag_name": "v6.2.0",
+          "published_at": "2025-06-26T16:24:04Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221372107,
+          "tag_name": "v6.1.2",
+          "published_at": "2025-05-27T20:20:08Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 219887187,
+          "tag_name": "v6.1.1",
+          "published_at": "2025-05-20T20:08:00Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 218893301,
+          "tag_name": "v6.1.0",
+          "published_at": "2025-05-15T16:02:52Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 216232968,
+          "tag_name": "v6.1.0rc0",
+          "published_at": "2025-05-02T19:12:57Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.1.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 209428170,
+          "tag_name": "v6.0.1b0",
+          "published_at": "2025-03-31T19:01:09Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.0.1b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 205935329,
+          "tag_name": "v6.0.1",
+          "published_at": "2025-03-17T15:02:47Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 197227766,
+          "tag_name": "v6.0.0",
+          "published_at": "2025-01-28T19:45:30Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187903170,
+          "tag_name": "v6.0.0rc0",
+          "published_at": "2024-11-27T20:25:21Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v6.0.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 174795724,
+          "tag_name": "v5.24.1",
+          "published_at": "2024-09-12T15:42:27Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172622872,
+          "tag_name": "v5.24.0",
+          "published_at": "2024-08-29T17:58:45Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 166713383,
+          "tag_name": "v5.23.0",
+          "published_at": "2024-07-23T13:47:17Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153669819,
+          "tag_name": "v5.22.0",
+          "published_at": "2024-05-01T14:04:11Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151586057,
+          "tag_name": "v5.21.0",
+          "published_at": "2024-04-17T15:27:19Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146361687,
+          "tag_name": "v5.20.0",
+          "published_at": "2024-03-13T16:27:36Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142182284,
+          "tag_name": "v5.19.0",
+          "published_at": "2024-02-15T15:49:11Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 126670777,
+          "tag_name": "v5.18.0",
+          "published_at": "2023-10-25T19:52:56Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.18.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "8316c4d6727aef82a8a9e593ead20ded36b43af3076dfe7547e1e12bf1da2439"
+    },
+    {
+      "url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:48.080Z",
+      "end": false,
+      "records": [
+        {
+          "id": 121325096,
+          "tag_name": "v5.17.0",
+          "published_at": "2023-09-15T15:44:22Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117505528,
+          "tag_name": "v5.16.1",
+          "published_at": "2023-08-16T18:25:11Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 116116311,
+          "tag_name": "v5.16.0",
+          "published_at": "2023-08-11T20:13:38Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 107859737,
+          "tag_name": "v5.15.0",
+          "published_at": "2023-06-08T16:08:55Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 98235897,
+          "tag_name": "v5.14.1",
+          "published_at": "2023-04-05T18:48:14Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 97374964,
+          "tag_name": "v5.14.0",
+          "published_at": "2023-03-29T19:58:35Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93600478,
+          "tag_name": "v5.13.1",
+          "published_at": "2023-02-24T16:34:40Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89955593,
+          "tag_name": "v5.13.0",
+          "published_at": "2023-01-23T19:05:38Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88905464,
+          "tag_name": "v5.12.0",
+          "published_at": "2023-01-13T19:26:39Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 81237691,
+          "tag_name": "v5.11.0",
+          "published_at": "2022-10-27T17:34:35Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74212008,
+          "tag_name": "v5.10.0",
+          "published_at": "2022-08-11T14:41:24Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 70446583,
+          "tag_name": "v5.9.0",
+          "published_at": "2022-06-24T01:10:19Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 69176054,
+          "tag_name": "v5.8.2",
+          "published_at": "2022-06-10T16:45:47Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68962367,
+          "tag_name": "v5.8.1",
+          "published_at": "2022-06-08T14:42:58Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66530996,
+          "tag_name": "v5.8.0",
+          "published_at": "2022-05-11T01:36:25Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63651453,
+          "tag_name": "v5.7.0",
+          "published_at": "2022-04-05T16:31:26Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59161818,
+          "tag_name": "v5.6.0",
+          "published_at": "2022-02-09T18:43:08Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 55717018,
+          "tag_name": "v5.5.0",
+          "published_at": "2021-12-21T03:50:17Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53395148,
+          "tag_name": "v5.4.0",
+          "published_at": "2021-11-15T14:40:20Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48784006,
+          "tag_name": "v5.3.1",
+          "published_at": "2021-09-01T01:27:28Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48643672,
+          "tag_name": "v5.3.0",
+          "published_at": "2021-08-30T01:22:57Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48303916,
+          "tag_name": "v5.2.2",
+          "published_at": "2021-08-23T19:15:29Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47842678,
+          "tag_name": "v5.2.1",
+          "published_at": "2021-08-14T01:46:57Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 45384280,
+          "tag_name": "v5.1.0",
+          "published_at": "2021-06-28T21:06:45Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 44977466,
+          "tag_name": "v5.0.0",
+          "published_at": "2021-06-21T17:12:10Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 44221629,
+          "tag_name": "v5.0.0rc2",
+          "published_at": "2021-06-07T17:24:15Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 44221585,
+          "tag_name": "v5.0.0rc1",
+          "published_at": "2021-06-07T17:23:25Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v5.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 36291155,
+          "tag_name": "v4.14.3",
+          "published_at": "2021-01-12T17:01:21Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36246802,
+          "tag_name": "v4.14.2",
+          "published_at": "2021-01-11T20:31:54Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35043966,
+          "tag_name": "v4.14.1",
+          "published_at": "2020-12-09T13:48:45Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.14.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0afdd02b01228cf0f7ef496b0d0acf5c29f1e05721be12252d21174f78e26a59"
+    },
+    {
+      "url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:48.807Z",
+      "end": false,
+      "records": [
+        {
+          "id": 34932938,
+          "tag_name": "v4.14.0",
+          "published_at": "2020-12-07T15:01:09Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34310814,
+          "tag_name": "v4.13.0",
+          "published_at": "2020-11-23T13:51:35Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32976835,
+          "tag_name": "v4.12.0",
+          "published_at": "2020-10-23T13:32:48Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32049260,
+          "tag_name": "v4.11.0",
+          "published_at": "2020-10-01T14:11:02Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31056167,
+          "tag_name": "v4.10.0",
+          "published_at": "2020-09-10T13:15:18Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 28632640,
+          "tag_name": "v4.9.0",
+          "published_at": "2020-07-16T13:30:38Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27972740,
+          "tag_name": "v4.8.2",
+          "published_at": "2020-06-26T19:46:05Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27016222,
+          "tag_name": "v4.8.1",
+          "published_at": "2020-05-29T03:17:41Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26902632,
+          "tag_name": "v4.8.0",
+          "published_at": "2020-05-26T14:21:41Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26311104,
+          "tag_name": "v4.7.1",
+          "published_at": "2020-05-08T13:10:40Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26235333,
+          "tag_name": "v4.7.0",
+          "published_at": "2020-05-06T16:26:21Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 25365310,
+          "tag_name": "v4.6.0",
+          "published_at": "2020-04-09T14:53:26Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24442408,
+          "tag_name": "v4.5.4",
+          "published_at": "2020-03-11T20:38:08Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24276660,
+          "tag_name": "v4.5.3",
+          "published_at": "2020-03-06T04:18:32Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23952603,
+          "tag_name": "v4.5.2",
+          "published_at": "2020-02-25T05:11:13Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23821052,
+          "tag_name": "v4.5.1",
+          "published_at": "2020-02-19T21:53:30Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23051632,
+          "tag_name": "v4.5.0",
+          "published_at": "2020-01-22T20:11:39Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22117354,
+          "tag_name": "v4.4.1",
+          "published_at": "2019-12-10T16:55:59Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22112144,
+          "tag_name": "v4.4.0",
+          "published_at": "2019-12-10T14:40:00Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21399246,
+          "tag_name": "v4.3.0",
+          "published_at": "2019-11-12T11:11:10Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20818478,
+          "tag_name": "v4.2.1",
+          "published_at": "2019-10-18T21:59:56Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20758586,
+          "tag_name": "v4.2.0",
+          "published_at": "2019-10-16T22:51:37Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19122367,
+          "tag_name": "v4.1.0",
+          "published_at": "2019-08-07T00:47:18Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18687654,
+          "tag_name": "v4.0.0",
+          "published_at": "2019-07-17T21:59:45Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17714628,
+          "tag_name": "v3.10.0",
+          "published_at": "2019-05-31T19:48:01Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17182379,
+          "tag_name": "v3.9.0",
+          "published_at": "2019-05-06T23:06:50Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16869614,
+          "tag_name": "v3.8.1",
+          "published_at": "2019-04-19T14:00:43Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16765184,
+          "tag_name": "v3.8.0",
+          "published_at": "2019-04-15T12:45:21Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16320991,
+          "tag_name": "v3.7.1",
+          "published_at": "2019-03-25T10:29:13Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15997322,
+          "tag_name": "v3.7.0",
+          "published_at": "2019-03-08T15:01:04Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.7.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "2ed5da9ee43babc186c4bc440a53a007afdabc708b3f0d2bdbd441eb22b47c53"
+    },
+    {
+      "url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/plotly/plotly.py/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:49.793Z",
+      "end": true,
+      "records": [
+        {
+          "id": 15459943,
+          "tag_name": "v3.6.1",
+          "published_at": "2019-02-09T00:16:59Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15326981,
+          "tag_name": "v3.6.0",
+          "published_at": "2019-02-01T23:02:46Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15326966,
+          "tag_name": "v3.5.0",
+          "published_at": "2019-02-01T23:01:07Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14159861,
+          "tag_name": "v3.4.2",
+          "published_at": "2018-11-23T16:26:24Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13920263,
+          "tag_name": "v3.4.1",
+          "published_at": "2018-11-09T13:32:38Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13800859,
+          "tag_name": "v3.4.0",
+          "published_at": "2018-11-02T15:49:47Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13148003,
+          "tag_name": "v3.3.0",
+          "published_at": "2018-09-28T11:33:55Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12903813,
+          "tag_name": "v3.2.1",
+          "published_at": "2018-09-14T14:19:03Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12743223,
+          "tag_name": "v3.2.0",
+          "published_at": "2018-09-05T14:15:59Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12741442,
+          "tag_name": "v3.1.1",
+          "published_at": "2018-09-05T12:54:10Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12741407,
+          "tag_name": "v3.1.0",
+          "published_at": "2018-09-05T12:52:47Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12741218,
+          "tag_name": "v3.0.2",
+          "published_at": "2018-09-05T12:43:30Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12741385,
+          "tag_name": "v3.0.0",
+          "published_at": "2018-09-05T12:51:47Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v3.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5269226,
+          "tag_name": "v2.0.0",
+          "published_at": "2017-01-25T23:52:01Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5203408,
+          "tag_name": "v2.0.0-pre",
+          "published_at": "2017-01-19T09:10:52Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v2.0.0-pre",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 5135398,
+          "tag_name": "v1.13.0",
+          "published_at": "2017-01-12T00:20:51Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/v1.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1048833,
+          "tag_name": "1.6.12",
+          "published_at": "2015-03-13T21:48:10Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/1.6.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 974920,
+          "tag_name": "1.6.8",
+          "published_at": "2015-02-21T20:56:57Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/1.6.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 972996,
+          "tag_name": "1.6.7",
+          "published_at": "2015-02-20T21:01:39Z",
+          "html_url": "https://github.com/plotly/plotly.py/releases/tag/1.6.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "8e9e05e0640a665c96559b33cd55a41bfa8dedb8b6e5b1eaeae3d0cffa5c2c4c"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "A4Q001",
+    "repository": "astral-sh/ruff",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For astral-sh/ruff, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q002",
+    "repository": "astral-sh/uv",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For astral-sh/uv, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q003",
+    "repository": "python-poetry/poetry",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For python-poetry/poetry, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q004",
+    "repository": "pypa/twine",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pypa/twine, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q005",
+    "repository": "pypa/virtualenv",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pypa/virtualenv, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q006",
+    "repository": "tox-dev/tox",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For tox-dev/tox, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q007",
+    "repository": "pre-commit/pre-commit",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pre-commit/pre-commit, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q008",
+    "repository": "dask/dask",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For dask/dask, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q009",
+    "repository": "dask/distributed",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For dask/distributed, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q010",
+    "repository": "pydata/xarray",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pydata/xarray, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q011",
+    "repository": "scikit-image/scikit-image",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For scikit-image/scikit-image, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q012",
+    "repository": "plotly/plotly.py",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For plotly/plotly.py, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q013",
+    "repository": "vega/altair",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For vega/altair, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q014",
+    "repository": "mwaskom/seaborn",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For mwaskom/seaborn, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q015",
+    "repository": "joblib/joblib",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For joblib/joblib, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q016",
+    "repository": "statsmodels/statsmodels",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For statsmodels/statsmodels, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q017",
+    "repository": "aio-libs/aiohttp",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For aio-libs/aiohttp, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q018",
+    "repository": "encode/httpx",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For encode/httpx, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q019",
+    "repository": "encode/httpcore",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For encode/httpcore, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q020",
+    "repository": "encode/django-rest-framework",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For encode/django-rest-framework, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q021",
+    "repository": "scrapy/scrapy",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For scrapy/scrapy, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q022",
+    "repository": "pallets/jinja",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pallets/jinja, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q023",
+    "repository": "pallets/click",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pallets/click, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q024",
+    "repository": "celery/celery",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For celery/celery, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q025",
+    "repository": "redis/redis-py",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For redis/redis-py, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q026",
+    "repository": "psf/black",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For psf/black, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q027",
+    "repository": "sphinx-doc/sphinx",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For sphinx-doc/sphinx, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q028",
+    "repository": "mkdocs/mkdocs",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For mkdocs/mkdocs, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q029",
+    "repository": "mkdocstrings/mkdocstrings",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For mkdocstrings/mkdocstrings, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q030",
+    "repository": "dbt-labs/dbt",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For dbt-labs/dbt, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q031",
+    "repository": "PrefectHQ/prefect",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For PrefectHQ/prefect, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q032",
+    "repository": "streamlit/streamlit",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For streamlit/streamlit, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q033",
+    "repository": "jupyterlab/jupyterlab",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For jupyterlab/jupyterlab, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "A4Q034",
+    "repository": "jupyter/notebook",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For jupyter/notebook, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  }
+]

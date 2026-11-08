@@ -1,0 +1,438 @@
+{
+  "candidate": "encode/httpx",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/encode/httpx/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/encode/httpx/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:49.547Z",
+      "end": false,
+      "records": [
+        {
+          "id": 188917449,
+          "tag_name": "0.28.1",
+          "published_at": "2024-12-06T15:36:24Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.28.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 188051569,
+          "tag_name": "0.28.0",
+          "published_at": "2024-11-28T14:53:50Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172138427,
+          "tag_name": "0.27.2",
+          "published_at": "2024-08-27T12:52:29Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.27.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 171499522,
+          "tag_name": "0.27.1",
+          "published_at": "2024-08-27T11:27:46Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.27.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142968465,
+          "tag_name": "0.27.0",
+          "published_at": "2024-02-21T13:06:50Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 134415330,
+          "tag_name": "0.26.0",
+          "published_at": "2023-12-20T11:01:16Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 131230148,
+          "tag_name": "0.25.2",
+          "published_at": "2023-11-24T12:34:49Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.25.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 127872550,
+          "tag_name": "0.25.1",
+          "published_at": "2023-11-03T13:25:25Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.25.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 120613802,
+          "tag_name": "0.25.0",
+          "published_at": "2023-09-11T10:14:00Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 103443407,
+          "tag_name": "0.24.1",
+          "published_at": "2023-05-18T11:05:02Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 98894390,
+          "tag_name": "0.24.0",
+          "published_at": "2023-04-11T10:00:19Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87864417,
+          "tag_name": "0.23.3",
+          "published_at": "2023-01-04T09:39:59Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.23.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87691040,
+          "tag_name": "0.23.2",
+          "published_at": "2023-01-02T11:47:10Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.23.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 83535508,
+          "tag_name": "0.23.1",
+          "published_at": "2022-11-18T12:49:26Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.23.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67557349,
+          "tag_name": "0.23.0",
+          "published_at": "2022-05-23T15:31:24Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58014137,
+          "tag_name": "0.22.0",
+          "published_at": "2022-01-26T14:47:57Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56541369,
+          "tag_name": "0.21.3",
+          "published_at": "2022-01-06T14:37:03Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.21.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56472474,
+          "tag_name": "0.21.2",
+          "published_at": "2022-01-05T16:24:52Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.21.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53463048,
+          "tag_name": "0.21.1",
+          "published_at": "2021-11-16T11:52:02Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53389025,
+          "tag_name": "0.21.0",
+          "published_at": "2021-11-15T14:31:09Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 51268434,
+          "tag_name": "0.20.0",
+          "published_at": "2021-10-13T09:44:22Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 49510729,
+          "tag_name": "1.0.0.beta0",
+          "published_at": "2021-09-14T08:47:29Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/1.0.0.beta0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48107287,
+          "tag_name": "0.19.0",
+          "published_at": "2021-08-19T11:37:43Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 44783483,
+          "tag_name": "0.18.2",
+          "published_at": "2021-06-17T10:30:28Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42200780,
+          "tag_name": "0.18.1",
+          "published_at": "2021-04-29T12:57:22Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42076622,
+          "tag_name": "0.18.0",
+          "published_at": "2021-04-27T14:22:09Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39712938,
+          "tag_name": "0.17.1",
+          "published_at": "2021-03-15T09:18:42Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39016671,
+          "tag_name": "0.17.0",
+          "published_at": "2021-02-28T16:08:31Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32318053,
+          "tag_name": "0.16.1",
+          "published_at": "2020-10-08T12:14:39Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32221449,
+          "tag_name": "0.16.0",
+          "published_at": "2020-10-06T14:30:11Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.16.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "cc3c7d4054d97ec4451f097ee01a951d9fa5e5012ebea035e1ed57ec76f12233"
+    },
+    {
+      "url": "https://api.github.com/repos/encode/httpx/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/encode/httpx/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:50.187Z",
+      "end": true,
+      "records": [
+        {
+          "id": 32044729,
+          "tag_name": "0.15.5",
+          "published_at": "2020-10-01T12:57:55Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.15.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31808648,
+          "tag_name": "0.15.4",
+          "published_at": "2020-09-25T11:35:18Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.15.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31750680,
+          "tag_name": "0.15.3",
+          "published_at": "2020-09-24T09:39:46Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.15.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31696073,
+          "tag_name": "0.15.2",
+          "published_at": "2020-09-23T10:28:47Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31693116,
+          "tag_name": "0.15.1",
+          "published_at": "2020-09-23T09:22:49Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31647319,
+          "tag_name": "0.15.0",
+          "published_at": "2020-09-22T10:50:35Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 30576960,
+          "tag_name": "0.14.3",
+          "published_at": "2020-09-02T11:17:55Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 30045653,
+          "tag_name": "0.14.2",
+          "published_at": "2020-08-24T10:04:02Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29553761,
+          "tag_name": "0.14.1",
+          "published_at": "2020-08-11T11:04:33Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29453315,
+          "tag_name": "0.14.0",
+          "published_at": "2020-08-07T14:51:06Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27026671,
+          "tag_name": "0.13.3",
+          "published_at": "2020-05-29T10:29:09Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26949601,
+          "tag_name": "0.13.2",
+          "published_at": "2020-05-27T14:59:12Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26792183,
+          "tag_name": "0.13.1",
+          "published_at": "2020-05-22T09:34:08Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26790713,
+          "tag_name": "0.13.0",
+          "published_at": "2020-05-22T08:42:45Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26415144,
+          "tag_name": "0.13.0.dev2",
+          "published_at": "2020-05-12T09:21:06Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.0.dev2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 26230783,
+          "tag_name": "0.13.0.dev1",
+          "published_at": "2020-05-06T14:56:22Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.0.dev1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 26054388,
+          "tag_name": "0.13.0.dev0",
+          "published_at": "2020-04-30T16:10:42Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.13.0.dev0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 20612818,
+          "tag_name": "0.7.5",
+          "published_at": "2019-10-10T14:22:06Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.7.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20462068,
+          "tag_name": "0.7.4",
+          "published_at": "2019-10-04T00:36:17Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20462039,
+          "tag_name": "0.7.3",
+          "published_at": "2019-10-04T00:33:12Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19626055,
+          "tag_name": "0.7.2",
+          "published_at": "2019-08-29T14:45:37Z",
+          "html_url": "https://github.com/encode/httpx/releases/tag/0.7.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0c5ad74d7ba9191dbea235ef121bdac9da9aee1a0a3b49ed0dcc1efaa14c78d5"
+    }
+  ]
+}

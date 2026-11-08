@@ -1,0 +1,250 @@
+{
+  "candidate": "encode/django-rest-framework",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/encode/django-rest-framework/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/encode/django-rest-framework/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:52.282Z",
+      "end": true,
+      "records": [
+        {
+          "id": 405159724,
+          "tag_name": "3.18.3",
+          "published_at": "2026-10-06T21:34:17Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.18.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 405125282,
+          "tag_name": "3.18.2",
+          "published_at": "2026-10-06T20:42:38Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 384251835,
+          "tag_name": "3.18.1",
+          "published_at": "2026-09-07T18:04:31Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 366820616,
+          "tag_name": "3.18.0",
+          "published_at": "2026-08-07T14:54:02Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 365359387,
+          "tag_name": "3.17.2",
+          "published_at": "2026-08-05T07:47:41Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.17.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 300792508,
+          "tag_name": "3.17.1",
+          "published_at": "2026-03-24T16:58:58Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 298668491,
+          "tag_name": "3.17.0",
+          "published_at": "2026-03-18T20:34:08Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 238062705,
+          "tag_name": "3.16.1",
+          "published_at": "2025-08-06T17:56:01Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 208970899,
+          "tag_name": "3.16.0",
+          "published_at": "2025-03-28T14:28:49Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 192563570,
+          "tag_name": "3.15.2",
+          "published_at": "2024-12-28T10:24:43Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154366299,
+          "tag_name": "3.15.1",
+          "published_at": "2024-05-06T08:38:52Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 310786548,
+          "tag_name": "3.15.0",
+          "published_at": "2026-04-19T00:22:20Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82370479,
+          "tag_name": "3.14.0",
+          "published_at": "2022-11-08T10:37:57Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82370463,
+          "tag_name": "3.13.1",
+          "published_at": "2022-11-08T10:37:50Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82370442,
+          "tag_name": "3.13.0",
+          "published_at": "2022-11-08T10:37:39Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 43837962,
+          "tag_name": "3.12.4",
+          "published_at": "2021-05-31T07:29:11Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.12.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17042563,
+          "tag_name": "3.9.3",
+          "published_at": "2019-04-29T14:36:10Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15883736,
+          "tag_name": "3.9.2",
+          "published_at": "2019-03-03T19:23:56Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15834161,
+          "tag_name": "3.9.1",
+          "published_at": "2019-02-28T14:14:44Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15834147,
+          "tag_name": "3.9.0",
+          "published_at": "2019-02-28T14:14:18Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10427849,
+          "tag_name": "3.8.2",
+          "published_at": "2018-04-06T13:43:38Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10396943,
+          "tag_name": "3.8.1",
+          "published_at": "2018-04-04T19:12:09Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10370965,
+          "tag_name": "3.8.0",
+          "published_at": "2018-04-03T13:41:15Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9193756,
+          "tag_name": "3.7.7",
+          "published_at": "2018-01-11T11:10:11Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.7.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8979840,
+          "tag_name": "3.7.4",
+          "published_at": "2017-12-20T14:38:46Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8400992,
+          "tag_name": "3.7.3",
+          "published_at": "2017-11-06T15:40:03Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8396943,
+          "tag_name": "3.7.2",
+          "published_at": "2017-11-06T11:07:48Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8133672,
+          "tag_name": "3.7.1",
+          "published_at": "2017-10-16T13:19:15Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8023705,
+          "tag_name": "3.7.0",
+          "published_at": "2017-10-06T12:10:59Z",
+          "html_url": "https://github.com/encode/django-rest-framework/releases/tag/3.7.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "8d91ed70a94ab8d1a6346135e4af652c0307a1c10bfce1fb4be7ab02a35e5256"
+    }
+  ]
+}

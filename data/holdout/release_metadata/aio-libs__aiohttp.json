@@ -1,0 +1,2338 @@
+{
+  "candidate": "aio-libs/aiohttp",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=1",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=1",
+      "size": 5,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:02.504Z",
+      "end": false,
+      "records": [
+        {
+          "id": 409304450,
+          "tag_name": "v3.14.5",
+          "published_at": "2026-10-11T00:56:08Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.14.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 403967150,
+          "tag_name": "v3.14.4",
+          "published_at": "2026-10-05T17:34:36Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 358370892,
+          "tag_name": "v3.14.3",
+          "published_at": "2026-07-22T23:07:47Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 356959218,
+          "tag_name": "v3.14.2",
+          "published_at": "2026-07-20T19:47:24Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 335670928,
+          "tag_name": "v3.14.1",
+          "published_at": "2026-06-07T20:37:20Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.14.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "6a77dffc37b2df62e3d419557fa81e56d1ef91bcc07682dfaaf84d73ba97cd1c"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=2",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=2",
+      "size": 5,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:07.106Z",
+      "end": false,
+      "records": [
+        {
+          "id": 332727034,
+          "tag_name": "v3.14.0",
+          "published_at": "2026-06-01T19:31:54Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 303923214,
+          "tag_name": "v3.13.5",
+          "published_at": "2026-03-31T21:54:22Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.13.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 302716449,
+          "tag_name": "v3.13.4",
+          "published_at": "2026-03-28T17:12:26Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.13.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 273980415,
+          "tag_name": "v3.13.3",
+          "published_at": "2026-01-03T17:27:27Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.13.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 257974878,
+          "tag_name": "v3.13.2",
+          "published_at": "2025-10-28T20:53:36Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.13.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "dc5cf2b2c06b3fab37309a9959d668163db18d1dc7287e4fd4f4454f1643c970"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=3",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=3",
+      "size": 5,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:09.227Z",
+      "end": false,
+      "records": [
+        {
+          "id": 255326255,
+          "tag_name": "v3.13.1",
+          "published_at": "2025-10-17T13:56:44Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252522833,
+          "tag_name": "v3.13.0",
+          "published_at": "2025-10-06T19:52:33Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235842519,
+          "tag_name": "v3.12.15",
+          "published_at": "2025-07-29T05:48:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 231460193,
+          "tag_name": "v3.12.14",
+          "published_at": "2025-07-10T13:01:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 225339801,
+          "tag_name": "v3.12.13",
+          "published_at": "2025-06-14T15:11:43Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.13",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "c945d46179beea6ed703bbb70df98a2066a4fa3f8e4f26755e582b1449828985"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=4",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=4",
+      "size": 5,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:11.815Z",
+      "end": false,
+      "records": [
+        {
+          "id": 224198538,
+          "tag_name": "v3.12.12",
+          "published_at": "2025-06-10T05:16:43Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223802725,
+          "tag_name": "v3.12.11",
+          "published_at": "2025-06-07T15:49:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223792124,
+          "tag_name": "v3.12.10",
+          "published_at": "2025-06-07T12:23:12Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223130098,
+          "tag_name": "v3.12.9",
+          "published_at": "2025-06-04T16:21:33Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223015875,
+          "tag_name": "v3.12.8",
+          "published_at": "2025-06-04T10:01:47Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.8",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "22f64073f1dff2bf55df5741821918c8612cc3b9ebc1337a13859c7fe17d153d"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=5",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=5",
+      "size": 5,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:14.024Z",
+      "end": false,
+      "records": [
+        {
+          "id": 222489103,
+          "tag_name": "v3.12.7",
+          "published_at": "2025-06-02T16:29:37Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 222383112,
+          "tag_name": "v3.12.7rc0",
+          "published_at": "2025-06-02T10:11:37Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.7rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 222204421,
+          "tag_name": "v3.12.6",
+          "published_at": "2025-05-31T05:53:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 222199860,
+          "tag_name": "v3.12.5",
+          "published_at": "2025-05-31T04:05:45Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221707254,
+          "tag_name": "v3.12.4",
+          "published_at": "2025-05-29T01:32:30Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "a754e73d975200114b6ec69cc4dbd7b52345a5704a0c706cbb85612986f02bce"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=6",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=6",
+      "size": 5,
+      "page": 6,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:16.336Z",
+      "end": false,
+      "records": [
+        {
+          "id": 221692704,
+          "tag_name": "v3.12.3",
+          "published_at": "2025-05-28T23:01:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221102767,
+          "tag_name": "v3.12.2",
+          "published_at": "2025-05-26T23:59:39Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221047262,
+          "tag_name": "v3.12.1",
+          "published_at": "2025-05-26T16:19:24Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221038307,
+          "tag_name": "v3.12.1rc0",
+          "published_at": "2025-05-26T15:23:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.1rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 220817702,
+          "tag_name": "v3.12.0",
+          "published_at": "2025-05-24T22:28:46Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "8b92485239467224da6b1e6542512240b18faf31b56b6fc584eb27dd57bc3e11"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=7",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=7",
+      "size": 5,
+      "page": 7,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:19.795Z",
+      "end": false,
+      "records": [
+        {
+          "id": 220808156,
+          "tag_name": "v3.12.0rc1",
+          "published_at": "2025-05-24T19:41:43Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 220754330,
+          "tag_name": "v3.12.0rc0",
+          "published_at": "2025-05-24T00:10:36Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 220515825,
+          "tag_name": "v3.12.0b3",
+          "published_at": "2025-05-22T23:40:57Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 220490154,
+          "tag_name": "v3.12.0b2",
+          "published_at": "2025-05-22T20:49:19Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 220463937,
+          "tag_name": "v3.12.0b1",
+          "published_at": "2025-05-22T18:44:19Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0b1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "9150a09e31f31241013f84b0ad8035ea13bbfb25825a9000dbcd9a4ba1136e0e"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=8",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=8",
+      "size": 5,
+      "page": 8,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:22.560Z",
+      "end": false,
+      "records": [
+        {
+          "id": 219917241,
+          "tag_name": "v3.12.0b0",
+          "published_at": "2025-05-20T23:24:33Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 213649518,
+          "tag_name": "v3.11.18",
+          "published_at": "2025-04-21T09:39:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 213512448,
+          "tag_name": "v3.11.17",
+          "published_at": "2025-04-19T21:37:16Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209739226,
+          "tag_name": "v3.11.16",
+          "published_at": "2025-04-02T02:14:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209497757,
+          "tag_name": "v3.11.15",
+          "published_at": "2025-04-01T04:47:08Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.15",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "e4538ed85912e0e046477d69b8dedf40e11ecac67bb4f16595fe3ec1c8f59e4a"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=9",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=9",
+      "size": 5,
+      "page": 9,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:29.906Z",
+      "end": false,
+      "records": [
+        {
+          "id": 206131296,
+          "tag_name": "v3.11.14",
+          "published_at": "2025-03-17T02:41:31Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 202076310,
+          "tag_name": "v3.11.13",
+          "published_at": "2025-02-24T15:57:37Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 198710782,
+          "tag_name": "v3.11.12",
+          "published_at": "2025-02-06T00:24:12Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 191539077,
+          "tag_name": "v3.11.11",
+          "published_at": "2024-12-18T21:16:16Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 189298909,
+          "tag_name": "v3.11.10",
+          "published_at": "2024-12-05T23:49:55Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.10",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "36d266b59ae7b945bee0124482cc9fc054c5e76cc6a3cff48ae9d475936b0ce5"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=10",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=10",
+      "size": 5,
+      "page": 10,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:33.135Z",
+      "end": false,
+      "records": [
+        {
+          "id": 188372821,
+          "tag_name": "v3.11.9",
+          "published_at": "2024-12-01T23:25:29Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187888426,
+          "tag_name": "v3.11.8",
+          "published_at": "2024-11-27T18:49:58Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 186676851,
+          "tag_name": "v3.11.7",
+          "published_at": "2024-11-21T15:41:10Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 186276925,
+          "tag_name": "v3.11.6",
+          "published_at": "2024-11-19T20:08:26Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 186228334,
+          "tag_name": "v3.11.5",
+          "published_at": "2024-11-19T15:52:03Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "533df0c8d855423d3008e08069714defc1b65a6ebfc14184aa0aac5c18977518"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=11",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=11",
+      "size": 5,
+      "page": 11,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:35.230Z",
+      "end": false,
+      "records": [
+        {
+          "id": 186114314,
+          "tag_name": "v3.11.4",
+          "published_at": "2024-11-19T06:58:35Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 186085228,
+          "tag_name": "v3.11.3",
+          "published_at": "2024-11-19T01:19:27Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185538140,
+          "tag_name": "v3.11.2",
+          "published_at": "2024-11-14T23:29:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185470758,
+          "tag_name": "v3.11.1",
+          "published_at": "2024-11-14T16:36:49Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185247657,
+          "tag_name": "v3.11.0",
+          "published_at": "2024-11-13T17:30:06Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "fa3f2b3b87d75871227b2fcd6b5891db8b985da0e6b5134ace22fd48cb769bd9"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=12",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=12",
+      "size": 5,
+      "page": 12,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:53.323Z",
+      "end": false,
+      "records": [
+        {
+          "id": 185073356,
+          "tag_name": "v3.11.0rc2",
+          "published_at": "2024-11-13T02:55:31Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 185228414,
+          "tag_name": "v3.10.11",
+          "published_at": "2024-11-13T16:35:05Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185069684,
+          "tag_name": "v3.10.11rc0",
+          "published_at": "2024-11-13T02:36:54Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.11rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 184599239,
+          "tag_name": "v3.11.0rc1",
+          "published_at": "2024-11-11T03:34:13Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 184559169,
+          "tag_name": "v3.11.0rc0",
+          "published_at": "2024-11-10T12:55:53Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0rc0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "7ed8561631c4575be40f6271271c5f17430de6f41d9966be2db06af100c18f73"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=13",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=13",
+      "size": 5,
+      "page": 13,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:55.904Z",
+      "end": false,
+      "records": [
+        {
+          "id": 184538003,
+          "tag_name": "v3.11.0b5",
+          "published_at": "2024-11-10T02:15:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0b5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 184266993,
+          "tag_name": "v3.11.0b4",
+          "published_at": "2024-11-08T00:42:19Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 183832929,
+          "tag_name": "v3.11.0b3",
+          "published_at": "2024-11-06T00:08:57Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 183272114,
+          "tag_name": "v3.11.0b2",
+          "published_at": "2024-11-03T20:24:22Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 183225315,
+          "tag_name": "v3.11.0b1",
+          "published_at": "2024-11-02T20:30:25Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0b1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "eb5154b9b7a43705db340b972bb3fcb4374f560960b403d6a16f36bb525727ee"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=14",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=14",
+      "size": 5,
+      "page": 14,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:57.677Z",
+      "end": false,
+      "records": [
+        {
+          "id": 182369991,
+          "tag_name": "v3.11.0b0",
+          "published_at": "2024-10-29T00:47:29Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 179430391,
+          "tag_name": "v3.10.10",
+          "published_at": "2024-10-10T21:50:37Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178463660,
+          "tag_name": "v3.10.9",
+          "published_at": "2024-10-04T18:31:18Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 177440254,
+          "tag_name": "v3.10.8",
+          "published_at": "2024-09-28T21:40:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 177379009,
+          "tag_name": "v3.10.7",
+          "published_at": "2024-09-27T22:23:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "492a19cb488f5db9f72defd475995ef05e2464bc98d845f9f44d13ad32446768"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=15",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=15",
+      "size": 5,
+      "page": 15,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:03.337Z",
+      "end": false,
+      "records": [
+        {
+          "id": 176706419,
+          "tag_name": "v3.10.6",
+          "published_at": "2024-09-24T20:03:11Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 176520997,
+          "tag_name": "v3.10.6rc2",
+          "published_at": "2024-09-24T02:40:27Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.6rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 176506910,
+          "tag_name": "v3.10.6rc1",
+          "published_at": "2024-09-23T23:23:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.6rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 176313663,
+          "tag_name": "v3.10.6rc0",
+          "published_at": "2024-09-23T03:56:55Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.6rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 170939244,
+          "tag_name": "v3.10.5",
+          "published_at": "2024-08-19T20:07:21Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "7a0d9057ba8aafa6e5a2b3a0aacfe83daef5ee4d1747c212880ee04012aefbda"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=16",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=16",
+      "size": 5,
+      "page": 16,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:05.249Z",
+      "end": false,
+      "records": [
+        {
+          "id": 170729253,
+          "tag_name": "v3.10.4",
+          "published_at": "2024-08-17T20:08:54Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169638900,
+          "tag_name": "v3.10.3",
+          "published_at": "2024-08-10T18:19:43Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169388927,
+          "tag_name": "v3.10.2",
+          "published_at": "2024-08-08T18:27:31Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 168622570,
+          "tag_name": "v3.10.1",
+          "published_at": "2024-08-04T22:33:08Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167927109,
+          "tag_name": "v3.10.0",
+          "published_at": "2024-07-30T20:48:56Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b2c2a94499a9d5e290f99e5c568fb5b75073d677b363c48529e3ee7d7fb15e3f"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=17",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=17",
+      "size": 5,
+      "page": 17,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:07.421Z",
+      "end": false,
+      "records": [
+        {
+          "id": 167680603,
+          "tag_name": "v3.10.0rc0",
+          "published_at": "2024-07-29T15:34:42Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 166569301,
+          "tag_name": "v3.10.0b1",
+          "published_at": "2024-07-22T18:24:42Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.10.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 151417133,
+          "tag_name": "v3.9.5",
+          "published_at": "2024-04-16T17:45:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 150814217,
+          "tag_name": "v3.9.4",
+          "published_at": "2024-04-11T19:12:20Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142326785,
+          "tag_name": "v3.9.4rc0",
+          "published_at": "2024-02-16T13:38:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.4rc0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "764ab2368b163cfd6af6ad14984bc913e76752e0bbcd5c138fe5f5c9ff9dbe9a"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=18",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=18",
+      "size": 5,
+      "page": 18,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:09.618Z",
+      "end": false,
+      "records": [
+        {
+          "id": 139007446,
+          "tag_name": "v3.9.3",
+          "published_at": "2024-01-29T20:38:47Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 138833010,
+          "tag_name": "v3.9.2",
+          "published_at": "2024-01-28T21:45:57Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 131472301,
+          "tag_name": "v3.9.1",
+          "published_at": "2023-11-26T17:50:58Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 130049892,
+          "tag_name": "v3.9.0",
+          "published_at": "2023-11-18T02:47:44Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 129390551,
+          "tag_name": "v3.9.0rc0",
+          "published_at": "2023-11-14T16:45:38Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.0rc0",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "74e840a6d037e4f34b4bd770ad6ec13af8598ce7e3a1193d7ff99c64b061298b"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=19",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=19",
+      "size": 5,
+      "page": 19,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:11.584Z",
+      "end": false,
+      "records": [
+        {
+          "id": 128136133,
+          "tag_name": "v3.9.0b1",
+          "published_at": "2023-11-06T13:32:09Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 124155690,
+          "tag_name": "v3.9.0b0",
+          "published_at": "2023-10-07T21:39:39Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.9.0b0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 124144508,
+          "tag_name": "v3.8.6",
+          "published_at": "2023-10-07T14:26:10Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112846590,
+          "tag_name": "v3.8.5",
+          "published_at": "2023-07-19T17:03:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 92153375,
+          "tag_name": "v3.8.4",
+          "published_at": "2023-02-12T19:09:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "2c5a9f5b507c1f1010d0848ab55e837702aaebf77c7db3b730fd67c85665c21e"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=20",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=20",
+      "size": 5,
+      "page": 20,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:12.794Z",
+      "end": false,
+      "records": [
+        {
+          "id": 77781723,
+          "tag_name": "v3.8.3",
+          "published_at": "2022-09-21T14:42:39Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 77711473,
+          "tag_name": "v3.8.2",
+          "published_at": "2022-09-21T00:36:43Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53341044,
+          "tag_name": "v3.8.1",
+          "published_at": "2021-11-14T21:25:48Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52408743,
+          "tag_name": "v3.8.0b0",
+          "published_at": "2021-10-31T20:05:48Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.0b0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52411625,
+          "tag_name": "v3.8.0",
+          "published_at": "2021-10-31T21:43:38Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "a5f67dab8cefc6639538c943ccd665ec38bf9b299b1b423d15bcc6098bc030f6"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=21",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=21",
+      "size": 5,
+      "page": 21,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:16.931Z",
+      "end": false,
+      "records": [
+        {
+          "id": 52371515,
+          "tag_name": "v3.8.0a7",
+          "published_at": "2021-10-30T15:39:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.8.0a7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34137066,
+          "tag_name": "v3.7.3",
+          "published_at": "2020-11-18T19:38:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33095289,
+          "tag_name": "v3.7.2",
+          "published_at": "2020-10-27T08:09:32Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33024018,
+          "tag_name": "v3.7.1",
+          "published_at": "2020-10-25T07:49:55Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33009309,
+          "tag_name": "v3.7.0",
+          "published_at": "2020-10-24T08:39:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.7.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "6cfc00110010e3846b769829f250491eb8a80211c9d0fddac33963382d8f8d55"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=22",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=22",
+      "size": 5,
+      "page": 22,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:17.801Z",
+      "end": false,
+      "records": [
+        {
+          "id": 20575777,
+          "tag_name": "v4.0.0a1",
+          "published_at": "2019-10-09T11:30:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v4.0.0a1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20583054,
+          "tag_name": "v3.6.2a1",
+          "published_at": "2019-10-09T15:09:21Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.6.2a1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20586228,
+          "tag_name": "v3.6.2",
+          "published_at": "2019-10-09T16:55:32Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20583679,
+          "tag_name": "v3.6.2a2",
+          "published_at": "2019-10-09T15:27:42Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.6.2a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 20161857,
+          "tag_name": "v3.6.1",
+          "published_at": "2019-09-22T08:52:32Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.6.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "5b92dd3edfcffe6ae9453bc24429b498665f3fd065948d819aa4768ed1106140"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=23",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=23",
+      "size": 5,
+      "page": 23,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:18.529Z",
+      "end": false,
+      "records": [
+        {
+          "id": 19825710,
+          "tag_name": "v3.6.0",
+          "published_at": "2019-09-07T07:46:03Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14942097,
+          "tag_name": "v3.5.4",
+          "published_at": "2019-01-12T15:57:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14942093,
+          "tag_name": "v3.5.3",
+          "published_at": "2019-01-12T15:56:06Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14885747,
+          "tag_name": "v3.5.2",
+          "published_at": "2019-01-09T18:23:35Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14688335,
+          "tag_name": "v3.5.1",
+          "published_at": "2018-12-24T23:29:39Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.5.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "2489c78de05614680e9a0348a4978395d148c9b34c51c989893d84deed9fb55a"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=24",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=24",
+      "size": 5,
+      "page": 24,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:19.145Z",
+      "end": false,
+      "records": [
+        {
+          "id": 14674879,
+          "tag_name": "v3.5.0",
+          "published_at": "2018-12-22T23:28:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12743079,
+          "tag_name": "v3.4.4",
+          "published_at": "2018-09-05T14:10:11Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12743069,
+          "tag_name": "v3.4.3",
+          "published_at": "2018-09-05T14:09:28Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12688833,
+          "tag_name": "v3.4.2",
+          "published_at": "2018-09-01T21:21:51Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12621994,
+          "tag_name": "v3.4.1",
+          "published_at": "2018-08-28T22:38:26Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.4.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "933733e3d9d34b488412963b1f2638144cd07128e0c1210919fc198dd34c81a1"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=25",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=25",
+      "size": 5,
+      "page": 25,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:19.902Z",
+      "end": false,
+      "records": [
+        {
+          "id": 12573887,
+          "tag_name": "v3.4.0",
+          "published_at": "2018-08-25T12:19:49Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11476610,
+          "tag_name": "v3.3.2",
+          "published_at": "2018-06-14T08:40:26Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11337814,
+          "tag_name": "v3.3.1",
+          "published_at": "2018-06-05T21:00:46Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11279958,
+          "tag_name": "v3.3.0",
+          "published_at": "2018-06-01T13:08:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10936721,
+          "tag_name": "v3.2.1",
+          "published_at": "2018-05-10T08:52:42Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.2.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "056c67c3528a57f21dceb9b8c5c53444649f2f10629585445a019ad644a258d8"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=26",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=26",
+      "size": 5,
+      "page": 26,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:21.871Z",
+      "end": false,
+      "records": [
+        {
+          "id": 10876431,
+          "tag_name": "v3.2.0",
+          "published_at": "2018-05-07T07:07:18Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10532851,
+          "tag_name": "v3.1.3",
+          "published_at": "2018-04-13T11:03:58Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10422366,
+          "tag_name": "v3.1.2",
+          "published_at": "2018-04-06T06:19:06Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10281356,
+          "tag_name": "v3.1.1",
+          "published_at": "2018-03-27T14:56:43Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10202742,
+          "tag_name": "v3.1.0",
+          "published_at": "2018-03-22T02:32:46Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.1.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "7f082b7ee1231afbd5bb033ece5903eb533aa74397c069e6afede9296268c2d6"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=27",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=27",
+      "size": 5,
+      "page": 27,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:22.464Z",
+      "end": false,
+      "records": [
+        {
+          "id": 10083474,
+          "tag_name": "v3.0.9",
+          "published_at": "2018-03-14T13:35:56Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10060603,
+          "tag_name": "v3.0.8",
+          "published_at": "2018-03-13T09:58:11Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10003073,
+          "tag_name": "v3.0.7",
+          "published_at": "2018-03-08T17:55:32Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9932385,
+          "tag_name": "v3.0.6",
+          "published_at": "2018-03-04T23:10:37Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9859817,
+          "tag_name": "v3.0.5",
+          "published_at": "2018-02-27T18:27:54Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f4d936c573adb85978cd686d917e74c80573777ce5897975f3675ae628e3074a"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=28",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=28",
+      "size": 5,
+      "page": 28,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:23.505Z",
+      "end": false,
+      "records": [
+        {
+          "id": 9836969,
+          "tag_name": "v3.0.4",
+          "published_at": "2018-02-26T15:37:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9836958,
+          "tag_name": "v3.0.3",
+          "published_at": "2018-02-26T15:36:44Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9803259,
+          "tag_name": "v3.0.2",
+          "published_at": "2018-02-23T09:32:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9637811,
+          "tag_name": "v3.0.1",
+          "published_at": "2018-02-12T13:23:21Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9037249,
+          "tag_name": "v2.3.7",
+          "published_at": "2017-12-27T09:06:45Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "61da52c9aca50bd950452c062e743a4b04f17d251401f777a8fb7ef33c857743"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=29",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=29",
+      "size": 5,
+      "page": 29,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:24.096Z",
+      "end": false,
+      "records": [
+        {
+          "id": 8764211,
+          "tag_name": "v2.3.6",
+          "published_at": "2017-12-04T17:41:53Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8713951,
+          "tag_name": "v2.3.5",
+          "published_at": "2017-11-30T09:12:23Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8701712,
+          "tag_name": "v2.3.4",
+          "published_at": "2017-11-29T14:40:50Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8558261,
+          "tag_name": "v2.3.3",
+          "published_at": "2017-11-17T09:34:31Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8344232,
+          "tag_name": "v2.3.2",
+          "published_at": "2017-11-01T15:31:49Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f75fea197be114f4bdf29d5447f4ba148ea17ffdcb131578ab317d0ed3be4ff3"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=30",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=30",
+      "size": 5,
+      "page": 30,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:26.136Z",
+      "end": false,
+      "records": [
+        {
+          "id": 8192222,
+          "tag_name": "v2.3.1",
+          "published_at": "2017-10-20T06:07:47Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8161954,
+          "tag_name": "v2.3.0",
+          "published_at": "2017-10-18T08:41:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6770921,
+          "tag_name": "v2.2.0",
+          "published_at": "2017-06-20T11:43:52Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6516494,
+          "tag_name": "v2.1.0",
+          "published_at": "2017-05-26T15:24:24Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v2.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6066231,
+          "tag_name": "2.0.7",
+          "published_at": "2017-04-12T22:37:15Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "52247a94617a3cce6453ab27264236a5aa111815bcf4b6187481c7dcd50d275a"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=31",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=31",
+      "size": 5,
+      "page": 31,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:26.843Z",
+      "end": false,
+      "records": [
+        {
+          "id": 6000118,
+          "tag_name": "2.0.6",
+          "published_at": "2017-04-06T14:53:54Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5912736,
+          "tag_name": "2.0.5",
+          "published_at": "2017-03-29T18:06:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5884721,
+          "tag_name": "2.0.4",
+          "published_at": "2017-03-27T18:55:28Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5864336,
+          "tag_name": "2.0.3-1",
+          "published_at": "2017-03-24T21:26:20Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.3-1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5840976,
+          "tag_name": "2.0.2",
+          "published_at": "2017-03-23T06:45:44Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "528e99194f54b1cbef1dcd13c5457758494d5d67433838745673b55686b88277"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=32",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=32",
+      "size": 5,
+      "page": 32,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:27.562Z",
+      "end": false,
+      "records": [
+        {
+          "id": 5820322,
+          "tag_name": "2.0.1",
+          "published_at": "2017-03-21T16:43:12Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5806252,
+          "tag_name": "2.0.0",
+          "published_at": "2017-03-20T17:12:48Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5769078,
+          "tag_name": "1.3.5",
+          "published_at": "2017-03-16T16:19:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/1.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5747462,
+          "tag_name": "2.0.0rc1",
+          "published_at": "2017-03-15T17:49:38Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/2.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 5747183,
+          "tag_name": "1.3.4",
+          "published_at": "2017-03-15T02:42:42Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/1.3.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "d8498fb45f4b4f0ae43f9b842a2bf8aa7f68ebbf1cc4200d25cad6cbbfe759b2"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=33",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=33",
+      "size": 5,
+      "page": 33,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:28.172Z",
+      "end": false,
+      "records": [
+        {
+          "id": 5505400,
+          "tag_name": "1.3.3",
+          "published_at": "2017-02-20T02:15:16Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/1.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5482108,
+          "tag_name": "1.3.2",
+          "published_at": "2017-02-16T19:12:32Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/1.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5408817,
+          "tag_name": "1.3.1",
+          "published_at": "2017-02-09T14:51:02Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/1.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5399380,
+          "tag_name": "1.3.0",
+          "published_at": "2017-02-08T18:40:49Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/1.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4946938,
+          "tag_name": "v1.2.0",
+          "published_at": "2016-12-17T04:37:29Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.2.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "227d30f519e087ce9034d943be4f55ea13172ea93116edfc463a99e95464ef79"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=34",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=34",
+      "size": 5,
+      "page": 34,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:28.809Z",
+      "end": false,
+      "records": [
+        {
+          "id": 4654336,
+          "tag_name": "v1.1.4",
+          "published_at": "2016-11-14T17:15:59Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4629736,
+          "tag_name": "v1.1.3",
+          "published_at": "2016-11-10T21:05:21Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4604539,
+          "tag_name": "v1.1.2",
+          "published_at": "2016-11-08T16:20:19Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4568287,
+          "tag_name": "v1.1.1",
+          "published_at": "2016-11-04T08:56:12Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4564227,
+          "tag_name": "v1.1.0",
+          "published_at": "2016-11-03T20:52:15Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.1.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9266d450ade5ff175999ac834352496a76af86800a69a9d90141c59aece4681c"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=35",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=35",
+      "size": 5,
+      "page": 35,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:29.465Z",
+      "end": false,
+      "records": [
+        {
+          "id": 4361500,
+          "tag_name": "v1.0.5",
+          "published_at": "2016-10-11T17:40:38Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4300842,
+          "tag_name": "v1.0.4",
+          "published_at": "2016-10-04T16:10:28Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4201195,
+          "tag_name": "v1.0.2",
+          "published_at": "2016-09-22T09:22:36Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4155740,
+          "tag_name": "v1.0.1",
+          "published_at": "2016-09-16T20:00:52Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4151989,
+          "tag_name": "v1.0.0",
+          "published_at": "2016-09-16T12:50:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v1.0.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "3e4f58a7a63b6d4cb2d9fd8340ca7a3460229ce1530a4e15f3c99f1f670f164d"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=36",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=36",
+      "size": 5,
+      "page": 36,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:30.345Z",
+      "end": false,
+      "records": [
+        {
+          "id": 3795724,
+          "tag_name": "v0.22.5",
+          "published_at": "2016-08-02T18:01:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.22.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3759635,
+          "tag_name": "v0.22.4",
+          "published_at": "2016-07-28T11:23:11Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.22.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3744487,
+          "tag_name": "v0.22.3",
+          "published_at": "2016-07-26T19:56:16Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.22.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3724545,
+          "tag_name": "v0.22.2",
+          "published_at": "2016-07-23T13:21:25Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.22.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3672754,
+          "tag_name": "v0.22.1",
+          "published_at": "2016-07-16T11:34:02Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.22.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "5d05fe1f80eecec21b28d5133afacf96eb07bd1902643aec1da9ec3a673cb095"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=37",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=37",
+      "size": 5,
+      "page": 37,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:30.992Z",
+      "end": false,
+      "records": [
+        {
+          "id": 3664872,
+          "tag_name": "v0.22.0",
+          "published_at": "2016-07-15T08:54:25Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3164327,
+          "tag_name": "4v0.21.6",
+          "published_at": "2016-05-05T12:10:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/4v0.21.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2799266,
+          "tag_name": "v0.21.4",
+          "published_at": "2016-03-12T17:24:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.21.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2624224,
+          "tag_name": "v0.21.2",
+          "published_at": "2016-02-16T15:00:30Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.21.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2624214,
+          "tag_name": "v0.21.1",
+          "published_at": "2016-02-16T14:59:38Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.21.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f73534d85f983df1c91d07cf152a4f07243c7b3ed281bd892c71547fe7581e6a"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=38",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=38",
+      "size": 5,
+      "page": 38,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:31.894Z",
+      "end": false,
+      "records": [
+        {
+          "id": 2552415,
+          "tag_name": "v0.21.0",
+          "published_at": "2016-02-04T12:51:26Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2390630,
+          "tag_name": "v0.20.2",
+          "published_at": "2016-01-07T21:48:04Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.20.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2355212,
+          "tag_name": "v0.20.1",
+          "published_at": "2015-12-30T15:49:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.20.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2345130,
+          "tag_name": "v0.20.0",
+          "published_at": "2015-12-28T05:40:23Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2185142,
+          "tag_name": "v0.19.0",
+          "published_at": "2015-11-25T15:53:19Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.19.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "3e1d9cd03b9041c3578a74910d6d8feaf558a0cbc08093122b72ffd491b0bdff"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=39",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=39",
+      "size": 5,
+      "page": 39,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:32.716Z",
+      "end": false,
+      "records": [
+        {
+          "id": 2122597,
+          "tag_name": "v0.18.4",
+          "published_at": "2015-11-13T15:50:47Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.18.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2015044,
+          "tag_name": "v0.18.3",
+          "published_at": "2015-10-25T12:34:44Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.18.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2004212,
+          "tag_name": "v0.18.2",
+          "published_at": "2015-10-22T18:33:49Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1990158,
+          "tag_name": "v0.18.1",
+          "published_at": "2015-10-20T16:37:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1980648,
+          "tag_name": "v0.18.0",
+          "published_at": "2015-10-19T08:17:06Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.18.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "030369f9ba11a6e507028dddc6c0202ce9c559e8df40533213a5e2d79e800bc4"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=40",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=40",
+      "size": 5,
+      "page": 40,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:33.525Z",
+      "end": false,
+      "records": [
+        {
+          "id": 1882489,
+          "tag_name": "v0.17.4",
+          "published_at": "2015-09-29T10:52:46Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.17.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1737916,
+          "tag_name": "v0.17.3",
+          "published_at": "2015-08-28T17:43:29Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.17.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1656641,
+          "tag_name": "v0.17.2",
+          "published_at": "2015-08-11T15:15:40Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.17.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1653459,
+          "tag_name": "v0.17.1",
+          "published_at": "2015-08-10T23:18:35Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1627816,
+          "tag_name": "v0.17.0",
+          "published_at": "2015-08-04T18:50:00Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.17.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "77919ca7e8d5c9834c9191564909fef0ad0231ef1e3919d2d0199ecebdb9c705"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=41",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=41",
+      "size": 5,
+      "page": 41,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:34.451Z",
+      "end": false,
+      "records": [
+        {
+          "id": 1542020,
+          "tag_name": "v0.16.6",
+          "published_at": "2015-07-15T17:46:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1412253,
+          "tag_name": "v0.16.5",
+          "published_at": "2015-06-13T14:01:17Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1411719,
+          "tag_name": "v0.16.4",
+          "published_at": "2015-06-13T06:18:01Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1356888,
+          "tag_name": "v0.16.3",
+          "published_at": "2015-05-30T19:30:32Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1345108,
+          "tag_name": "v0.16.2",
+          "published_at": "2015-05-27T21:32:11Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "3e1e25f6e216047ea8d10ff57f477ed56d256a621f63ec00d3dbd2c9be920f1c"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=42",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=42",
+      "size": 5,
+      "page": 42,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:35.905Z",
+      "end": false,
+      "records": [
+        {
+          "id": 1342440,
+          "tag_name": "v0.16.1",
+          "published_at": "2015-05-27T12:09:14Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1338932,
+          "tag_name": "v0.16.0",
+          "published_at": "2015-05-26T17:59:21Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1201968,
+          "tag_name": "v0.15.3",
+          "published_at": "2015-04-22T16:57:56Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.15.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1185668,
+          "tag_name": "v0.15.2",
+          "published_at": "2015-04-19T04:03:00Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1112964,
+          "tag_name": "v0.15.1",
+          "published_at": "2015-03-31T23:18:26Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.15.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b413a41ec2a77c21fb2f88e7e4fd00d2a076d529b064f057f730a866a4d34fe5"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=43",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=43",
+      "size": 5,
+      "page": 43,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:36.641Z",
+      "end": false,
+      "records": [
+        {
+          "id": 1098763,
+          "tag_name": "v0.15.0",
+          "published_at": "2015-03-27T16:21:06Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 898099,
+          "tag_name": "v0.14.4",
+          "published_at": "2015-01-29T19:27:39Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 892771,
+          "tag_name": "v0.14.3",
+          "published_at": "2015-01-28T12:43:56Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 877408,
+          "tag_name": "v0.14.2",
+          "published_at": "2015-01-23T07:44:51Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 856288,
+          "tag_name": "v0.14.1",
+          "published_at": "2015-01-15T21:19:54Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.14.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9c121b66b460e49ffa4cd47bb3b27505c72dd71d22263b54a1c267689ea4f162"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=44",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=44",
+      "size": 5,
+      "page": 44,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:37.313Z",
+      "end": false,
+      "records": [
+        {
+          "id": 817231,
+          "tag_name": "v0.13.1",
+          "published_at": "2014-12-31T11:34:21Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 813864,
+          "tag_name": "v0.13.0",
+          "published_at": "2014-12-29T18:35:42Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 779442,
+          "tag_name": "v0.12.0",
+          "published_at": "2014-12-12T20:08:18Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 742623,
+          "tag_name": "v0.11.0",
+          "published_at": "2014-11-29T16:41:51Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 717428,
+          "tag_name": "v0.10.2",
+          "published_at": "2014-11-19T16:51:00Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.10.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f16eca169c334cac3a35b2d6eaecda7446681c1c07362a8a19dc1a0f4cc3271f"
+    },
+    {
+      "url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=45",
+      "response_url": "https://api.github.com/repos/aio-libs/aiohttp/releases?per_page=5&page=45",
+      "size": 5,
+      "page": 45,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:37.976Z",
+      "end": true,
+      "records": [
+        {
+          "id": 709883,
+          "tag_name": "v0.10.1",
+          "published_at": "2014-11-17T13:08:00Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 701136,
+          "tag_name": "v0.10.0",
+          "published_at": "2014-11-13T12:51:27Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 665267,
+          "tag_name": "v0.9.3",
+          "published_at": "2014-10-30T12:57:07Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 632009,
+          "tag_name": "v0.9.2",
+          "published_at": "2014-10-16T17:54:05Z",
+          "html_url": "https://github.com/aio-libs/aiohttp/releases/tag/v0.9.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "28e51d766619cde74b702415c2ce7ecb85f50b22f0177076850719c4bd812de9"
+    }
+  ]
+}

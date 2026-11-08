@@ -1,0 +1,470 @@
+{
+  "candidate": "scrapy/scrapy",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/scrapy/scrapy/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/scrapy/scrapy/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:51.621Z",
+      "end": false,
+      "records": [
+        {
+          "id": 436842681,
+          "tag_name": "2.20.0",
+          "published_at": "2026-11-06T18:23:09Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 386236846,
+          "tag_name": "2.19.0",
+          "published_at": "2026-09-10T11:48:30Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 373836719,
+          "tag_name": "2.18.0",
+          "published_at": "2026-08-20T15:20:00Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 350173638,
+          "tag_name": "2.17.0",
+          "published_at": "2026-07-07T10:40:10Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 324990124,
+          "tag_name": "2.16.0",
+          "published_at": "2026-05-19T12:39:31Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 314608152,
+          "tag_name": "2.15.2",
+          "published_at": "2026-04-28T13:32:35Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 312796499,
+          "tag_name": "2.15.1",
+          "published_at": "2026-04-23T15:12:16Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 307046761,
+          "tag_name": "2.15.0",
+          "published_at": "2026-04-09T12:22:20Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 298389550,
+          "tag_name": "2.14.2",
+          "published_at": "2026-03-18T11:01:44Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 276145961,
+          "tag_name": "2.14.1",
+          "published_at": "2026-01-12T20:37:09Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 274182346,
+          "tag_name": "2.14.0",
+          "published_at": "2026-01-05T10:19:32Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 262933333,
+          "tag_name": "2.13.4",
+          "published_at": "2025-11-17T11:45:24Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.13.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 229450029,
+          "tag_name": "2.13.3",
+          "published_at": "2025-07-02T15:45:15Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.13.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 224004408,
+          "tag_name": "2.13.2",
+          "published_at": "2025-06-09T10:51:35Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 224004214,
+          "tag_name": "2.13.1",
+          "published_at": "2025-06-09T10:50:16Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 217280631,
+          "tag_name": "2.13.0",
+          "published_at": "2025-05-08T09:54:46Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185888935,
+          "tag_name": "2.12.0",
+          "published_at": "2024-11-18T08:43:50Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 155680161,
+          "tag_name": "2.11.2",
+          "published_at": "2024-05-14T12:12:22Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142038716,
+          "tag_name": "2.11.1",
+          "published_at": "2024-02-14T19:10:21Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142038794,
+          "tag_name": "1.8.4",
+          "published_at": "2024-02-14T19:10:54Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.8.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121520504,
+          "tag_name": "2.11.0",
+          "published_at": "2023-09-18T11:37:22Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119199487,
+          "tag_name": "2.10.1",
+          "published_at": "2023-08-30T08:57:00Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 115120006,
+          "tag_name": "2.10.0",
+          "published_at": "2023-08-04T13:59:19Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102192598,
+          "tag_name": "2.9.0",
+          "published_at": "2023-05-08T11:05:45Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91067599,
+          "tag_name": "2.8.0",
+          "published_at": "2023-02-02T04:14:21Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 81800004,
+          "tag_name": "2.7.1",
+          "published_at": "2022-11-02T11:15:10Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80086281,
+          "tag_name": "2.7.0",
+          "published_at": "2022-10-17T13:25:58Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78307844,
+          "tag_name": "2.6.3",
+          "published_at": "2022-09-27T14:53:21Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72747607,
+          "tag_name": "2.6.2",
+          "published_at": "2022-07-25T11:54:47Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72747491,
+          "tag_name": "1.8.3",
+          "published_at": "2022-07-25T11:53:03Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.8.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "56afda572051119660276c71ba04452f9a0252ff79e6cb932c4459e4f3bac25b"
+    },
+    {
+      "url": "https://api.github.com/repos/scrapy/scrapy/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/scrapy/scrapy/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:52.339Z",
+      "end": true,
+      "records": [
+        {
+          "id": 60702588,
+          "tag_name": "2.6.1",
+          "published_at": "2022-03-01T12:52:38Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60698545,
+          "tag_name": "2.6.0",
+          "published_at": "2022-03-01T11:51:30Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60712754,
+          "tag_name": "1.8.2",
+          "published_at": "2022-03-01T15:05:24Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50817786,
+          "tag_name": "2.5.1",
+          "published_at": "2021-10-05T13:50:01Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50841150,
+          "tag_name": "1.8.1",
+          "published_at": "2021-10-05T19:42:01Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 41003830,
+          "tag_name": "2.5.0",
+          "published_at": "2021-04-06T15:03:47Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34082605,
+          "tag_name": "2.4.1",
+          "published_at": "2020-11-17T21:01:36Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32428585,
+          "tag_name": "2.4.0",
+          "published_at": "2020-10-11T22:32:25Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29287479,
+          "tag_name": "2.3.0",
+          "published_at": "2020-08-04T19:40:08Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 28672242,
+          "tag_name": "2.2.1",
+          "published_at": "2020-07-17T11:58:05Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27869139,
+          "tag_name": "2.2.0",
+          "published_at": "2020-06-24T11:51:56Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 25845603,
+          "tag_name": "2.1.0",
+          "published_at": "2020-04-24T10:51:57Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24644254,
+          "tag_name": "2.0.1",
+          "published_at": "2020-03-18T17:44:40Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24159894,
+          "tag_name": "2.0.0",
+          "published_at": "2020-03-03T08:49:34Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20846616,
+          "tag_name": "1.7.4",
+          "published_at": "2019-10-21T10:23:07Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19018490,
+          "tag_name": "1.7.3",
+          "published_at": "2019-08-01T15:19:54Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18801248,
+          "tag_name": "1.7.2",
+          "published_at": "2019-07-23T11:40:12Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18612942,
+          "tag_name": "1.7.0",
+          "published_at": "2019-07-18T14:28:14Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15483403,
+          "tag_name": "1.6.0",
+          "published_at": "2019-02-11T13:48:40Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9066002,
+          "tag_name": "1.5.0",
+          "published_at": "2017-12-30T15:35:39Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9059810,
+          "tag_name": "1.4.0",
+          "published_at": "2017-12-29T15:39:24Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9059815,
+          "tag_name": "1.3.3",
+          "published_at": "2017-12-29T15:40:05Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4865388,
+          "tag_name": "1.2.2",
+          "published_at": "2016-12-08T09:56:34Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4865354,
+          "tag_name": "1.2.1",
+          "published_at": "2016-12-08T09:53:33Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4288887,
+          "tag_name": "1.2.0",
+          "published_at": "2016-10-03T13:25:53Z",
+          "html_url": "https://github.com/scrapy/scrapy/releases/tag/1.2.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "dc7cc8a8f747f5de8dee519ceb1ba18a50c9b8a279ba51325f4fea04bae26829"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "candidate": "pallets/click",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/pallets/click/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/pallets/click/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:53.713Z",
+      "end": false,
+      "records": [
+        {
+          "id": 436175847,
+          "tag_name": "8.5.1",
+          "published_at": "2026-11-06T17:38:44Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 374801977,
+          "tag_name": "8.5.0",
+          "published_at": "2026-08-27T04:00:53Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 343914805,
+          "tag_name": "8.4.2",
+          "published_at": "2026-06-26T16:11:15Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 327582556,
+          "tag_name": "8.4.1",
+          "published_at": "2026-05-22T04:08:49Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 323734258,
+          "tag_name": "8.4.0",
+          "published_at": "2026-05-17T05:12:31Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 310573692,
+          "tag_name": "8.3.3",
+          "published_at": "2026-04-22T16:22:12Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 304957897,
+          "tag_name": "8.3.2",
+          "published_at": "2026-04-03T19:14:59Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 262701271,
+          "tag_name": "8.3.1",
+          "published_at": "2025-11-15T20:46:24Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 246948311,
+          "tag_name": "8.3.0",
+          "published_at": "2025-09-18T17:34:57Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 237031828,
+          "tag_name": "8.2.2",
+          "published_at": "2025-08-02T02:25:26Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 219915865,
+          "tag_name": "8.2.1",
+          "published_at": "2025-05-20T23:20:12Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 217803207,
+          "tag_name": "8.2.0",
+          "published_at": "2025-05-10T22:22:29Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 191717754,
+          "tag_name": "8.1.8",
+          "published_at": "2024-12-21T18:39:41Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117660945,
+          "tag_name": "8.1.7",
+          "published_at": "2023-08-17T17:29:32Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112722275,
+          "tag_name": "8.1.6",
+          "published_at": "2023-07-18T20:05:42Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112131445,
+          "tag_name": "8.1.5",
+          "published_at": "2023-07-13T15:08:19Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 111307319,
+          "tag_name": "8.1.4",
+          "published_at": "2023-07-06T18:28:00Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65607003,
+          "tag_name": "8.1.3",
+          "published_at": "2022-04-28T17:37:47Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63312839,
+          "tag_name": "8.1.2",
+          "published_at": "2022-03-31T20:55:12Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63195794,
+          "tag_name": "8.1.1",
+          "published_at": "2022-03-30T20:17:25Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 62948464,
+          "tag_name": "8.1.0",
+          "published_at": "2022-03-28T17:42:02Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59938828,
+          "tag_name": "8.0.4",
+          "published_at": "2022-02-18T20:32:53Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 51104006,
+          "tag_name": "8.0.3",
+          "published_at": "2021-10-10T18:08:47Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 51063926,
+          "tag_name": "8.0.2",
+          "published_at": "2021-10-08T22:38:10Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 43247256,
+          "tag_name": "8.0.1",
+          "published_at": "2021-05-19T21:02:51Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42806973,
+          "tag_name": "8.0.0",
+          "published_at": "2021-05-12T00:10:32Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 41545878,
+          "tag_name": "8.0.0rc1",
+          "published_at": "2021-04-16T14:10:41Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 34547833,
+          "tag_name": "8.0.0a1",
+          "published_at": "2020-11-29T14:42:02Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/8.0.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 25938603,
+          "tag_name": "7.1.2",
+          "published_at": "2020-04-27T21:02:36Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/7.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24361980,
+          "tag_name": "7.1.1",
+          "published_at": "2020-03-09T19:01:33Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/7.1.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "e764e6de27714b6c61184f1a0f3ae858ca654d10150e7a17b4517de40c418162"
+    },
+    {
+      "url": "https://api.github.com/repos/pallets/click/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/pallets/click/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:54.428Z",
+      "end": true,
+      "records": [
+        {
+          "id": 24361931,
+          "tag_name": "7.1",
+          "published_at": "2020-03-09T19:00:29Z",
+          "html_url": "https://github.com/pallets/click/releases/tag/7.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "370ee1d361ab9f60d85f8e2f9736a15e8263d1023f10b3cb623a9f35030f2a00"
+    }
+  ]
+}

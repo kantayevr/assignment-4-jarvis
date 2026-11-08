@@ -1,0 +1,690 @@
+{
+  "candidate": "sphinx-doc/sphinx",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/sphinx-doc/sphinx/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/sphinx-doc/sphinx/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:56.728Z",
+      "end": false,
+      "records": [
+        {
+          "id": 419000011,
+          "tag_name": "v9.2.0",
+          "published_at": "2026-10-21T00:05:26Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 417887498,
+          "tag_name": "v9.1.1",
+          "published_at": "2026-10-20T00:40:48Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 273607122,
+          "tag_name": "v9.1.0",
+          "published_at": "2025-12-31T15:08:45Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 272964706,
+          "tag_name": "v9.1.0rc2",
+          "published_at": "2025-12-27T03:17:14Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.1.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 271896757,
+          "tag_name": "v9.1.0rc1",
+          "published_at": "2025-12-19T23:30:08Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.1.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 267336663,
+          "tag_name": "v9.0.4",
+          "published_at": "2025-12-04T07:46:04Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267276318,
+          "tag_name": "v9.0.3",
+          "published_at": "2025-12-04T01:46:38Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267256573,
+          "tag_name": "v9.0.2",
+          "published_at": "2025-12-03T23:03:33Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 266455936,
+          "tag_name": "v9.0.1",
+          "published_at": "2025-12-01T16:43:08Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 266203417,
+          "tag_name": "v9.0.0",
+          "published_at": "2025-11-30T12:41:22Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 266185370,
+          "tag_name": "v9.0.0rc4",
+          "published_at": "2025-11-30T06:18:15Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 266175995,
+          "tag_name": "v9.0.0rc3",
+          "published_at": "2025-11-30T03:03:03Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 266105360,
+          "tag_name": "v9.0.0rc2",
+          "published_at": "2025-11-29T02:44:03Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 265869252,
+          "tag_name": "v9.0.0rc1",
+          "published_at": "2025-11-28T00:47:08Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 203242752,
+          "tag_name": "v8.2.3",
+          "published_at": "2025-03-02T22:31:26Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 203239164,
+          "tag_name": "v8.2.2",
+          "published_at": "2025-03-02T21:01:13Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 201799850,
+          "tag_name": "v8.2.1",
+          "published_at": "2025-02-21T23:29:16Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 201010554,
+          "tag_name": "v8.2.0",
+          "published_at": "2025-02-18T19:52:45Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 200809283,
+          "tag_name": "v8.2.0rc2",
+          "published_at": "2025-02-18T00:39:02Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 200560901,
+          "tag_name": "v8.2.0rc1",
+          "published_at": "2025-02-16T05:41:49Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 179702884,
+          "tag_name": "v8.1.3",
+          "published_at": "2024-10-13T20:26:47Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 179654598,
+          "tag_name": "v8.1.2",
+          "published_at": "2024-10-12T18:44:16Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 179610856,
+          "tag_name": "v8.1.1",
+          "published_at": "2024-10-11T22:49:29Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 179361976,
+          "tag_name": "v8.1.0",
+          "published_at": "2024-10-10T15:57:13Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167751816,
+          "tag_name": "v8.0.2",
+          "published_at": "2024-07-30T01:38:54Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167748050,
+          "tag_name": "v8.0.1",
+          "published_at": "2024-07-30T00:33:38Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167708497,
+          "tag_name": "v8.0.0",
+          "published_at": "2024-07-29T18:16:35Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167005791,
+          "tag_name": "v8.0.0rc1",
+          "published_at": "2024-07-24T20:14:48Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 166354724,
+          "tag_name": "v7.4.7",
+          "published_at": "2024-07-20T14:46:34Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 166036517,
+          "tag_name": "v7.4.6",
+          "published_at": "2024-07-18T12:29:10Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.6",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0e4ef51216219edbe5bd7cbc820c69c2e798299ceb680019a363eabb468a0364"
+    },
+    {
+      "url": "https://api.github.com/repos/sphinx-doc/sphinx/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/sphinx-doc/sphinx/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:57.989Z",
+      "end": false,
+      "records": [
+        {
+          "id": 165721625,
+          "tag_name": "v7.4.5",
+          "published_at": "2024-07-16T20:08:17Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165508681,
+          "tag_name": "v7.4.4",
+          "published_at": "2024-07-15T18:18:37Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165438465,
+          "tag_name": "v7.4.3",
+          "published_at": "2024-07-15T12:02:22Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165430862,
+          "tag_name": "v7.4.2",
+          "published_at": "2024-07-15T11:06:26Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165422311,
+          "tag_name": "v7.4.1",
+          "published_at": "2024-07-15T10:05:06Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165386365,
+          "tag_name": "v7.4.0",
+          "published_at": "2024-07-15T05:11:12Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151860116,
+          "tag_name": "v7.3.7",
+          "published_at": "2024-04-19T04:44:19Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151636375,
+          "tag_name": "v7.3.6",
+          "published_at": "2024-04-17T21:07:35Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151481218,
+          "tag_name": "v7.3.5",
+          "published_at": "2024-04-17T04:12:33Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151470595,
+          "tag_name": "v7.3.4",
+          "published_at": "2024-04-17T01:39:29Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151470186,
+          "tag_name": "v7.3.3",
+          "published_at": "2024-04-17T01:32:50Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151468213,
+          "tag_name": "v7.3.2",
+          "published_at": "2024-04-17T00:56:34Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151465389,
+          "tag_name": "v7.3.1",
+          "published_at": "2024-04-17T00:10:59Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151458785,
+          "tag_name": "v7.3.0",
+          "published_at": "2024-04-16T23:00:17Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121050065,
+          "tag_name": "v7.2.6",
+          "published_at": "2023-09-13T23:13:00Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119350634,
+          "tag_name": "v7.2.5",
+          "published_at": "2023-08-30T22:09:18Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 118872803,
+          "tag_name": "v7.2.4",
+          "published_at": "2023-08-28T03:54:09Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 118473935,
+          "tag_name": "v7.2.3",
+          "published_at": "2023-08-23T22:19:37Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117656918,
+          "tag_name": "v7.2.2",
+          "published_at": "2023-08-17T17:06:53Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117641145,
+          "tag_name": "v7.2.1",
+          "published_at": "2023-08-17T15:08:22Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117548981,
+          "tag_name": "v7.2.0",
+          "published_at": "2023-08-17T03:37:08Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 114741009,
+          "tag_name": "v7.1.2",
+          "published_at": "2023-08-02T02:05:29Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 113893643,
+          "tag_name": "v7.1.1",
+          "published_at": "2023-07-27T20:40:58Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 113376580,
+          "tag_name": "v7.1.0",
+          "published_at": "2023-07-24T19:44:44Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102845838,
+          "tag_name": "v7.0.1",
+          "published_at": "2023-05-12T21:51:49Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101385612,
+          "tag_name": "v7.0.0",
+          "published_at": "2023-04-29T21:31:39Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101265499,
+          "tag_name": "v7.0.0rc1",
+          "published_at": "2023-04-28T11:35:32Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v7.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 100792590,
+          "tag_name": "v6.2.1",
+          "published_at": "2023-04-25T11:04:54Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100574205,
+          "tag_name": "v6.2.0",
+          "published_at": "2023-04-23T20:10:26Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88468249,
+          "tag_name": "v6.1.3",
+          "published_at": "2023-01-10T15:59:13Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.1.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "d539f0b5bce198f4b8d01fb07d6ffe14372b5d80d2b8aa64cfdcbc44ea4bf471"
+    },
+    {
+      "url": "https://api.github.com/repos/sphinx-doc/sphinx/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/sphinx-doc/sphinx/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:02.377Z",
+      "end": true,
+      "records": [
+        {
+          "id": 88214887,
+          "tag_name": "v6.1.2",
+          "published_at": "2023-01-07T17:46:28Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88031899,
+          "tag_name": "v6.1.1",
+          "published_at": "2023-01-05T17:02:18Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88001172,
+          "tag_name": "v6.1.0",
+          "published_at": "2023-01-05T12:32:54Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88000002,
+          "tag_name": "v6.0.1",
+          "published_at": "2023-01-05T12:20:21Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87530000,
+          "tag_name": "v6.0.0",
+          "published_at": "2022-12-29T15:19:39Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80137019,
+          "tag_name": "v6.0.0b2",
+          "published_at": "2022-10-17T21:45:48Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.0.0b2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80020388,
+          "tag_name": "v6.0.0b1",
+          "published_at": "2022-10-16T15:59:34Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v6.0.0b1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80012589,
+          "tag_name": "v5.3.0",
+          "published_at": "2022-10-16T09:58:51Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78705908,
+          "tag_name": "v5.2.3",
+          "published_at": "2022-09-30T15:14:02Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78308641,
+          "tag_name": "v5.2.2",
+          "published_at": "2022-09-27T14:58:49Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78081511,
+          "tag_name": "v5.2.1",
+          "published_at": "2022-09-25T20:32:14Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78056660,
+          "tag_name": "v5.2.0",
+          "published_at": "2022-09-24T21:11:47Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72902354,
+          "tag_name": "v5.1.1",
+          "published_at": "2022-07-26T21:26:02Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72702521,
+          "tag_name": "v5.1.0",
+          "published_at": "2022-07-24T16:24:11Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 69642332,
+          "tag_name": "v5.0.2",
+          "published_at": "2022-06-16T17:20:46Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68476717,
+          "tag_name": "v5.0.1",
+          "published_at": "2022-06-02T18:17:47Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 69645813,
+          "tag_name": "v5.0.0",
+          "published_at": "2022-06-16T18:11:01Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66317532,
+          "tag_name": "v5.0.0b1",
+          "published_at": "2022-05-08T15:56:31Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v5.0.0b1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 62870696,
+          "tag_name": "v4.5.0",
+          "published_at": "2022-03-27T16:00:39Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v4.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57225217,
+          "tag_name": "v4.4.0",
+          "published_at": "2022-01-16T15:20:56Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54173550,
+          "tag_name": "v4.3.1",
+          "published_at": "2021-11-27T16:11:51Z",
+          "html_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "98e8b26af07967f53099ca792120635ec72500dd9586bc03801d189508bf5da4"
+    }
+  ]
+}

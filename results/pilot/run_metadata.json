@@ -1,0 +1,74 @@
+{
+  "dataset": "pilot",
+  "status": "completed",
+  "started_at_utc": "2026-11-08T12:05:00.206785+00:00",
+  "settings": {
+    "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+    "model_revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+    "device": "cpu",
+    "dtype": "float32",
+    "attention": "eager",
+    "threads": 4,
+    "seed": 42,
+    "top_k": 3,
+    "max_input_tokens": 2048,
+    "max_new_tokens": 32,
+    "do_sample": false,
+    "bm25_k1": 1.2,
+    "bm25_b": 0.75
+  },
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14",
+  "conditions": [
+    "tfidf_frozen",
+    "tfidf_updated",
+    "closed_book",
+    "bm25_updated"
+  ],
+  "question_order": [
+    "Q08",
+    "Q07",
+    "Q03",
+    "Q10",
+    "Q13",
+    "Q06",
+    "Q12",
+    "Q09",
+    "Q04",
+    "Q05",
+    "Q01",
+    "Q02",
+    "Q11"
+  ],
+  "inputs_sha256": {
+    "questions.json": "2208772684de3c520187b0d4d447bdad524ec9086654292fa3dade7c062c13f4",
+    "kb_frozen.json": "7a1bdc30d48053630399eceb3d95c1c1ad3fab7ddefd4dd42219e1e537972bed",
+    "kb_updated.json": "1d3e7a193be26e1efeb8e639dd96870083f00cb628275aa031d799649f9a0ff9"
+  },
+  "source_sha256": {
+    "protocol.py": "53a536457579b946e6b3abc9c846d4e6b6b93e33b354b8af60cf8d38906e6990",
+    "rag.py": "75f6b4cd3c18d1be61923f499927fa9ff641130ef8a6d8bd25ee3c921a3eb110",
+    "conditions.py": "c53681d7d8126be0b8183933cec659b42555cf29070706d337f3b74ccfaded9a",
+    "run_experiment.py": "7fed24c44cd2d3e9add89f6562a76600f1ebce8fe1be5045741a3331da455ae0"
+  },
+  "n_questions": 13,
+  "n_predictions": 52,
+  "model_files_sha256": {
+    "config.json": "18e18afcaccafade98daf13a54092927904649e1dd4eba8299ab717d5d94ff45",
+    "generation_config.json": "e558847a8b4402616f1273797b015104dc266fe4b520056fca88823ba8f8ebe6",
+    "tokenizer.json": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+    "tokenizer_config.json": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583",
+    "model.safetensors": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe"
+  },
+  "packages": {
+    "torch": "2.8.0+cpu",
+    "transformers": "4.57.1",
+    "huggingface-hub": "0.36.2",
+    "tokenizers": "0.22.2",
+    "numpy": "2.5.4",
+    "safetensors": "0.8.0",
+    "jinja2": "3.1.6"
+  },
+  "predictions_sha256": "c937cd1aae518cf78a6c86185ee5ba4004b9e9e37c44ef9e26fd0eef75f574b1",
+  "ended_at_utc": "2026-11-08T12:08:35.194611+00:00"
+}

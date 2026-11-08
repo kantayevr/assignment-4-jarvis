@@ -1,0 +1,154 @@
+{
+  "candidate": "pypa/twine",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/pypa/twine/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/pypa/twine/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:33.087Z",
+      "end": true,
+      "records": [
+        {
+          "id": 361160909,
+          "tag_name": "7.0.0",
+          "published_at": "2026-07-28T14:43:08Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/7.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244833880,
+          "tag_name": "6.2.0",
+          "published_at": "2025-09-04T15:42:37Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/6.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195914293,
+          "tag_name": "6.1.0",
+          "published_at": "2025-01-21T18:44:52Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/6.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 188322085,
+          "tag_name": "6.0.1",
+          "published_at": "2024-12-01T01:18:57Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/6.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 188299539,
+          "tag_name": "6.0.0",
+          "published_at": "2024-11-30T15:32:33Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/6.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162565326,
+          "tag_name": "v5.1.1",
+          "published_at": "2024-06-26T14:57:26Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/v5.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 156085292,
+          "tag_name": "5.1.0",
+          "published_at": "2024-05-16T13:49:03Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/5.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 141534367,
+          "tag_name": "5.0.0",
+          "published_at": "2024-02-11T13:47:42Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/5.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 84648288,
+          "tag_name": "4.0.2",
+          "published_at": "2022-12-01T01:51:31Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/4.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68332292,
+          "tag_name": "4.0.1",
+          "published_at": "2022-06-01T11:37:12Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/4.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63438283,
+          "tag_name": "4.0.0",
+          "published_at": "2022-04-02T09:26:32Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58542944,
+          "tag_name": "3.8.0",
+          "published_at": "2022-02-02T19:00:23Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/3.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54785900,
+          "tag_name": "3.7.1",
+          "published_at": "2021-12-07T11:51:46Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/3.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54418351,
+          "tag_name": "3.7.0",
+          "published_at": "2021-12-01T15:10:59Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/3.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53080641,
+          "tag_name": "3.6.0",
+          "published_at": "2021-11-10T11:57:53Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/3.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52848489,
+          "tag_name": "3.5.0",
+          "published_at": "2021-11-06T15:56:35Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/3.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46713551,
+          "tag_name": "3.4.2",
+          "published_at": "2021-07-24T12:41:53Z",
+          "html_url": "https://github.com/pypa/twine/releases/tag/3.4.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "4b369181539789410101d5486df160f5e2ac818faf1bff308d4c47734bd1497d"
+    }
+  ]
+}

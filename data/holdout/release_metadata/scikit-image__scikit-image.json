@@ -1,0 +1,382 @@
+{
+  "candidate": "scikit-image/scikit-image",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/scikit-image/scikit-image/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/scikit-image/scikit-image/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:45.671Z",
+      "end": false,
+      "records": [
+        {
+          "id": 425017090,
+          "tag_name": "v0.27.0rc1",
+          "published_at": "2026-10-27T03:52:34Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.27.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 271958651,
+          "tag_name": "v0.26.0",
+          "published_at": "2025-12-20T17:13:44Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 271534924,
+          "tag_name": "v0.26.0rc2",
+          "published_at": "2025-12-18T18:25:45Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.26.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 268627639,
+          "tag_name": "v0.26.0rc1",
+          "published_at": "2025-12-09T08:34:17Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.26.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 265338065,
+          "tag_name": "v0.26.0rc0",
+          "published_at": "2025-11-26T04:57:19Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.26.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 200989185,
+          "tag_name": "v0.25.2",
+          "published_at": "2025-02-18T18:05:27Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 199721642,
+          "tag_name": "v0.25.2rc0",
+          "published_at": "2025-02-11T22:04:01Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.2rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 196835972,
+          "tag_name": "v0.25.1",
+          "published_at": "2025-01-26T18:59:19Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190718737,
+          "tag_name": "v0.25.0",
+          "published_at": "2024-12-13T21:16:56Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190036076,
+          "tag_name": "v0.25.0rc2",
+          "published_at": "2024-12-10T18:59:53Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 178624713,
+          "tag_name": "v0.25.0rc1",
+          "published_at": "2024-10-07T07:58:59Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 178580825,
+          "tag_name": "v0.25.0rc0",
+          "published_at": "2024-10-06T20:08:40Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 161142346,
+          "tag_name": "v0.24.0",
+          "published_at": "2024-06-18T19:05:37Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 160708722,
+          "tag_name": "v0.24.0rc1",
+          "published_at": "2024-06-16T13:50:48Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.24.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 160621323,
+          "tag_name": "v0.24.0rc0",
+          "published_at": "2024-06-15T12:31:12Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.24.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 152058260,
+          "tag_name": "v0.23.2",
+          "published_at": "2024-04-20T19:13:37Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.23.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151052088,
+          "tag_name": "v0.23.2rc1",
+          "published_at": "2024-04-14T02:17:40Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.23.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 150638419,
+          "tag_name": "v0.23.1",
+          "published_at": "2024-04-10T19:19:26Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.23.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 150629915,
+          "tag_name": "v0.23.0",
+          "published_at": "2024-04-10T18:11:11Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149690528,
+          "tag_name": "v0.23.0rc2",
+          "published_at": "2024-04-04T02:57:26Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.23.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 148010433,
+          "tag_name": "v0.23.0rc0",
+          "published_at": "2024-03-22T22:52:50Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.23.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 123580873,
+          "tag_name": "v0.22.0",
+          "published_at": "2023-10-03T21:36:37Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123226521,
+          "tag_name": "v0.22.0rc1",
+          "published_at": "2023-09-30T23:57:49Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.22.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 105787487,
+          "tag_name": "v0.21.0",
+          "published_at": "2023-06-02T05:03:22Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 103502508,
+          "tag_name": "v0.21.0rc1",
+          "published_at": "2023-05-18T19:04:58Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.21.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 99096300,
+          "tag_name": "v0.21.0rc0",
+          "published_at": "2023-04-12T06:50:30Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.21.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 94013724,
+          "tag_name": "v0.20.0",
+          "published_at": "2023-02-28T23:32:35Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93054284,
+          "tag_name": "v0.20.0rc8",
+          "published_at": "2023-02-20T16:52:15Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.20.0rc8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 92820344,
+          "tag_name": "v0.20.0rc7",
+          "published_at": "2023-02-17T10:34:29Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.20.0rc7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 92761285,
+          "tag_name": "v0.20.0rc6",
+          "published_at": "2023-02-16T20:04:55Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.20.0rc6",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "9a3d209d1f03d5eadf09653f5386b8d87d5c5015ead8c765856f8d54ead54078"
+    },
+    {
+      "url": "https://api.github.com/repos/scikit-image/scikit-image/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/scikit-image/scikit-image/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:46.656Z",
+      "end": true,
+      "records": [
+        {
+          "id": 92264611,
+          "tag_name": "v0.20.0rc5",
+          "published_at": "2023-02-13T19:45:30Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.20.0rc5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 91545503,
+          "tag_name": "v0.20.0rc4",
+          "published_at": "2023-02-07T03:20:45Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.20.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 69250441,
+          "tag_name": "v0.19.3",
+          "published_at": "2022-06-12T18:12:41Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.19.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59831903,
+          "tag_name": "v0.19.2",
+          "published_at": "2022-02-17T18:25:54Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.19.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 55384821,
+          "tag_name": "v0.19.1",
+          "published_at": "2021-12-15T17:06:01Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.19.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54557511,
+          "tag_name": "v0.19.0",
+          "published_at": "2021-12-03T08:07:17Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53814753,
+          "tag_name": "v0.19.0rc0",
+          "published_at": "2021-11-22T06:25:33Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.19.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48374677,
+          "tag_name": "v0.18.3",
+          "published_at": "2021-08-24T18:20:04Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.18.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36584980,
+          "tag_name": "v0.18.1",
+          "published_at": "2021-01-19T08:17:34Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36584945,
+          "tag_name": "v0.18.0",
+          "published_at": "2021-01-19T08:16:46Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 28248439,
+          "tag_name": "v0.17.2",
+          "published_at": "2020-07-06T09:37:07Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.17.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20871751,
+          "tag_name": "v0.16.2",
+          "published_at": "2019-10-22T06:37:35Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.16.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20678829,
+          "tag_name": "v0.16.1",
+          "published_at": "2019-10-14T11:14:05Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17531639,
+          "tag_name": "v0.14.3",
+          "published_at": "2019-05-23T02:12:34Z",
+          "html_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.14.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f90b5aa67d5f057aa7e44d9b8b860d4bc89852ad93b0594392897223e7477f53"
+    }
+  ]
+}

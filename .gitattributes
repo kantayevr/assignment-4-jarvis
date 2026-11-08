@@ -1,0 +1,2 @@
+# Preserve the exact bytes used by the protocol and run checksums on all platforms.
+* -text

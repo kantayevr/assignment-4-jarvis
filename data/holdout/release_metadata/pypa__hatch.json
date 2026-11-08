@@ -1,0 +1,1318 @@
+{
+  "candidate": "pypa/hatch",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:34.715Z",
+      "end": false,
+      "records": [
+        {
+          "id": 426198226,
+          "tag_name": "hatchling-v1.33.0",
+          "published_at": "2026-10-28T02:28:28Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.33.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 426199275,
+          "tag_name": "hatch-v1.18.2",
+          "published_at": "2026-10-28T02:40:34Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 392599975,
+          "tag_name": "hatchling-v1.32.4",
+          "published_at": "2026-09-20T22:49:07Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.32.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391024499,
+          "tag_name": "hatchling-v1.32.3",
+          "published_at": "2026-09-17T20:07:06Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.32.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 390106490,
+          "tag_name": "hatch-v1.18.1",
+          "published_at": "2026-09-16T18:34:56Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368341392,
+          "tag_name": "hatchling-v1.32.0",
+          "published_at": "2026-08-11T05:05:18Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.32.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368342138,
+          "tag_name": "hatch-v1.18.0",
+          "published_at": "2026-08-11T05:19:57Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 350654789,
+          "tag_name": "hatchling-v1.31.0",
+          "published_at": "2026-07-08T01:53:12Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.31.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 350656021,
+          "tag_name": "hatch-v1.17.1",
+          "published_at": "2026-07-08T02:23:40Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 332833151,
+          "tag_name": "hatchling-v1.30.1",
+          "published_at": "2026-06-02T00:10:21Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.30.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 332833595,
+          "tag_name": "hatch-v1.17.0",
+          "published_at": "2026-06-02T00:27:57Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 291472604,
+          "tag_name": "hatch-v1.16.5",
+          "published_at": "2026-02-27T18:49:55Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289563278,
+          "tag_name": "hatchling-v1.29.0",
+          "published_at": "2026-02-23T19:42:09Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.29.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289626900,
+          "tag_name": "hatch-v1.16.4",
+          "published_at": "2026-02-23T22:50:04Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 278477768,
+          "tag_name": "hatch-v1.16.3",
+          "published_at": "2026-01-21T01:35:19Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 268023234,
+          "tag_name": "hatch-v1.16.2",
+          "published_at": "2025-12-06T19:17:21Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 265613121,
+          "tag_name": "hatchling-v1.28.0",
+          "published_at": "2025-11-27T00:30:39Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 265840831,
+          "tag_name": "hatch-v1.16.1",
+          "published_at": "2025-11-27T20:05:36Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 265613233,
+          "tag_name": "hatch-v1.16.0",
+          "published_at": "2025-11-27T00:31:51Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 255140262,
+          "tag_name": "hatch-v1.15.1",
+          "published_at": "2025-10-16T20:35:02Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 254575366,
+          "tag_name": "hatch-v1.15.0",
+          "published_at": "2025-10-15T05:49:16Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 249560164,
+          "tag_name": "hatch-v1.14.2",
+          "published_at": "2025-09-24T06:20:32Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 210647815,
+          "tag_name": "hatch-v1.14.1",
+          "published_at": "2025-04-07T04:15:15Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190852301,
+          "tag_name": "hatch-v1.14.0",
+          "published_at": "2024-12-16T01:00:47Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190830435,
+          "tag_name": "hatchling-v1.27.0",
+          "published_at": "2024-12-15T17:07:31Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184960285,
+          "tag_name": "hatchling-v1.26.3",
+          "published_at": "2024-11-12T19:19:45Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.26.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184938537,
+          "tag_name": "hatchling-v1.26.2",
+          "published_at": "2024-11-12T17:16:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.26.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184565050,
+          "tag_name": "hatchling-v1.26.1",
+          "published_at": "2024-11-10T15:21:29Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.26.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184547373,
+          "tag_name": "hatchling-v1.26.0",
+          "published_at": "2024-11-10T06:38:47Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 179708212,
+          "tag_name": "hatch-v1.13.0",
+          "published_at": "2024-10-13T23:00:58Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.13.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "19a796285ac04cf4880100a69af970e45a5be1a52b2d1521a72eb5836d3e1394"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:35.660Z",
+      "end": false,
+      "records": [
+        {
+          "id": 161802268,
+          "tag_name": "hatchling-v1.25.0",
+          "published_at": "2024-06-22T17:26:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157806091,
+          "tag_name": "hatch-v1.12.0",
+          "published_at": "2024-05-28T14:11:55Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157176638,
+          "tag_name": "hatch-v1.11.1",
+          "published_at": "2024-05-23T17:19:45Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 155808003,
+          "tag_name": "hatch-v1.11.0",
+          "published_at": "2024-05-15T05:29:58Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153753328,
+          "tag_name": "hatch-v1.10.0",
+          "published_at": "2024-05-02T03:35:21Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152681442,
+          "tag_name": "hatch-v1.9.7",
+          "published_at": "2024-04-24T19:16:27Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.9.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152118189,
+          "tag_name": "hatchling-v1.24.2",
+          "published_at": "2024-04-22T02:20:51Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.24.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151661839,
+          "tag_name": "hatchling-v1.24.1",
+          "published_at": "2024-04-18T03:21:55Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151289263,
+          "tag_name": "hatchling-v1.24.0",
+          "published_at": "2024-04-16T04:57:17Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151084119,
+          "tag_name": "hatchling-v1.23.0",
+          "published_at": "2024-04-14T21:47:13Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149823935,
+          "tag_name": "hatchling-v1.22.5",
+          "published_at": "2024-04-04T18:05:48Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.22.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148066753,
+          "tag_name": "hatchling-v1.22.4",
+          "published_at": "2024-03-24T02:00:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.22.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 147162301,
+          "tag_name": "hatchling-v1.22.3",
+          "published_at": "2024-03-19T03:48:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.22.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146894830,
+          "tag_name": "hatchling-v1.22.2",
+          "published_at": "2024-03-16T15:10:19Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.22.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146873179,
+          "tag_name": "hatchling-v1.22.1",
+          "published_at": "2024-03-16T03:17:26Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.22.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146872400,
+          "tag_name": "hatchling-v1.22.0",
+          "published_at": "2024-03-16T02:51:15Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145961201,
+          "tag_name": "hatch-v1.9.4",
+          "published_at": "2024-03-12T03:42:34Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.9.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 138440336,
+          "tag_name": "hatchling-v1.21.1",
+          "published_at": "2024-01-25T00:57:53Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 138440868,
+          "tag_name": "hatch-v1.9.3",
+          "published_at": "2024-01-25T01:05:55Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137866400,
+          "tag_name": "hatch-v1.9.2",
+          "published_at": "2024-01-21T03:19:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 135033731,
+          "tag_name": "hatch-v1.9.1",
+          "published_at": "2023-12-25T05:51:00Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 134410996,
+          "tag_name": "hatch-v1.9.0",
+          "published_at": "2023-12-19T03:34:48Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 134260056,
+          "tag_name": "hatchling-v1.21.0",
+          "published_at": "2023-12-18T05:17:59Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133883313,
+          "tag_name": "hatch-v1.8.1",
+          "published_at": "2023-12-14T05:23:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133692113,
+          "tag_name": "hatchling-v1.20.0",
+          "published_at": "2023-12-13T07:14:30Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133517874,
+          "tag_name": "hatchling-v1.19.1",
+          "published_at": "2023-12-12T06:33:45Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.19.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133358054,
+          "tag_name": "hatchling-v1.19.0",
+          "published_at": "2023-12-11T07:00:24Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133424497,
+          "tag_name": "hatch-v1.8.0",
+          "published_at": "2023-12-11T14:45:57Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 108224278,
+          "tag_name": "hatchling-v1.18.0",
+          "published_at": "2023-06-12T13:26:04Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 106538746,
+          "tag_name": "hatchling-v1.17.1",
+          "published_at": "2023-06-03T16:58:29Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.17.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "6d963b82ca33917c09582e38c0ccb4780c9c5f807d2f0a959764d47c683c77eb"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:36.729Z",
+      "end": false,
+      "records": [
+        {
+          "id": 102731461,
+          "tag_name": "hatchling-v1.17.0",
+          "published_at": "2023-05-12T04:37:13Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102647989,
+          "tag_name": "hatchling-v1.16.1",
+          "published_at": "2023-05-11T14:17:39Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102566364,
+          "tag_name": "hatchling-v1.16.0",
+          "published_at": "2023-05-11T02:54:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102382939,
+          "tag_name": "hatchling-v1.15.0",
+          "published_at": "2023-05-09T17:40:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100575972,
+          "tag_name": "hatchling-v1.14.1",
+          "published_at": "2023-04-23T21:25:04Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 97853524,
+          "tag_name": "hatch-v1.7.0",
+          "published_at": "2023-04-03T13:28:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 97776893,
+          "tag_name": "hatchling-v1.14.0",
+          "published_at": "2023-04-02T20:30:02Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91841235,
+          "tag_name": "hatchling-v1.13.0",
+          "published_at": "2023-02-09T06:05:25Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87966661,
+          "tag_name": "hatchling-v1.12.2",
+          "published_at": "2023-01-05T05:12:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87635265,
+          "tag_name": "hatchling-v1.12.1",
+          "published_at": "2022-12-31T16:23:53Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87612298,
+          "tag_name": "hatchling-v1.12.0",
+          "published_at": "2022-12-30T20:54:12Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80866346,
+          "tag_name": "hatch-v1.6.3",
+          "published_at": "2022-10-25T02:19:34Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80406768,
+          "tag_name": "hatch-v1.6.2",
+          "published_at": "2022-10-20T05:26:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80287288,
+          "tag_name": "hatchling-v1.11.1",
+          "published_at": "2022-10-19T06:23:25Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80033881,
+          "tag_name": "hatch-v1.6.1",
+          "published_at": "2022-10-17T01:58:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 79354612,
+          "tag_name": "hatch-v1.6.0",
+          "published_at": "2022-10-09T00:51:47Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 79352603,
+          "tag_name": "hatchling-v1.11.0",
+          "published_at": "2022-10-08T22:42:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 77500139,
+          "tag_name": "hatchling-v1.10.0",
+          "published_at": "2022-09-19T03:06:21Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 76775807,
+          "tag_name": "hatchling-v1.9.0",
+          "published_at": "2022-09-10T00:53:36Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 75562094,
+          "tag_name": "hatch-v1.5.0",
+          "published_at": "2022-08-28T06:07:49Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 75307201,
+          "tag_name": "hatchling-v1.8.1",
+          "published_at": "2022-08-25T06:18:29Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74484541,
+          "tag_name": "hatchling-v1.8.0",
+          "published_at": "2022-08-16T07:07:03Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74486168,
+          "tag_name": "hatch-v1.4.2",
+          "published_at": "2022-08-16T07:30:50Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74359254,
+          "tag_name": "hatchling-v1.7.1",
+          "published_at": "2022-08-13T17:23:08Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74340992,
+          "tag_name": "hatchling-v1.7.0",
+          "published_at": "2022-08-13T01:58:06Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74360311,
+          "tag_name": "hatch-v1.4.1",
+          "published_at": "2022-08-13T18:24:19Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73820758,
+          "tag_name": "hatch-v1.4.0",
+          "published_at": "2022-08-07T01:37:50Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72679735,
+          "tag_name": "hatchling-v1.6.0",
+          "published_at": "2022-07-23T19:09:43Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 71664797,
+          "tag_name": "hatchling-v1.5.0",
+          "published_at": "2022-07-11T04:38:13Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 71750811,
+          "tag_name": "hatch-v1.3.1",
+          "published_at": "2022-07-11T22:28:32Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.3.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "ebbe18971b786ead99024e057ff865b492a1f573da97fde07f0b1795e5de8a80"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:38.131Z",
+      "end": false,
+      "records": [
+        {
+          "id": 71652956,
+          "tag_name": "hatch-v1.3.0",
+          "published_at": "2022-07-10T20:00:17Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 71238896,
+          "tag_name": "hatchling-v1.4.1",
+          "published_at": "2022-07-05T03:49:23Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 71153838,
+          "tag_name": "hatchling-v1.4.0",
+          "published_at": "2022-07-03T19:36:16Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 69466230,
+          "tag_name": "hatchling-v0.25.1",
+          "published_at": "2022-06-14T22:22:08Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.25.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68198274,
+          "tag_name": "hatch-v1.2.1",
+          "published_at": "2022-05-31T03:16:51Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68185992,
+          "tag_name": "hatchling-v1.3.1",
+          "published_at": "2022-05-30T20:32:57Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67500941,
+          "tag_name": "hatchling-v1.3.0",
+          "published_at": "2022-05-23T01:24:49Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67501800,
+          "tag_name": "hatch-v1.2.0",
+          "published_at": "2022-05-23T02:00:52Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67442988,
+          "tag_name": "hatch-v1.1.2",
+          "published_at": "2022-05-21T01:01:45Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67440902,
+          "tag_name": "hatchling-v1.2.0",
+          "published_at": "2022-05-21T00:12:49Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67339675,
+          "tag_name": "hatchling-v1.1.0",
+          "published_at": "2022-05-20T02:24:23Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67128698,
+          "tag_name": "hatchling-v1.0.0",
+          "published_at": "2022-05-18T00:00:52Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v1.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66920499,
+          "tag_name": "hatchling-v0.25.0",
+          "published_at": "2022-05-16T02:28:02Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66736045,
+          "tag_name": "hatch-v1.1.1",
+          "published_at": "2022-05-12T20:36:07Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66728824,
+          "tag_name": "hatch-v1.1.0",
+          "published_at": "2022-05-12T19:01:42Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65629590,
+          "tag_name": "hatchling-v0.24.0",
+          "published_at": "2022-04-28T22:05:30Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65536577,
+          "tag_name": "hatchling-v0.23.0",
+          "published_at": "2022-04-28T05:26:44Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65547887,
+          "tag_name": "hatch-v1.0.0",
+          "published_at": "2022-04-28T07:47:11Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65546192,
+          "tag_name": "hatch-v1.0.0rc18",
+          "published_at": "2022-04-28T07:21:17Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc18",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 64682229,
+          "tag_name": "hatch-v1.0.0rc17",
+          "published_at": "2022-04-18T22:33:53Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc17",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 62854128,
+          "tag_name": "hatchling-v0.22.0",
+          "published_at": "2022-03-26T23:52:51Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 62397440,
+          "tag_name": "hatchling-v0.21.1",
+          "published_at": "2022-03-22T05:00:03Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 62289139,
+          "tag_name": "hatch-v1.0.0rc16",
+          "published_at": "2022-03-21T02:50:45Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc16",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 62158077,
+          "tag_name": "hatchling-v0.21.0",
+          "published_at": "2022-03-18T03:47:20Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 62160847,
+          "tag_name": "hatch-v1.0.0rc15",
+          "published_at": "2022-03-18T05:24:01Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc15",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 61163693,
+          "tag_name": "hatchling-v0.20.1",
+          "published_at": "2022-03-07T15:44:22Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.20.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 61110776,
+          "tag_name": "hatchling-v0.20.0",
+          "published_at": "2022-03-07T06:23:06Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 61101226,
+          "tag_name": "hatch-v1.0.0rc14",
+          "published_at": "2022-03-07T01:44:47Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc14",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 61098526,
+          "tag_name": "hatchling-v0.19.0",
+          "published_at": "2022-03-06T23:47:48Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60578803,
+          "tag_name": "hatchling-v0.18.0",
+          "published_at": "2022-02-28T05:43:29Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.18.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0b58657b7cb1080ffefeaabc2b111448c67cdcfbb4b8c96551db3b9cf0f45411"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=5",
+      "response_url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=5",
+      "size": 30,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:39.142Z",
+      "end": false,
+      "records": [
+        {
+          "id": 60548776,
+          "tag_name": "hatchling-v0.17.0",
+          "published_at": "2022-02-27T01:12:47Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60541416,
+          "tag_name": "hatchling-v0.16.0",
+          "published_at": "2022-02-26T17:36:05Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60199596,
+          "tag_name": "hatchling-v0.15.0",
+          "published_at": "2022-02-23T07:11:34Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59762833,
+          "tag_name": "hatchling-v0.14.0",
+          "published_at": "2022-02-17T03:31:08Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59669639,
+          "tag_name": "hatchling-v0.13.0",
+          "published_at": "2022-02-16T06:01:16Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59456121,
+          "tag_name": "hatchling-v0.12.0",
+          "published_at": "2022-02-14T03:20:28Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59441998,
+          "tag_name": "hatchling-v0.11.3",
+          "published_at": "2022-02-13T17:31:24Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59446924,
+          "tag_name": "hatch-v1.0.0rc13",
+          "published_at": "2022-02-13T21:19:02Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc13",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 58780748,
+          "tag_name": "hatchling-v0.11.2",
+          "published_at": "2022-02-05T19:53:03Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58777716,
+          "tag_name": "hatchling-v0.11.1",
+          "published_at": "2022-02-05T18:07:10Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58750064,
+          "tag_name": "hatchling-v0.11.0",
+          "published_at": "2022-02-05T04:59:06Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58752772,
+          "tag_name": "hatch-v1.0.0rc12",
+          "published_at": "2022-02-05T06:25:43Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc12",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 57780097,
+          "tag_name": "hatch-v1.0.0rc11",
+          "published_at": "2022-01-23T17:00:19Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc11",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 57637596,
+          "tag_name": "hatchling-v0.10.0",
+          "published_at": "2022-01-21T05:00:06Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57427313,
+          "tag_name": "hatch-v1.0.0rc9",
+          "published_at": "2022-01-19T03:49:51Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc9",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 57489520,
+          "tag_name": "hatch-v1.0.0rc10",
+          "published_at": "2022-01-19T17:44:03Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc10",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 57416681,
+          "tag_name": "hatchling-v0.9.0",
+          "published_at": "2022-01-19T00:00:07Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57229133,
+          "tag_name": "hatchling-v0.8.2",
+          "published_at": "2022-01-16T17:50:03Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57159393,
+          "tag_name": "hatchling-v0.8.1",
+          "published_at": "2022-01-14T23:13:47Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56695762,
+          "tag_name": "hatchling-v0.8.0",
+          "published_at": "2022-01-09T18:31:50Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56678596,
+          "tag_name": "hatch-v1.0.0rc8",
+          "published_at": "2022-01-09T03:37:40Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56667871,
+          "tag_name": "hatchling-v0.7.0",
+          "published_at": "2022-01-08T18:00:48Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56668687,
+          "tag_name": "hatch-v1.0.0rc7",
+          "published_at": "2022-01-08T18:46:37Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.0.0rc7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56516215,
+          "tag_name": "hatchling-v0.6",
+          "published_at": "2022-01-06T07:34:32Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56517123,
+          "tag_name": "hatch-v1rc6",
+          "published_at": "2022-01-06T07:52:08Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1rc6",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56285293,
+          "tag_name": "hatch-v1rc5",
+          "published_at": "2022-01-03T01:10:07Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1rc5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56257261,
+          "tag_name": "hatchling-v0.5",
+          "published_at": "2022-01-01T21:33:30Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56257709,
+          "tag_name": "hatch-v1rc4",
+          "published_at": "2022-01-01T21:45:05Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56217425,
+          "tag_name": "hatchling-v0.4",
+          "published_at": "2021-12-31T04:21:42Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56217981,
+          "tag_name": "hatch-v1rc3",
+          "published_at": "2021-12-31T04:56:23Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1rc3",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "4fb98842228c8ba08609f90adf781c6a5cf760246496fbf32a136ff23423edd8"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=6",
+      "response_url": "https://api.github.com/repos/pypa/hatch/releases?per_page=30&page=6",
+      "size": 30,
+      "page": 6,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:40.011Z",
+      "end": true,
+      "records": [
+        {
+          "id": 56171604,
+          "tag_name": "hatchling-v0.3.1",
+          "published_at": "2021-12-30T05:15:25Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56160051,
+          "tag_name": "hatchling-v0.3",
+          "published_at": "2021-12-29T20:56:08Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatchling-v0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56160976,
+          "tag_name": "hatch-v1rc2",
+          "published_at": "2021-12-29T21:15:02Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/hatch-v1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 20857504,
+          "tag_name": "0.23.0",
+          "published_at": "2019-10-21T16:43:48Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/0.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7742941,
+          "tag_name": "0.11.0",
+          "published_at": "2017-09-13T18:22:46Z",
+          "html_url": "https://github.com/pypa/hatch/releases/tag/0.11.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "3224588c540f297b1b5389c747c0c217338d519c0c36e2649080ffb19585b503"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "candidate": "vega/altair",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/vega/altair/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/vega/altair/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:47.955Z",
+      "end": false,
+      "records": [
+        {
+          "id": 388909232,
+          "tag_name": "v6.3.0",
+          "published_at": "2026-09-15T06:37:25Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v6.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 340906881,
+          "tag_name": "v6.2.2",
+          "published_at": "2026-06-23T12:46:14Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v6.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 335029391,
+          "tag_name": "v6.2.1",
+          "published_at": "2026-06-05T16:22:46Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v6.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 334903994,
+          "tag_name": "v6.2.0",
+          "published_at": "2026-06-05T15:09:22Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v6.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 311783948,
+          "tag_name": "v6.1.0",
+          "published_at": "2026-04-21T14:51:23Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v6.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 261711550,
+          "tag_name": "v6.0.0",
+          "published_at": "2025-11-12T11:01:24Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v6.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187135273,
+          "tag_name": "v5.5.0",
+          "published_at": "2024-11-24T00:12:10Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172063456,
+          "tag_name": "v5.4.1",
+          "published_at": "2024-08-27T04:41:23Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169661677,
+          "tag_name": "v5.4.0",
+          "published_at": "2024-08-11T08:22:24Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149099886,
+          "tag_name": "v5.3.0",
+          "published_at": "2024-03-30T15:36:52Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 131676691,
+          "tag_name": "v5.2.0",
+          "published_at": "2023-11-28T06:23:39Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123550720,
+          "tag_name": "v5.1.2",
+          "published_at": "2023-10-03T18:18:45Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119233834,
+          "tag_name": "v5.1.1",
+          "published_at": "2023-08-30T11:35:46Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 118935200,
+          "tag_name": "v5.1.0",
+          "published_at": "2023-08-28T14:14:19Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 104459933,
+          "tag_name": "v5.0.1",
+          "published_at": "2023-05-26T21:55:53Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102363585,
+          "tag_name": "v5.0.0",
+          "published_at": "2023-05-09T15:04:23Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v5.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90486882,
+          "tag_name": "v4.2.2",
+          "published_at": "2023-01-27T23:10:18Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v4.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90362688,
+          "tag_name": "v4.2.1",
+          "published_at": "2023-01-26T23:04:38Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v4.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56138056,
+          "tag_name": "v4.2.0",
+          "published_at": "2021-12-29T13:30:58Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v4.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 25092402,
+          "tag_name": "v4.1.0",
+          "published_at": "2020-04-01T13:29:16Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v4.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049685,
+          "tag_name": "v4.0.1",
+          "published_at": "2024-03-23T15:30:00Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v4.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22129824,
+          "tag_name": "v4.0.0",
+          "published_at": "2019-12-11T06:03:35Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21802294,
+          "tag_name": "v3.3.0",
+          "published_at": "2019-11-27T14:19:46Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v3.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19095540,
+          "tag_name": "v3.2.0",
+          "published_at": "2019-08-06T03:15:38Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v3.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049641,
+          "tag_name": "v3.1.0",
+          "published_at": "2024-03-23T15:28:28Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v3.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049592,
+          "tag_name": "v3.0.1",
+          "published_at": "2024-03-23T15:26:33Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v3.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17078977,
+          "tag_name": "v3.0.0",
+          "published_at": "2019-04-30T22:00:38Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v3.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049578,
+          "tag_name": "v2.4.1",
+          "published_at": "2024-03-23T15:25:52Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049542,
+          "tag_name": "v2.3.0",
+          "published_at": "2024-03-23T15:24:36Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049495,
+          "tag_name": "v2.2.2",
+          "published_at": "2024-03-23T15:22:52Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.2.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "7b1a739b8eb0362d767c9cb6cbdc4a950115e76a061940272e5bd9915eb68eae"
+    },
+    {
+      "url": "https://api.github.com/repos/vega/altair/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/vega/altair/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:48.803Z",
+      "end": true,
+      "records": [
+        {
+          "id": 148049481,
+          "tag_name": "v2.2.1",
+          "published_at": "2024-03-23T15:22:22Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12419085,
+          "tag_name": "v2.2.0",
+          "published_at": "2018-08-15T17:17:45Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11353639,
+          "tag_name": "v2.1.0",
+          "published_at": "2018-06-06T16:40:39Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049414,
+          "tag_name": "v2.0.0",
+          "published_at": "2024-03-23T15:19:43Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049364,
+          "tag_name": "v1.2.1",
+          "published_at": "2024-03-23T15:18:25Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v1.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4593319,
+          "tag_name": "v1.2.0",
+          "published_at": "2016-11-07T17:49:25Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/v1.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148049267,
+          "tag_name": "1.0.0",
+          "published_at": "2024-03-23T15:15:22Z",
+          "html_url": "https://github.com/vega/altair/releases/tag/1.0.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "5f3c4ebca381eb6cc490da52dbfa7072b70f9398534c768813cae104e97eb998"
+    }
+  ]
+}

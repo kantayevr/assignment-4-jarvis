@@ -1,0 +1,427 @@
+[
+  {
+    "candidate": "astral-sh/ruff",
+    "pages": 30,
+    "release_count": 435,
+    "canonical_repository": "astral-sh/ruff",
+    "selected_release_ids": {
+      "frozen": 191663070,
+      "updated": 221839748
+    },
+    "question_id": "A4Q001"
+  },
+  {
+    "candidate": "astral-sh/uv",
+    "pages": 23,
+    "release_count": 330,
+    "canonical_repository": "astral-sh/uv",
+    "selected_release_ids": {
+      "frozen": 192478659,
+      "updated": 222155943
+    },
+    "question_id": "A4Q002"
+  },
+  {
+    "candidate": "python-poetry/poetry",
+    "pages": 6,
+    "release_count": 155,
+    "canonical_repository": "python-poetry/poetry",
+    "selected_release_ids": {
+      "frozen": 189441074,
+      "updated": 216353756
+    },
+    "question_id": "A4Q003"
+  },
+  {
+    "candidate": "pypa/pip",
+    "pages": 1,
+    "release_count": 0,
+    "reason": "No eligible published release at one or both cutoffs."
+  },
+  {
+    "candidate": "pypa/build",
+    "pages": 1,
+    "release_count": 18,
+    "canonical_repository": "pypa/build",
+    "selected_release_ids": {
+      "frozen": 178575154,
+      "updated": 178575154
+    },
+    "reason": "One or both selected release tags are incompatible with the Assignment 3 scorer."
+  },
+  {
+    "candidate": "pypa/twine",
+    "pages": 1,
+    "release_count": 17,
+    "canonical_repository": "pypa/twine",
+    "selected_release_ids": {
+      "frozen": 188322085,
+      "updated": 195914293
+    },
+    "question_id": "A4Q004"
+  },
+  {
+    "candidate": "pypa/hatch",
+    "pages": 6,
+    "release_count": 155,
+    "canonical_repository": "pypa/hatch",
+    "selected_release_ids": {
+      "frozen": 190852301,
+      "updated": 210647815
+    },
+    "reason": "One or both selected release tags are incompatible with the Assignment 3 scorer."
+  },
+  {
+    "candidate": "pypa/virtualenv",
+    "pages": 11,
+    "release_count": 301,
+    "canonical_repository": "pypa/virtualenv",
+    "selected_release_ids": {
+      "frozen": 187452172,
+      "updated": 217401158
+    },
+    "question_id": "A4Q005"
+  },
+  {
+    "candidate": "tox-dev/tox",
+    "pages": 12,
+    "release_count": 340,
+    "canonical_repository": "tox-dev/tox",
+    "selected_release_ids": {
+      "frozen": 181245685,
+      "updated": 218301633
+    },
+    "question_id": "A4Q006"
+  },
+  {
+    "candidate": "pre-commit/pre-commit",
+    "pages": 5,
+    "release_count": 120,
+    "canonical_repository": "pre-commit/pre-commit",
+    "selected_release_ids": {
+      "frozen": 178941095,
+      "updated": 206695099
+    },
+    "question_id": "A4Q007"
+  },
+  {
+    "candidate": "dask/dask",
+    "pages": 2,
+    "release_count": 44,
+    "canonical_repository": "dask/dask",
+    "selected_release_ids": {
+      "frozen": 189055853,
+      "updated": 218758797
+    },
+    "question_id": "A4Q008"
+  },
+  {
+    "candidate": "dask/distributed",
+    "pages": 2,
+    "release_count": 41,
+    "canonical_repository": "dask/distributed",
+    "selected_release_ids": {
+      "frozen": 190014788,
+      "updated": 219884845
+    },
+    "question_id": "A4Q009"
+  },
+  {
+    "candidate": "pydata/xarray",
+    "pages": 4,
+    "release_count": 119,
+    "canonical_repository": "pydata/xarray",
+    "selected_release_ids": {
+      "frozen": 187053488,
+      "updated": 215614346
+    },
+    "question_id": "A4Q010"
+  },
+  {
+    "candidate": "scikit-image/scikit-image",
+    "pages": 2,
+    "release_count": 44,
+    "canonical_repository": "scikit-image/scikit-image",
+    "selected_release_ids": {
+      "frozen": 190718737,
+      "updated": 200989185
+    },
+    "question_id": "A4Q011"
+  },
+  {
+    "candidate": "bokeh/bokeh",
+    "pages": 1,
+    "release_count": 0,
+    "reason": "No eligible published release at one or both cutoffs."
+  },
+  {
+    "candidate": "plotly/plotly.py",
+    "pages": 4,
+    "release_count": 109,
+    "canonical_repository": "plotly/plotly.py",
+    "selected_release_ids": {
+      "frozen": 174795724,
+      "updated": 221372107
+    },
+    "question_id": "A4Q012"
+  },
+  {
+    "candidate": "vega/altair",
+    "pages": 2,
+    "release_count": 37,
+    "canonical_repository": "vega/altair",
+    "selected_release_ids": {
+      "frozen": 187135273,
+      "updated": 187135273
+    },
+    "question_id": "A4Q013"
+  },
+  {
+    "candidate": "mwaskom/seaborn",
+    "pages": 2,
+    "release_count": 37,
+    "canonical_repository": "mwaskom/seaborn",
+    "selected_release_ids": {
+      "frozen": 138513425,
+      "updated": 138513425
+    },
+    "question_id": "A4Q014"
+  },
+  {
+    "candidate": "joblib/joblib",
+    "pages": 1,
+    "release_count": 10,
+    "canonical_repository": "joblib/joblib",
+    "selected_release_ids": {
+      "frozen": 153812874,
+      "updated": 220626134
+    },
+    "question_id": "A4Q015"
+  },
+  {
+    "candidate": "statsmodels/statsmodels",
+    "pages": 2,
+    "release_count": 32,
+    "canonical_repository": "statsmodels/statsmodels",
+    "selected_release_ids": {
+      "frozen": 178241358,
+      "updated": 178241358
+    },
+    "question_id": "A4Q016"
+  },
+  {
+    "candidate": "aio-libs/aiohttp",
+    "pages": 45,
+    "release_count": 224,
+    "canonical_repository": "aio-libs/aiohttp",
+    "selected_release_ids": {
+      "frozen": 191539077,
+      "updated": 222204421
+    },
+    "question_id": "A4Q017"
+  },
+  {
+    "candidate": "encode/httpx",
+    "pages": 2,
+    "release_count": 51,
+    "canonical_repository": "encode/httpx",
+    "selected_release_ids": {
+      "frozen": 188917449,
+      "updated": 188917449
+    },
+    "question_id": "A4Q018"
+  },
+  {
+    "candidate": "encode/httpcore",
+    "pages": 2,
+    "release_count": 52,
+    "canonical_repository": "encode/httpcore",
+    "selected_release_ids": {
+      "frozen": 185623369,
+      "updated": 214640934
+    },
+    "question_id": "A4Q019"
+  },
+  {
+    "candidate": "django/django",
+    "pages": 1,
+    "release_count": 0,
+    "reason": "No eligible published release at one or both cutoffs."
+  },
+  {
+    "candidate": "encode/django-rest-framework",
+    "pages": 1,
+    "release_count": 29,
+    "canonical_repository": "encode/django-rest-framework",
+    "selected_release_ids": {
+      "frozen": 192563570,
+      "updated": 208970899
+    },
+    "question_id": "A4Q020"
+  },
+  {
+    "candidate": "scrapy/scrapy",
+    "pages": 2,
+    "release_count": 55,
+    "canonical_repository": "scrapy/scrapy",
+    "selected_release_ids": {
+      "frozen": 185888935,
+      "updated": 217280631
+    },
+    "question_id": "A4Q021"
+  },
+  {
+    "candidate": "pallets/jinja",
+    "pages": 1,
+    "release_count": 21,
+    "canonical_repository": "pallets/jinja",
+    "selected_release_ids": {
+      "frozen": 191980201,
+      "updated": 203951295
+    },
+    "question_id": "A4Q022"
+  },
+  {
+    "candidate": "pallets/click",
+    "pages": 2,
+    "release_count": 31,
+    "canonical_repository": "pallets/click",
+    "selected_release_ids": {
+      "frozen": 191717754,
+      "updated": 219915865
+    },
+    "question_id": "A4Q023"
+  },
+  {
+    "candidate": "celery/celery",
+    "pages": 3,
+    "release_count": 73,
+    "canonical_repository": "celery/celery",
+    "selected_release_ids": {
+      "frozen": 151631710,
+      "updated": 214876486
+    },
+    "question_id": "A4Q024"
+  },
+  {
+    "candidate": "redis/redis-py",
+    "pages": 4,
+    "release_count": 107,
+    "canonical_repository": "redis/redis-py",
+    "selected_release_ids": {
+      "frozen": 189350245,
+      "updated": 221315470
+    },
+    "question_id": "A4Q025"
+  },
+  {
+    "candidate": "psf/black",
+    "pages": 2,
+    "release_count": 57,
+    "canonical_repository": "psf/black",
+    "selected_release_ids": {
+      "frozen": 178759384,
+      "updated": 197284134
+    },
+    "question_id": "A4Q026"
+  },
+  {
+    "candidate": "sphinx-doc/sphinx",
+    "pages": 3,
+    "release_count": 81,
+    "canonical_repository": "sphinx-doc/sphinx",
+    "selected_release_ids": {
+      "frozen": 179702884,
+      "updated": 203242752
+    },
+    "question_id": "A4Q027"
+  },
+  {
+    "candidate": "mkdocs/mkdocs",
+    "pages": 1,
+    "release_count": 15,
+    "canonical_repository": "mkdocs/mkdocs",
+    "selected_release_ids": {
+      "frozen": 172752442,
+      "updated": 172752442
+    },
+    "question_id": "A4Q028"
+  },
+  {
+    "candidate": "mkdocstrings/mkdocstrings",
+    "pages": 2,
+    "release_count": 34,
+    "canonical_repository": "mkdocstrings/mkdocstrings",
+    "selected_release_ids": {
+      "frozen": 184408871,
+      "updated": 209281082
+    },
+    "question_id": "A4Q029"
+  },
+  {
+    "candidate": "dbt-labs/dbt-core",
+    "pages": 13,
+    "release_count": 379,
+    "canonical_repository": "dbt-labs/dbt",
+    "selected_release_ids": {
+      "frozen": 191016103,
+      "updated": 222127601
+    },
+    "question_id": "A4Q030"
+  },
+  {
+    "candidate": "prefecthq/prefect",
+    "pages": 32,
+    "release_count": 942,
+    "canonical_repository": "PrefectHQ/prefect",
+    "selected_release_ids": {
+      "frozen": 192287287,
+      "updated": 221945630
+    },
+    "question_id": "A4Q031"
+  },
+  {
+    "candidate": "streamlit/streamlit",
+    "pages": 5,
+    "release_count": 132,
+    "canonical_repository": "streamlit/streamlit",
+    "selected_release_ids": {
+      "frozen": 190719323,
+      "updated": 218099332
+    },
+    "question_id": "A4Q032"
+  },
+  {
+    "candidate": "gradio-app/gradio",
+    "pages": 175,
+    "release_count": 5224,
+    "canonical_repository": "gradio-app/gradio",
+    "selected_release_ids": {
+      "frozen": 191044138,
+      "updated": 222085092
+    },
+    "reason": "One or both selected release tags are incompatible with the Assignment 3 scorer."
+  },
+  {
+    "candidate": "jupyterlab/jupyterlab",
+    "pages": 50,
+    "release_count": 288,
+    "canonical_repository": "jupyterlab/jupyterlab",
+    "selected_release_ids": {
+      "frozen": 191463063,
+      "updated": 220963130
+    },
+    "question_id": "A4Q033"
+  },
+  {
+    "candidate": "jupyter/notebook",
+    "pages": 6,
+    "release_count": 161,
+    "canonical_repository": "jupyter/notebook",
+    "selected_release_ids": {
+      "frozen": 191961961,
+      "updated": 221023764
+    },
+    "question_id": "A4Q034"
+  }
+]

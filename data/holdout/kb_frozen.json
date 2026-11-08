@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "astral-sh__ruff",
+    "repository": "astral-sh/ruff",
+    "release_id": 191663070,
+    "tag": "0.8.4",
+    "published_at": "2024-12-19T13:41:08Z",
+    "source_url": "https://github.com/astral-sh/ruff/releases/tag/0.8.4",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: astral-sh/ruff\nRelease tag: 0.8.4\nPublished at: 2024-12-19T13:41:08Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/astral-sh/ruff/releases/tag/0.8.4"
+  },
+  {
+    "document_id": "astral-sh__uv",
+    "repository": "astral-sh/uv",
+    "release_id": 192478659,
+    "tag": "0.5.13",
+    "published_at": "2024-12-27T13:59:32Z",
+    "source_url": "https://github.com/astral-sh/uv/releases/tag/0.5.13",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: astral-sh/uv\nRelease tag: 0.5.13\nPublished at: 2024-12-27T13:59:32Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/astral-sh/uv/releases/tag/0.5.13"
+  },
+  {
+    "document_id": "python-poetry__poetry",
+    "repository": "python-poetry/poetry",
+    "release_id": 189441074,
+    "tag": "1.8.5",
+    "published_at": "2024-12-06T16:29:16Z",
+    "source_url": "https://github.com/python-poetry/poetry/releases/tag/1.8.5",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: python-poetry/poetry\nRelease tag: 1.8.5\nPublished at: 2024-12-06T16:29:16Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/python-poetry/poetry/releases/tag/1.8.5"
+  },
+  {
+    "document_id": "pypa__twine",
+    "repository": "pypa/twine",
+    "release_id": 188322085,
+    "tag": "6.0.1",
+    "published_at": "2024-12-01T01:18:57Z",
+    "source_url": "https://github.com/pypa/twine/releases/tag/6.0.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: pypa/twine\nRelease tag: 6.0.1\nPublished at: 2024-12-01T01:18:57Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pypa/twine/releases/tag/6.0.1"
+  },
+  {
+    "document_id": "pypa__virtualenv",
+    "repository": "pypa/virtualenv",
+    "release_id": 187452172,
+    "tag": "20.28.0",
+    "published_at": "2024-11-26T04:33:22Z",
+    "source_url": "https://github.com/pypa/virtualenv/releases/tag/20.28.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: pypa/virtualenv\nRelease tag: 20.28.0\nPublished at: 2024-11-26T04:33:22Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pypa/virtualenv/releases/tag/20.28.0"
+  },
+  {
+    "document_id": "tox-dev__tox",
+    "repository": "tox-dev/tox",
+    "release_id": 181245685,
+    "tag": "4.23.2",
+    "published_at": "2024-10-22T14:27:01Z",
+    "source_url": "https://github.com/tox-dev/tox/releases/tag/4.23.2",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: tox-dev/tox\nRelease tag: 4.23.2\nPublished at: 2024-10-22T14:27:01Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/tox-dev/tox/releases/tag/4.23.2"
+  },
+  {
+    "document_id": "pre-commit__pre-commit",
+    "repository": "pre-commit/pre-commit",
+    "release_id": 178941095,
+    "tag": "v4.0.1",
+    "published_at": "2024-10-08T16:10:45Z",
+    "source_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.0.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: pre-commit/pre-commit\nRelease tag: v4.0.1\nPublished at: 2024-10-08T16:10:45Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pre-commit/pre-commit/releases/tag/v4.0.1"
+  },
+  {
+    "document_id": "dask__dask",
+    "repository": "dask/dask",
+    "release_id": 189055853,
+    "tag": "2024.12.1",
+    "published_at": "2024-12-17T20:26:22Z",
+    "source_url": "https://github.com/dask/dask/releases/tag/2024.12.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: dask/dask\nRelease tag: 2024.12.1\nPublished at: 2024-12-17T20:26:22Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/dask/dask/releases/tag/2024.12.1"
+  },
+  {
+    "document_id": "dask__distributed",
+    "repository": "dask/distributed",
+    "release_id": 190014788,
+    "tag": "2024.12.1",
+    "published_at": "2024-12-17T20:26:23Z",
+    "source_url": "https://github.com/dask/distributed/releases/tag/2024.12.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: dask/distributed\nRelease tag: 2024.12.1\nPublished at: 2024-12-17T20:26:23Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/dask/distributed/releases/tag/2024.12.1"
+  },
+  {
+    "document_id": "pydata__xarray",
+    "repository": "pydata/xarray",
+    "release_id": 187053488,
+    "tag": "v2024.11.0",
+    "published_at": "2024-11-22T21:16:07Z",
+    "source_url": "https://github.com/pydata/xarray/releases/tag/v2024.11.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: pydata/xarray\nRelease tag: v2024.11.0\nPublished at: 2024-11-22T21:16:07Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pydata/xarray/releases/tag/v2024.11.0"
+  },
+  {
+    "document_id": "scikit-image__scikit-image",
+    "repository": "scikit-image/scikit-image",
+    "release_id": 190718737,
+    "tag": "v0.25.0",
+    "published_at": "2024-12-13T21:16:56Z",
+    "source_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: scikit-image/scikit-image\nRelease tag: v0.25.0\nPublished at: 2024-12-13T21:16:56Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/scikit-image/scikit-image/releases/tag/v0.25.0"
+  },
+  {
+    "document_id": "plotly__plotly.py",
+    "repository": "plotly/plotly.py",
+    "release_id": 174795724,
+    "tag": "v5.24.1",
+    "published_at": "2024-09-12T15:42:27Z",
+    "source_url": "https://github.com/plotly/plotly.py/releases/tag/v5.24.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: plotly/plotly.py\nRelease tag: v5.24.1\nPublished at: 2024-09-12T15:42:27Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/plotly/plotly.py/releases/tag/v5.24.1"
+  },
+  {
+    "document_id": "vega__altair",
+    "repository": "vega/altair",
+    "release_id": 187135273,
+    "tag": "v5.5.0",
+    "published_at": "2024-11-24T00:12:10Z",
+    "source_url": "https://github.com/vega/altair/releases/tag/v5.5.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: vega/altair\nRelease tag: v5.5.0\nPublished at: 2024-11-24T00:12:10Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/vega/altair/releases/tag/v5.5.0"
+  },
+  {
+    "document_id": "mwaskom__seaborn",
+    "repository": "mwaskom/seaborn",
+    "release_id": 138513425,
+    "tag": "v0.13.2",
+    "published_at": "2024-01-25T13:21:20Z",
+    "source_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.2",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: mwaskom/seaborn\nRelease tag: v0.13.2\nPublished at: 2024-01-25T13:21:20Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/mwaskom/seaborn/releases/tag/v0.13.2"
+  },
+  {
+    "document_id": "joblib__joblib",
+    "repository": "joblib/joblib",
+    "release_id": 153812874,
+    "tag": "1.4.2",
+    "published_at": "2024-05-02T12:14:28Z",
+    "source_url": "https://github.com/joblib/joblib/releases/tag/1.4.2",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: joblib/joblib\nRelease tag: 1.4.2\nPublished at: 2024-05-02T12:14:28Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/joblib/joblib/releases/tag/1.4.2"
+  },
+  {
+    "document_id": "statsmodels__statsmodels",
+    "repository": "statsmodels/statsmodels",
+    "release_id": 178241358,
+    "tag": "v0.14.4",
+    "published_at": "2024-10-03T15:37:29Z",
+    "source_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.4",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: statsmodels/statsmodels\nRelease tag: v0.14.4\nPublished at: 2024-10-03T15:37:29Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/statsmodels/statsmodels/releases/tag/v0.14.4"
+  },
+  {
+    "document_id": "aio-libs__aiohttp",
+    "repository": "aio-libs/aiohttp",
+    "release_id": 191539077,
+    "tag": "v3.11.11",
+    "published_at": "2024-12-18T21:16:16Z",
+    "source_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.11.11",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: aio-libs/aiohttp\nRelease tag: v3.11.11\nPublished at: 2024-12-18T21:16:16Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/aio-libs/aiohttp/releases/tag/v3.11.11"
+  },
+  {
+    "document_id": "encode__httpx",
+    "repository": "encode/httpx",
+    "release_id": 188917449,
+    "tag": "0.28.1",
+    "published_at": "2024-12-06T15:36:24Z",
+    "source_url": "https://github.com/encode/httpx/releases/tag/0.28.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: encode/httpx\nRelease tag: 0.28.1\nPublished at: 2024-12-06T15:36:24Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/encode/httpx/releases/tag/0.28.1"
+  },
+  {
+    "document_id": "encode__httpcore",
+    "repository": "encode/httpcore",
+    "release_id": 185623369,
+    "tag": "1.0.7",
+    "published_at": "2024-11-15T12:28:49Z",
+    "source_url": "https://github.com/encode/httpcore/releases/tag/1.0.7",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: encode/httpcore\nRelease tag: 1.0.7\nPublished at: 2024-11-15T12:28:49Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/encode/httpcore/releases/tag/1.0.7"
+  },
+  {
+    "document_id": "encode__django-rest-framework",
+    "repository": "encode/django-rest-framework",
+    "release_id": 192563570,
+    "tag": "3.15.2",
+    "published_at": "2024-12-28T10:24:43Z",
+    "source_url": "https://github.com/encode/django-rest-framework/releases/tag/3.15.2",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: encode/django-rest-framework\nRelease tag: 3.15.2\nPublished at: 2024-12-28T10:24:43Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/encode/django-rest-framework/releases/tag/3.15.2"
+  },
+  {
+    "document_id": "scrapy__scrapy",
+    "repository": "scrapy/scrapy",
+    "release_id": 185888935,
+    "tag": "2.12.0",
+    "published_at": "2024-11-18T08:43:50Z",
+    "source_url": "https://github.com/scrapy/scrapy/releases/tag/2.12.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: scrapy/scrapy\nRelease tag: 2.12.0\nPublished at: 2024-11-18T08:43:50Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/scrapy/scrapy/releases/tag/2.12.0"
+  },
+  {
+    "document_id": "pallets__jinja",
+    "repository": "pallets/jinja",
+    "release_id": 191980201,
+    "tag": "3.1.5",
+    "published_at": "2024-12-21T18:31:29Z",
+    "source_url": "https://github.com/pallets/jinja/releases/tag/3.1.5",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: pallets/jinja\nRelease tag: 3.1.5\nPublished at: 2024-12-21T18:31:29Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pallets/jinja/releases/tag/3.1.5"
+  },
+  {
+    "document_id": "pallets__click",
+    "repository": "pallets/click",
+    "release_id": 191717754,
+    "tag": "8.1.8",
+    "published_at": "2024-12-21T18:39:41Z",
+    "source_url": "https://github.com/pallets/click/releases/tag/8.1.8",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: pallets/click\nRelease tag: 8.1.8\nPublished at: 2024-12-21T18:39:41Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pallets/click/releases/tag/8.1.8"
+  },
+  {
+    "document_id": "celery__celery",
+    "repository": "celery/celery",
+    "release_id": 151631710,
+    "tag": "v5.4.0",
+    "published_at": "2024-04-17T20:32:41Z",
+    "source_url": "https://github.com/celery/celery/releases/tag/v5.4.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: celery/celery\nRelease tag: v5.4.0\nPublished at: 2024-04-17T20:32:41Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/celery/celery/releases/tag/v5.4.0"
+  },
+  {
+    "document_id": "redis__redis-py",
+    "repository": "redis/redis-py",
+    "release_id": 189350245,
+    "tag": "v5.2.1",
+    "published_at": "2024-12-06T09:50:08Z",
+    "source_url": "https://github.com/redis/redis-py/releases/tag/v5.2.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: redis/redis-py\nRelease tag: v5.2.1\nPublished at: 2024-12-06T09:50:08Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/redis/redis-py/releases/tag/v5.2.1"
+  },
+  {
+    "document_id": "psf__black",
+    "repository": "psf/black",
+    "release_id": 178759384,
+    "tag": "24.10.0",
+    "published_at": "2024-10-07T19:20:06Z",
+    "source_url": "https://github.com/psf/black/releases/tag/24.10.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: psf/black\nRelease tag: 24.10.0\nPublished at: 2024-10-07T19:20:06Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/psf/black/releases/tag/24.10.0"
+  },
+  {
+    "document_id": "sphinx-doc__sphinx",
+    "repository": "sphinx-doc/sphinx",
+    "release_id": 179702884,
+    "tag": "v8.1.3",
+    "published_at": "2024-10-13T20:26:47Z",
+    "source_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.1.3",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: sphinx-doc/sphinx\nRelease tag: v8.1.3\nPublished at: 2024-10-13T20:26:47Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/sphinx-doc/sphinx/releases/tag/v8.1.3"
+  },
+  {
+    "document_id": "mkdocs__mkdocs",
+    "repository": "mkdocs/mkdocs",
+    "release_id": 172752442,
+    "tag": "1.6.1",
+    "published_at": "2024-08-30T12:23:09Z",
+    "source_url": "https://github.com/mkdocs/mkdocs/releases/tag/1.6.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: mkdocs/mkdocs\nRelease tag: 1.6.1\nPublished at: 2024-08-30T12:23:09Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/mkdocs/mkdocs/releases/tag/1.6.1"
+  },
+  {
+    "document_id": "mkdocstrings__mkdocstrings",
+    "repository": "mkdocstrings/mkdocstrings",
+    "release_id": 184408871,
+    "tag": "0.27.0",
+    "published_at": "2024-11-08T17:07:44Z",
+    "source_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.27.0",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: mkdocstrings/mkdocstrings\nRelease tag: 0.27.0\nPublished at: 2024-11-08T17:07:44Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.27.0"
+  },
+  {
+    "document_id": "dbt-labs__dbt",
+    "repository": "dbt-labs/dbt",
+    "release_id": 191016103,
+    "tag": "v1.9.1",
+    "published_at": "2024-12-16T18:41:11Z",
+    "source_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: dbt-labs/dbt\nRelease tag: v1.9.1\nPublished at: 2024-12-16T18:41:11Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/dbt-labs/dbt/releases/tag/v1.9.1"
+  },
+  {
+    "document_id": "PrefectHQ__prefect",
+    "repository": "PrefectHQ/prefect",
+    "release_id": 192287287,
+    "tag": "3.1.10",
+    "published_at": "2024-12-25T07:22:44Z",
+    "source_url": "https://github.com/PrefectHQ/prefect/releases/tag/3.1.10",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: PrefectHQ/prefect\nRelease tag: 3.1.10\nPublished at: 2024-12-25T07:22:44Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/PrefectHQ/prefect/releases/tag/3.1.10"
+  },
+  {
+    "document_id": "streamlit__streamlit",
+    "repository": "streamlit/streamlit",
+    "release_id": 190719323,
+    "tag": "1.41.1",
+    "published_at": "2024-12-13T21:22:19Z",
+    "source_url": "https://github.com/streamlit/streamlit/releases/tag/1.41.1",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: streamlit/streamlit\nRelease tag: 1.41.1\nPublished at: 2024-12-13T21:22:19Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/streamlit/streamlit/releases/tag/1.41.1"
+  },
+  {
+    "document_id": "jupyterlab__jupyterlab",
+    "repository": "jupyterlab/jupyterlab",
+    "release_id": 191463063,
+    "tag": "v4.3.4",
+    "published_at": "2024-12-18T15:27:52Z",
+    "source_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.4",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: jupyterlab/jupyterlab\nRelease tag: v4.3.4\nPublished at: 2024-12-18T15:27:52Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/jupyterlab/jupyterlab/releases/tag/v4.3.4"
+  },
+  {
+    "document_id": "jupyter__notebook",
+    "repository": "jupyter/notebook",
+    "release_id": 191961961,
+    "tag": "v7.3.2",
+    "published_at": "2024-12-21T08:40:28Z",
+    "source_url": "https://github.com/jupyter/notebook/releases/tag/v7.3.2",
+    "snapshot_cutoff": "2025-01-01T00:00:00Z",
+    "text": "Repository: jupyter/notebook\nRelease tag: v7.3.2\nPublished at: 2024-12-21T08:40:28Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/jupyter/notebook/releases/tag/v7.3.2"
+  }
+]

@@ -1,0 +1,1006 @@
+{
+  "candidate": "pydata/xarray",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:44.994Z",
+      "end": false,
+      "records": [
+        {
+          "id": 399589912,
+          "tag_name": "v2026.09.0",
+          "published_at": "2026-09-29T23:05:24Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2026.09.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 351685644,
+          "tag_name": "v2026.07.0",
+          "published_at": "2026-07-09T17:36:39Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2026.07.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 308524095,
+          "tag_name": "v2026.04.0",
+          "published_at": "2026-04-13T19:44:11Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2026.04.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 286261847,
+          "tag_name": "v2026.02.0",
+          "published_at": "2026-02-13T22:19:33Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2026.02.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 280814912,
+          "tag_name": "v2026.01.0",
+          "published_at": "2026-01-28T17:47:52Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2026.01.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267891010,
+          "tag_name": "v2025.12.0",
+          "published_at": "2025-12-05T21:50:07Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 263022158,
+          "tag_name": "v2025.11.0",
+          "published_at": "2025-11-17T16:10:47Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252839967,
+          "tag_name": "v2025.10.1",
+          "published_at": "2025-10-07T20:24:47Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252481851,
+          "tag_name": "v2025.10.0",
+          "published_at": "2025-10-06T16:51:06Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 250998126,
+          "tag_name": "v2025.09.1",
+          "published_at": "2025-09-30T05:27:43Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.09.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244644074,
+          "tag_name": "v2025.09.0",
+          "published_at": "2025-09-04T04:19:18Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.09.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 240033161,
+          "tag_name": "v2025.08.0",
+          "published_at": "2025-08-14T16:51:05Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.08.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 231327733,
+          "tag_name": "v2025.07.1",
+          "published_at": "2025-07-10T04:52:05Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.07.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 229792422,
+          "tag_name": "v2025.07.0",
+          "published_at": "2025-07-03T16:36:13Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.07.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 224763310,
+          "tag_name": "v2025.06.1",
+          "published_at": "2025-06-12T03:03:12Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.06.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 224389422,
+          "tag_name": "v2025.06.0",
+          "published_at": "2025-06-10T16:49:03Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.06.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215614346,
+          "tag_name": "v2025.04.0",
+          "published_at": "2025-04-29T23:26:55Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.04.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209243926,
+          "tag_name": "v2025.03.1",
+          "published_at": "2025-03-31T02:56:18Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.03.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 207057312,
+          "tag_name": "v2025.03.0",
+          "published_at": "2025-03-20T04:49:56Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.03.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 197725686,
+          "tag_name": "v2025.01.2",
+          "published_at": "2025-01-31T07:36:13Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.01.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 193947781,
+          "tag_name": "v2025.01.1",
+          "published_at": "2025-01-09T16:26:27Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.01.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 193123812,
+          "tag_name": "v2025.01.0",
+          "published_at": "2025-01-03T21:11:32Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2025.01.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187053488,
+          "tag_name": "v2024.11.0",
+          "published_at": "2024-11-22T21:16:07Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 181822584,
+          "tag_name": "v2024.10.0",
+          "published_at": "2024-10-24T21:44:37Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 174638247,
+          "tag_name": "v2024.09.0",
+          "published_at": "2024-09-11T20:44:10Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.09.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167799374,
+          "tag_name": "v2024.07.0",
+          "published_at": "2024-07-30T08:30:30Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.07.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 160288058,
+          "tag_name": "v2024.06.0",
+          "published_at": "2024-06-13T13:07:24Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.06.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 155431979,
+          "tag_name": "v2024.05.0",
+          "published_at": "2024-05-13T03:39:10Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.05.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149043434,
+          "tag_name": "v2024.03.0",
+          "published_at": "2024-03-29T17:07:43Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.03.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142518814,
+          "tag_name": "v2024.02.0",
+          "published_at": "2024-02-19T00:28:54Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.02.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "ee26fa87ea2e9bc37cc01de4ab292e1973b008137e7326466686fd192de98d1f"
+    },
+    {
+      "url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:46.100Z",
+      "end": false,
+      "records": [
+        {
+          "id": 138241231,
+          "tag_name": "v2024.01.1",
+          "published_at": "2024-01-23T22:30:27Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.01.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137471416,
+          "tag_name": "v2024.01.0",
+          "published_at": "2024-01-17T23:55:07Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2024.01.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133219063,
+          "tag_name": "v2023.12.0",
+          "published_at": "2023-12-08T19:37:49Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 130030397,
+          "tag_name": "v2023.11.0",
+          "published_at": "2023-11-17T21:39:07Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 125884813,
+          "tag_name": "v2023.10.1",
+          "published_at": "2023-10-19T22:45:31Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 125834510,
+          "tag_name": "v2023.10.0",
+          "published_at": "2023-10-19T16:01:50Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 122575596,
+          "tag_name": "v2023.09.0",
+          "published_at": "2023-09-26T09:21:07Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.09.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117902352,
+          "tag_name": "v2023.08.0",
+          "published_at": "2023-08-20T03:38:23Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.08.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112444215,
+          "tag_name": "v2023.07.0",
+          "published_at": "2023-07-17T06:33:45Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.07.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 109749078,
+          "tag_name": "v2023.06.0",
+          "published_at": "2023-06-23T21:18:03Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.06.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 103545840,
+          "tag_name": "v2023.05.0",
+          "published_at": "2023-05-19T02:35:57Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.05.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100244764,
+          "tag_name": "v2023.04.2",
+          "published_at": "2023-04-20T18:27:29Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.04.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 99933179,
+          "tag_name": "v2023.04.1",
+          "published_at": "2023-04-18T15:32:43Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.04.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 99577326,
+          "tag_name": "v2023.04.0",
+          "published_at": "2023-04-14T17:26:21Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.04.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96518896,
+          "tag_name": "v2023.03.0",
+          "published_at": "2023-03-22T16:18:40Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.03.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91625353,
+          "tag_name": "v2023.02.0",
+          "published_at": "2023-02-07T16:16:25Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.02.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89463462,
+          "tag_name": "v2023.01.0",
+          "published_at": "2023-01-18T21:29:51Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2023.01.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 84867962,
+          "tag_name": "v2022.12.0",
+          "published_at": "2022-12-02T23:42:51Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82129581,
+          "tag_name": "v2022.11.0",
+          "published_at": "2022-11-04T20:43:37Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 79832901,
+          "tag_name": "v2022.10.0",
+          "published_at": "2022-10-13T20:37:56Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78640119,
+          "tag_name": "v2022.09.0",
+          "published_at": "2022-09-29T22:21:41Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.09.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72632436,
+          "tag_name": "v2022.06.0",
+          "published_at": "2022-07-22T16:24:17Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.06.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 69069512,
+          "tag_name": "v2022.06.0rc0",
+          "published_at": "2022-06-09T14:54:20Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.06.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 60812015,
+          "tag_name": "v2022.03.0",
+          "published_at": "2022-03-02T15:54:28Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v2022.03.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58397916,
+          "tag_name": "v0.21.1",
+          "published_at": "2022-02-01T05:39:27Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58234020,
+          "tag_name": "v0.21.0",
+          "published_at": "2022-01-28T22:19:16Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 55011983,
+          "tag_name": "v0.20.2",
+          "published_at": "2021-12-10T02:07:25Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.20.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52801494,
+          "tag_name": "v0.20.1",
+          "published_at": "2021-11-05T17:01:55Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.20.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52539061,
+          "tag_name": "v0.20.0",
+          "published_at": "2021-11-02T17:28:45Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46702302,
+          "tag_name": "v0.19.0",
+          "published_at": "2021-07-23T21:35:51Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.19.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "edcb3ce44154a965020126898b4759b7db60c79b3722e3be6c1c6bc86845d5f6"
+    },
+    {
+      "url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:47.022Z",
+      "end": false,
+      "records": [
+        {
+          "id": 43248747,
+          "tag_name": "v0.18.2",
+          "published_at": "2021-05-19T21:35:18Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 43191495,
+          "tag_name": "v0.18.1",
+          "published_at": "2021-05-19T06:45:15Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42561958,
+          "tag_name": "v0.18.0",
+          "published_at": "2021-05-06T18:50:27Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 38783411,
+          "tag_name": "v0.17.0",
+          "published_at": "2021-02-26T06:45:07Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34602612,
+          "tag_name": "v0.16.2",
+          "published_at": "2020-11-30T21:28:55Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.16.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31579974,
+          "tag_name": "v0.16.1",
+          "published_at": "2020-09-20T19:43:05Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 28471456,
+          "tag_name": "v0.16.0",
+          "published_at": "2020-07-11T20:58:16Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24788591,
+          "tag_name": "v0.15.1",
+          "published_at": "2020-03-23T21:04:25Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23265578,
+          "tag_name": "v0.15.0",
+          "published_at": "2020-01-30T18:39:38Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21602642,
+          "tag_name": "v0.14.1",
+          "published_at": "2019-11-19T22:50:24Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20693780,
+          "tag_name": "v0.14.0",
+          "published_at": "2019-10-14T21:22:57Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20058052,
+          "tag_name": "v0.13.0",
+          "published_at": "2019-09-17T19:36:43Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18940075,
+          "tag_name": "v0.12.3",
+          "published_at": "2019-07-29T21:00:24Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.12.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18313578,
+          "tag_name": "v0.12.2",
+          "published_at": "2019-06-30T03:42:30Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17811286,
+          "tag_name": "v0.12.1",
+          "published_at": "2019-06-05T22:22:41Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18313579,
+          "tag_name": "v0.12.0",
+          "published_at": "2019-06-30T03:43:06Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18313580,
+          "tag_name": "v0.11.3",
+          "published_at": "2019-06-30T03:43:25Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14776993,
+          "tag_name": "v0.11.2",
+          "published_at": "2019-01-03T02:02:04Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14776988,
+          "tag_name": "v0.11.1",
+          "published_at": "2019-01-03T02:01:48Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13879593,
+          "tag_name": "v0.11.0",
+          "published_at": "2018-11-07T16:21:24Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13036629,
+          "tag_name": "v0.10.9",
+          "published_at": "2018-09-22T01:53:57Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11990092,
+          "tag_name": "v0.10.8",
+          "published_at": "2018-07-18T15:56:15Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11990084,
+          "tag_name": "v0.10.7",
+          "published_at": "2018-07-18T15:55:54Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11990069,
+          "tag_name": "v0.10.6",
+          "published_at": "2018-07-18T15:55:31Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11990067,
+          "tag_name": "v0.10.5",
+          "published_at": "2018-07-18T15:55:09Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11990059,
+          "tag_name": "v0.10.4",
+          "published_at": "2018-07-18T15:54:54Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10544763,
+          "tag_name": "v0.10.3",
+          "published_at": "2018-04-14T01:42:05Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10067621,
+          "tag_name": "v0.10.2",
+          "published_at": "2018-03-13T16:13:16Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9827727,
+          "tag_name": "v0.10.1",
+          "published_at": "2018-02-26T01:32:54Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8589956,
+          "tag_name": "v0.10.0",
+          "published_at": "2017-11-20T16:59:58Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "aa05fdcbbd3f5434f20ea90edd29500e91dee59ba491b78f0de62c71ea6f0bb0"
+    },
+    {
+      "url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/pydata/xarray/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:47.892Z",
+      "end": true,
+      "records": [
+        {
+          "id": 8502955,
+          "tag_name": "v0.10.0rc2",
+          "published_at": "2017-11-14T05:01:20Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 8320920,
+          "tag_name": "v0.10.0rc1",
+          "published_at": "2017-10-31T04:26:03Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.10.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 6657540,
+          "tag_name": "v0.9.6",
+          "published_at": "2017-06-09T05:42:15Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6099672,
+          "tag_name": "v0.9.5",
+          "published_at": "2017-04-17T17:56:47Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6093527,
+          "tag_name": "v0.9.3",
+          "published_at": "2017-04-16T20:53:27Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5952588,
+          "tag_name": "v0.9.2",
+          "published_at": "2017-04-03T06:37:12Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5306256,
+          "tag_name": "v0.9.1",
+          "published_at": "2017-01-30T17:46:26Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5271052,
+          "tag_name": "v0.9.0",
+          "published_at": "2017-01-26T06:35:25Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5271046,
+          "tag_name": "v0.9.0rc1",
+          "published_at": "2017-01-26T06:34:27Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.9.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 3922431,
+          "tag_name": "v0.8.2",
+          "published_at": "2016-08-19T01:42:08Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3922423,
+          "tag_name": "v0.8.1",
+          "published_at": "2016-08-19T01:40:13Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3809120,
+          "tag_name": "v0.8.0",
+          "published_at": "2016-08-04T04:46:51Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3808932,
+          "tag_name": "v0.8.0rc1",
+          "published_at": "2016-08-04T03:43:56Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.8.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 3808931,
+          "tag_name": "v0.7.2",
+          "published_at": "2016-08-04T03:43:41Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3808930,
+          "tag_name": "v0.7.1",
+          "published_at": "2016-08-04T03:43:28Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3808927,
+          "tag_name": "v0.7.0",
+          "published_at": "2016-08-04T03:43:02Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2011555,
+          "tag_name": "v0.6.1",
+          "published_at": "2015-10-23T22:29:44Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1415910,
+          "tag_name": "v0.5.1",
+          "published_at": "2015-06-15T08:00:23Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1415905,
+          "tag_name": "v0.5",
+          "published_at": "2015-06-15T07:58:37Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1066755,
+          "tag_name": "v0.4.1",
+          "published_at": "2015-03-19T01:49:06Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1008872,
+          "tag_name": "v0.4",
+          "published_at": "2015-03-03T18:18:24Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 993070,
+          "tag_name": "v0.4rc1",
+          "published_at": "2015-02-26T21:58:38Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.4rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 968974,
+          "tag_name": "v0.3.2",
+          "published_at": "2015-02-19T19:39:32Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 647493,
+          "tag_name": "v0.3.1",
+          "published_at": "2014-10-23T06:31:30Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 573096,
+          "tag_name": "v0.3",
+          "published_at": "2014-09-22T05:10:39Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 492208,
+          "tag_name": "v0.2",
+          "published_at": "2014-08-14T20:02:53Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 406220,
+          "tag_name": "v0.2.0alpha",
+          "published_at": "2014-07-01T23:08:37Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.2.0alpha",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 406221,
+          "tag_name": "v0.1.1",
+          "published_at": "2014-07-01T23:09:16Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 406224,
+          "tag_name": "v0.1",
+          "published_at": "2014-07-01T23:09:38Z",
+          "html_url": "https://github.com/pydata/xarray/releases/tag/v0.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0429d89cf91112821f3689d7edd90e5d25aff36db515bd1c7e2c1c939a494a36"
+    }
+  ]
+}

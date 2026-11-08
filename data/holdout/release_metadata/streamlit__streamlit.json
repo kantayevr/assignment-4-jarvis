@@ -1,0 +1,1122 @@
+{
+  "candidate": "streamlit/streamlit",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:03.185Z",
+      "end": false,
+      "records": [
+        {
+          "id": 435660459,
+          "tag_name": "1.67.0",
+          "published_at": "2026-11-05T19:54:01Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.67.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 419825454,
+          "tag_name": "1.66.1",
+          "published_at": "2026-10-21T17:03:06Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.66.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 412919086,
+          "tag_name": "1.66.0",
+          "published_at": "2026-10-14T16:08:00Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.66.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 402173593,
+          "tag_name": "1.65.0",
+          "published_at": "2026-10-02T21:40:41Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.65.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389406358,
+          "tag_name": "1.64.0",
+          "published_at": "2026-09-15T19:13:58Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.64.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 380687467,
+          "tag_name": "1.63.0",
+          "published_at": "2026-09-01T17:12:37Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.63.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 373266691,
+          "tag_name": "1.62.0",
+          "published_at": "2026-08-19T18:31:29Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.62.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 365603467,
+          "tag_name": "1.61.1",
+          "published_at": "2026-08-05T14:51:06Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.61.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 365141707,
+          "tag_name": "1.61.0",
+          "published_at": "2026-08-04T20:41:45Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.61.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357644460,
+          "tag_name": "1.60.0",
+          "published_at": "2026-07-21T21:14:02Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.60.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 353035211,
+          "tag_name": "1.59.2",
+          "published_at": "2026-07-13T09:00:54Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.59.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 350927693,
+          "tag_name": "1.59.1",
+          "published_at": "2026-07-08T12:57:07Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.59.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 349646752,
+          "tag_name": "1.59.0",
+          "published_at": "2026-07-06T15:28:15Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.59.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 331029955,
+          "tag_name": "1.58.0",
+          "published_at": "2026-05-28T18:02:51Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.58.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 314868762,
+          "tag_name": "1.57.0",
+          "published_at": "2026-04-28T22:13:38Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.57.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 303932607,
+          "tag_name": "1.56.0",
+          "published_at": "2026-03-31T22:29:44Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.56.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292747394,
+          "tag_name": "1.55.0",
+          "published_at": "2026-03-03T22:26:09Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.55.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 283042209,
+          "tag_name": "1.54.0",
+          "published_at": "2026-02-04T16:38:00Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.54.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 279173008,
+          "tag_name": "1.53.1",
+          "published_at": "2026-01-22T21:39:09Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.53.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 276845673,
+          "tag_name": "1.53.0",
+          "published_at": "2026-01-14T19:52:31Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.53.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 271168934,
+          "tag_name": "1.52.2",
+          "published_at": "2025-12-17T17:08:04Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.52.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267854472,
+          "tag_name": "1.52.1",
+          "published_at": "2025-12-05T18:55:46Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.52.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267266608,
+          "tag_name": "1.52.0",
+          "published_at": "2025-12-04T00:18:23Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.52.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 258236654,
+          "tag_name": "1.51.0",
+          "published_at": "2025-10-29T17:07:44Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.51.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 249460033,
+          "tag_name": "1.50.0",
+          "published_at": "2025-09-23T19:24:05Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.50.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 243560514,
+          "tag_name": "1.49.1",
+          "published_at": "2025-08-29T18:35:49Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.49.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 242684868,
+          "tag_name": "1.49.0",
+          "published_at": "2025-08-26T19:40:53Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.49.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 239657966,
+          "tag_name": "1.48.1",
+          "published_at": "2025-08-13T12:04:00Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.48.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 237813706,
+          "tag_name": "1.48.0",
+          "published_at": "2025-08-05T23:13:56Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.48.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235210855,
+          "tag_name": "1.47.1",
+          "published_at": "2025-07-25T15:37:13Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.47.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "fc360c3dec02cf9ed565c06d7a6f52b9e21e3ced882c626b8ff1b238ad3427f3"
+    },
+    {
+      "url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:05.136Z",
+      "end": false,
+      "records": [
+        {
+          "id": 232916848,
+          "tag_name": "1.47.0",
+          "published_at": "2025-07-16T16:26:55Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.47.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 228062361,
+          "tag_name": "1.46.1",
+          "published_at": "2025-06-26T16:03:09Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.46.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 226101032,
+          "tag_name": "1.46.0",
+          "published_at": "2025-06-18T09:12:06Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.46.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 218099332,
+          "tag_name": "1.45.1",
+          "published_at": "2025-05-12T20:40:35Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.45.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215551370,
+          "tag_name": "1.45.0",
+          "published_at": "2025-04-29T17:34:38Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.45.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209702808,
+          "tag_name": "1.44.1",
+          "published_at": "2025-04-01T20:36:24Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.44.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 208225851,
+          "tag_name": "1.44.0",
+          "published_at": "2025-03-25T19:43:57Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.44.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 205130640,
+          "tag_name": "1.43.2",
+          "published_at": "2025-03-11T20:07:46Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.43.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 204459208,
+          "tag_name": "1.43.1",
+          "published_at": "2025-03-07T19:43:13Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.43.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 203693701,
+          "tag_name": "1.43.0",
+          "published_at": "2025-03-04T20:28:28Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.43.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 201532602,
+          "tag_name": "1.42.2",
+          "published_at": "2025-02-20T21:09:21Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.42.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 200793429,
+          "tag_name": "1.42.1",
+          "published_at": "2025-02-17T21:21:02Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.42.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 198420341,
+          "tag_name": "1.42.0",
+          "published_at": "2025-02-04T19:34:48Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.42.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190719323,
+          "tag_name": "1.41.1",
+          "published_at": "2024-12-13T21:22:19Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.41.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190042524,
+          "tag_name": "1.41.0",
+          "published_at": "2024-12-10T19:37:01Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.41.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187411858,
+          "tag_name": "1.40.2",
+          "published_at": "2024-11-25T21:30:36Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.40.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184749799,
+          "tag_name": "1.40.1",
+          "published_at": "2024-11-11T19:48:58Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.40.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184028628,
+          "tag_name": "1.40.0",
+          "published_at": "2024-11-06T21:29:47Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.40.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 177859619,
+          "tag_name": "1.39.0",
+          "published_at": "2024-10-01T17:36:45Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.39.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172214485,
+          "tag_name": "1.38.0",
+          "published_at": "2024-08-27T18:46:56Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.38.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 168771380,
+          "tag_name": "1.37.1",
+          "published_at": "2024-08-05T18:59:25Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.37.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167187390,
+          "tag_name": "1.37.0",
+          "published_at": "2024-07-25T18:21:46Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.37.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161533466,
+          "tag_name": "1.36.0",
+          "published_at": "2024-06-20T18:02:27Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.36.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157175096,
+          "tag_name": "1.35.0",
+          "published_at": "2024-05-23T17:12:57Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.35.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153872638,
+          "tag_name": "1.34.0",
+          "published_at": "2024-05-02T17:44:20Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.34.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149819669,
+          "tag_name": "1.33.0",
+          "published_at": "2024-04-04T17:36:56Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.33.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146611355,
+          "tag_name": "1.32.2",
+          "published_at": "2024-03-14T15:16:16Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.32.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146097079,
+          "tag_name": "1.32.1",
+          "published_at": "2024-03-12T17:28:36Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.32.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145346099,
+          "tag_name": "1.32.0",
+          "published_at": "2024-03-07T20:31:23Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.32.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 141666071,
+          "tag_name": "1.31.1",
+          "published_at": "2024-02-12T17:53:30Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.31.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "ae82f42fce4673a190f1c48bd490f0048df86d73e2cce291e2652241d02c45e0"
+    },
+    {
+      "url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:06.144Z",
+      "end": false,
+      "records": [
+        {
+          "id": 139552993,
+          "tag_name": "1.31.0",
+          "published_at": "2024-02-01T17:57:10Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.31.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 136716811,
+          "tag_name": "1.30.0",
+          "published_at": "2024-01-11T18:50:58Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.30.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 132182427,
+          "tag_name": "1.29.0",
+          "published_at": "2023-11-30T20:05:51Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.29.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 129232548,
+          "tag_name": "1.28.2",
+          "published_at": "2023-11-13T20:42:41Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.28.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 127781592,
+          "tag_name": "1.28.1",
+          "published_at": "2023-11-03T00:23:33Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.28.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 126818853,
+          "tag_name": "1.28.0",
+          "published_at": "2023-10-26T17:18:34Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123590270,
+          "tag_name": "1.27.2",
+          "published_at": "2023-10-03T23:30:45Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.27.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123054712,
+          "tag_name": "1.27.1",
+          "published_at": "2023-09-29T01:23:45Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.27.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 122109868,
+          "tag_name": "1.27.0",
+          "published_at": "2023-09-21T19:46:20Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121930822,
+          "tag_name": "1.26.0",
+          "published_at": "2023-09-20T19:43:02Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 113040858,
+          "tag_name": "1.25.0",
+          "published_at": "2023-07-20T22:07:55Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 111448892,
+          "tag_name": "1.24.1",
+          "published_at": "2023-07-07T18:45:22Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 110005044,
+          "tag_name": "1.24.0",
+          "published_at": "2023-06-27T06:14:43Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 105776153,
+          "tag_name": "1.23.1",
+          "published_at": "2023-06-02T01:09:01Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.23.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 105736986,
+          "tag_name": "1.23.0",
+          "published_at": "2023-06-01T19:34:13Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101168113,
+          "tag_name": "1.22.0",
+          "published_at": "2023-04-27T18:42:07Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 98456607,
+          "tag_name": "1.21.0",
+          "published_at": "2023-04-06T18:59:59Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 95131075,
+          "tag_name": "1.20.0",
+          "published_at": "2023-03-09T20:59:50Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93488301,
+          "tag_name": "1.19.0",
+          "published_at": "2023-02-23T19:28:58Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 92080284,
+          "tag_name": "1.18.1",
+          "published_at": "2023-02-10T22:42:10Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91950268,
+          "tag_name": "1.18.0",
+          "published_at": "2023-02-09T21:12:39Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88781342,
+          "tag_name": "1.17.0",
+          "published_at": "2023-01-12T20:45:02Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87933498,
+          "tag_name": "1.16.0",
+          "published_at": "2023-01-04T19:42:37Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 84732751,
+          "tag_name": "1.15.2",
+          "published_at": "2022-12-01T17:21:37Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 83467496,
+          "tag_name": "1.15.0",
+          "published_at": "2022-11-17T21:54:10Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82839666,
+          "tag_name": "1.14.1",
+          "published_at": "2022-11-11T19:16:19Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 81231352,
+          "tag_name": "1.14.0",
+          "published_at": "2022-10-27T16:33:18Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 77908595,
+          "tag_name": "1.13.0",
+          "published_at": "2022-09-22T17:18:41Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 75405287,
+          "tag_name": "1.12.2",
+          "published_at": "2022-08-26T00:36:51Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 75371410,
+          "tag_name": "1.12.1",
+          "published_at": "2022-08-25T17:08:23Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.12.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "6248afe22798c79f0e2d5cfe589cffc71f723d4be48e03b89eda85a300259b19"
+    },
+    {
+      "url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:06.988Z",
+      "end": false,
+      "records": [
+        {
+          "id": 74228063,
+          "tag_name": "1.12.0",
+          "published_at": "2022-08-11T17:31:46Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73005845,
+          "tag_name": "1.11.1",
+          "published_at": "2022-07-27T21:20:42Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72028001,
+          "tag_name": "1.11.0",
+          "published_at": "2022-07-14T18:28:18Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68474363,
+          "tag_name": "1.10.0",
+          "published_at": "2022-06-02T17:46:00Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68042124,
+          "tag_name": "1.9.2",
+          "published_at": "2022-05-27T18:22:37Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 67976291,
+          "tag_name": "1.9.1",
+          "published_at": "2022-05-27T00:12:46Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66041072,
+          "tag_name": "1.9.0",
+          "published_at": "2022-05-04T16:36:28Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63075462,
+          "tag_name": "1.8.1",
+          "published_at": "2022-03-29T19:26:47Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 62705015,
+          "tag_name": "1.8.0",
+          "published_at": "2022-03-24T17:14:37Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60834509,
+          "tag_name": "1.7.0",
+          "published_at": "2022-03-02T20:42:23Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60427790,
+          "tag_name": "1.6.0",
+          "published_at": "2022-02-24T22:15:38Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59141933,
+          "tag_name": "1.5.1",
+          "published_at": "2022-02-09T16:13:01Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58124546,
+          "tag_name": "1.5.0",
+          "published_at": "2022-01-27T17:41:54Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57043426,
+          "tag_name": "1.4.0",
+          "published_at": "2022-01-13T18:17:39Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56095736,
+          "tag_name": "1.3.1",
+          "published_at": "2021-12-28T16:52:41Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 55491184,
+          "tag_name": "1.3.0",
+          "published_at": "2021-12-16T20:24:28Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53194819,
+          "tag_name": "1.2.0",
+          "published_at": "2021-11-11T19:39:24Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 51807855,
+          "tag_name": "1.1.0",
+          "published_at": "2021-10-21T17:09:07Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50832175,
+          "tag_name": "1.0.0",
+          "published_at": "2021-10-05T17:15:06Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/1.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50072937,
+          "tag_name": "0.89.0",
+          "published_at": "2021-09-22T16:21:14Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.89.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48929400,
+          "tag_name": "0.88.0",
+          "published_at": "2021-09-02T23:11:21Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.88.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48147723,
+          "tag_name": "0.87.0",
+          "published_at": "2021-08-19T22:48:03Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.87.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47395385,
+          "tag_name": "0.86.0",
+          "published_at": "2021-08-05T23:16:58Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.86.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46866259,
+          "tag_name": "0.85.1",
+          "published_at": "2021-07-27T22:10:44Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.85.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46633269,
+          "tag_name": "0.85.0",
+          "published_at": "2021-07-22T19:24:25Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.85.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46439107,
+          "tag_name": "0.84.2",
+          "published_at": "2021-07-19T21:36:37Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.84.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46087821,
+          "tag_name": "0.84.1",
+          "published_at": "2021-07-12T23:08:24Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.84.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 45580383,
+          "tag_name": "0.84.0",
+          "published_at": "2021-07-01T18:43:28Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.84.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 44821763,
+          "tag_name": "0.83.0",
+          "published_at": "2021-06-21T16:38:57Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.83.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42929515,
+          "tag_name": "0.82.0",
+          "published_at": "2021-05-13T23:02:22Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.82.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "4bb0d0f37b68a9d84a2d20d9b88c5954495b06451bc4711e4ac94e7d3b463e7f"
+    },
+    {
+      "url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=5",
+      "response_url": "https://api.github.com/repos/streamlit/streamlit/releases?per_page=30&page=5",
+      "size": 30,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:07.793Z",
+      "end": true,
+      "records": [
+        {
+          "id": 42431847,
+          "tag_name": "0.81.1",
+          "published_at": "2021-05-04T17:55:08Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.81.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42219180,
+          "tag_name": "0.81",
+          "published_at": "2021-04-29T17:38:16Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.81",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 41153948,
+          "tag_name": "0.80.0",
+          "published_at": "2021-04-19T23:34:43Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.80.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39977043,
+          "tag_name": "0.79.0",
+          "published_at": "2021-03-18T01:21:33Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.79.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39299449,
+          "tag_name": "0.78.0",
+          "published_at": "2021-03-04T20:00:29Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.78.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 38515346,
+          "tag_name": "0.77.0",
+          "published_at": "2021-02-23T22:26:04Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.77.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 37376035,
+          "tag_name": "0.76.0",
+          "published_at": "2021-02-04T20:42:52Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.76.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36736305,
+          "tag_name": "0.75.0",
+          "published_at": "2021-01-21T20:53:35Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.75.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36117270,
+          "tag_name": "0.74.1",
+          "published_at": "2021-01-07T22:00:44Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.74.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36074699,
+          "tag_name": "0.74.0",
+          "published_at": "2021-01-07T02:25:53Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.74.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35634146,
+          "tag_name": "0.73.1",
+          "published_at": "2020-12-22T21:23:23Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.73.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35634384,
+          "tag_name": "0.73.0",
+          "published_at": "2020-12-22T21:30:50Z",
+          "html_url": "https://github.com/streamlit/streamlit/releases/tag/0.73.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "39a24ef8e21700a9f32d7bc49b847e3ade3c6bf430ce653878259b8717d28188"
+    }
+  ]
+}

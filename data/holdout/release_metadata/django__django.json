@@ -1,0 +1,17 @@
+{
+  "candidate": "django/django",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/django/django/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/django/django/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:50.755Z",
+      "end": true,
+      "records": [],
+      "metadata_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "candidate": "statsmodels/statsmodels",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/statsmodels/statsmodels/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/statsmodels/statsmodels/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:49.488Z",
+      "end": false,
+      "records": [
+        {
+          "id": 377612834,
+          "tag_name": "v0.15.0",
+          "published_at": "2026-08-27T06:44:51Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267838645,
+          "tag_name": "v0.14.6",
+          "published_at": "2025-12-05T17:59:44Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 230412366,
+          "tag_name": "v0.14.5",
+          "published_at": "2025-07-07T10:26:06Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178241358,
+          "tag_name": "v0.14.4",
+          "published_at": "2024-10-03T15:37:29Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 175196548,
+          "tag_name": "v0.14.3",
+          "published_at": "2024-09-16T09:36:16Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151504748,
+          "tag_name": "v0.14.2",
+          "published_at": "2024-04-17T08:07:37Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133953358,
+          "tag_name": "v0.14.1",
+          "published_at": "2023-12-14T14:31:51Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101994038,
+          "tag_name": "v0.14.0",
+          "published_at": "2023-05-05T10:52:12Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100943423,
+          "tag_name": "v0.14.0rc0",
+          "published_at": "2023-04-26T12:05:27Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 81845589,
+          "tag_name": "v0.13.5",
+          "published_at": "2022-11-02T16:51:52Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 81729050,
+          "tag_name": "v0.13.4",
+          "published_at": "2022-11-01T22:32:09Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 81683347,
+          "tag_name": "v0.13.3",
+          "published_at": "2022-11-01T16:51:26Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59039490,
+          "tag_name": "v0.13.2",
+          "published_at": "2022-02-08T18:06:37Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53276419,
+          "tag_name": "v0.13.1",
+          "published_at": "2021-11-12T23:21:25Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50644383,
+          "tag_name": "v0.13.0",
+          "published_at": "2021-10-01T15:40:09Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 49739916,
+          "tag_name": "v0.13.0rc0",
+          "published_at": "2021-09-17T11:03:54Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.13.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 37210407,
+          "tag_name": "v0.12.2",
+          "published_at": "2021-02-02T01:56:04Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33197051,
+          "tag_name": "v0.12.1",
+          "published_at": "2020-10-29T14:58:16Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 30226659,
+          "tag_name": "v0.12.0",
+          "published_at": "2020-08-27T15:24:19Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29548726,
+          "tag_name": "v0.12.0rc0",
+          "published_at": "2020-08-11T08:44:13Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.12.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 23876366,
+          "tag_name": "v0.11.1",
+          "published_at": "2020-02-21T13:11:48Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23036863,
+          "tag_name": "v0.11.0",
+          "published_at": "2020-01-22T12:32:32Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22855074,
+          "tag_name": "v0.11.0rc2",
+          "published_at": "2020-01-15T12:50:42Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.11.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 22318376,
+          "tag_name": "v0.11.0rc1",
+          "published_at": "2019-12-18T11:10:58Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.11.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 21704530,
+          "tag_name": "v0.10.2",
+          "published_at": "2019-11-23T08:21:12Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18730588,
+          "tag_name": "v0.10.1",
+          "published_at": "2019-07-19T11:32:05Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18185857,
+          "tag_name": "v0.10.0",
+          "published_at": "2019-06-24T15:42:35Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17847259,
+          "tag_name": "v0.10.0rc2",
+          "published_at": "2019-06-07T09:23:00Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.10.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 10993955,
+          "tag_name": "v0.9.0",
+          "published_at": "2018-05-15T01:18:47Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10776499,
+          "tag_name": "0.9.0rc1",
+          "published_at": "2018-04-30T03:26:12Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/0.9.0rc1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "db7165a67843fd6d8b37b1b0897339494d468f3e5941f0f23652d72a034aa907"
+    },
+    {
+      "url": "https://api.github.com/repos/statsmodels/statsmodels/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/statsmodels/statsmodels/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:50.129Z",
+      "end": true,
+      "records": [
+        {
+          "id": 5397940,
+          "tag_name": "v0.8.0",
+          "published_at": "2017-02-08T16:36:41Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3492446,
+          "tag_name": "v0.8.0rc1",
+          "published_at": "2016-06-21T18:39:53Z",
+          "html_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.8.0rc1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f1f6ae4b35eabf7f318a792b7861790aeca2bacab77fb4b2fab44bee597fcd7f"
+    }
+  ]
+}

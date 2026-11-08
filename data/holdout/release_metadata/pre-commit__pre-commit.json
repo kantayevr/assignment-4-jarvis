@@ -1,0 +1,1025 @@
+{
+  "candidate": "pre-commit/pre-commit",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:42.387Z",
+      "end": false,
+      "records": [
+        {
+          "id": 411837464,
+          "tag_name": "v4.7.0",
+          "published_at": "2026-10-13T15:35:39Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368223239,
+          "tag_name": "v4.6.2",
+          "published_at": "2026-08-10T22:08:59Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357637738,
+          "tag_name": "v4.6.1",
+          "published_at": "2026-07-21T20:58:53Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 311932354,
+          "tag_name": "v4.6.0",
+          "published_at": "2026-04-21T20:32:56Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 270891437,
+          "tag_name": "v4.5.1",
+          "published_at": "2025-12-16T21:18:45Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 264559801,
+          "tag_name": "v4.5.0",
+          "published_at": "2025-11-22T21:08:24Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 260871639,
+          "tag_name": "v4.4.0",
+          "published_at": "2025-11-08T21:48:28Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 238794456,
+          "tag_name": "v4.3.0",
+          "published_at": "2025-08-09T18:59:03Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 206695099,
+          "tag_name": "v4.2.0",
+          "published_at": "2025-03-18T21:42:20Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195704705,
+          "tag_name": "v4.1.0",
+          "published_at": "2025-01-20T18:49:11Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178941095,
+          "tag_name": "v4.0.1",
+          "published_at": "2024-10-08T16:10:45Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178535673,
+          "tag_name": "v4.0.0",
+          "published_at": "2024-10-05T19:19:45Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167550606,
+          "tag_name": "v3.8.0",
+          "published_at": "2024-07-28T20:05:15Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 155335059,
+          "tag_name": "v3.7.1",
+          "published_at": "2024-05-11T01:31:03Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148099777,
+          "tag_name": "v3.7.0",
+          "published_at": "2024-03-24T17:41:43Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142506031,
+          "tag_name": "v3.6.2",
+          "published_at": "2024-02-18T18:22:07Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 141509173,
+          "tag_name": "v3.6.1",
+          "published_at": "2024-02-10T19:47:57Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 133294824,
+          "tag_name": "v3.6.0",
+          "published_at": "2023-12-09T21:29:42Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 125009555,
+          "tag_name": "v3.5.0",
+          "published_at": "2023-10-13T16:06:55Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119706188,
+          "tag_name": "v3.4.0",
+          "published_at": "2023-09-02T17:13:27Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 108453460,
+          "tag_name": "v3.3.3",
+          "published_at": "2023-06-13T23:12:35Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 103390786,
+          "tag_name": "v3.3.2",
+          "published_at": "2023-05-17T23:01:40Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101586632,
+          "tag_name": "v3.3.1",
+          "published_at": "2023-05-02T14:09:12Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101506519,
+          "tag_name": "v3.3.0",
+          "published_at": "2023-05-01T22:29:42Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 97905928,
+          "tag_name": "v3.2.2",
+          "published_at": "2023-04-03T20:33:14Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96909960,
+          "tag_name": "v3.2.1",
+          "published_at": "2023-03-25T18:05:17Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96024599,
+          "tag_name": "v3.2.0",
+          "published_at": "2023-03-17T18:28:54Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93875311,
+          "tag_name": "v3.1.1",
+          "published_at": "2023-02-28T02:11:59Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93383300,
+          "tag_name": "v3.1.0",
+          "published_at": "2023-02-23T01:56:32Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91294994,
+          "tag_name": "v3.0.4",
+          "published_at": "2023-02-03T17:08:57Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.0.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "c229d33c0b8d0d3dd8e1eadf61f5a9513c4f177b5ac31d15cfe6bab04ba25a98"
+    },
+    {
+      "url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:43.647Z",
+      "end": false,
+      "records": [
+        {
+          "id": 91051116,
+          "tag_name": "v3.0.3",
+          "published_at": "2023-02-01T23:27:22Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90621383,
+          "tag_name": "v3.0.2",
+          "published_at": "2023-01-30T00:19:06Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90320604,
+          "tag_name": "v3.0.1",
+          "published_at": "2023-01-26T16:14:21Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89990344,
+          "tag_name": "v3.0.0",
+          "published_at": "2023-01-24T01:44:45Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v3.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87214423,
+          "tag_name": "v2.21.0",
+          "published_at": "2022-12-25T22:55:05Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 71658392,
+          "tag_name": "v2.20.0",
+          "published_at": "2022-07-11T00:58:54Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66119246,
+          "tag_name": "v2.19.0",
+          "published_at": "2022-05-05T13:57:04Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63455376,
+          "tag_name": "v2.18.1",
+          "published_at": "2022-04-03T01:35:33Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63453661,
+          "tag_name": "v2.18.0",
+          "published_at": "2022-04-02T23:39:01Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57395797,
+          "tag_name": "v2.17.0",
+          "published_at": "2022-01-18T18:42:21Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54367086,
+          "tag_name": "v2.16.0",
+          "published_at": "2021-11-30T23:21:06Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48931981,
+          "tag_name": "v2.15.0",
+          "published_at": "2021-09-03T00:45:09Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48618007,
+          "tag_name": "v2.14.1",
+          "published_at": "2021-08-28T18:21:45Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47446047,
+          "tag_name": "v2.14.0",
+          "published_at": "2021-08-06T18:37:37Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 43391928,
+          "tag_name": "v2.13.0",
+          "published_at": "2021-05-21T21:08:51Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 41569189,
+          "tag_name": "v2.12.1",
+          "published_at": "2021-04-16T21:17:10Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 41004936,
+          "tag_name": "v2.12.0",
+          "published_at": "2021-04-06T15:21:20Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39558365,
+          "tag_name": "v2.11.1",
+          "published_at": "2021-03-10T01:06:59Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39407098,
+          "tag_name": "v2.11.0",
+          "published_at": "2021-03-07T23:01:53Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 37526832,
+          "tag_name": "v2.10.1",
+          "published_at": "2021-02-06T21:24:48Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36994225,
+          "tag_name": "v2.10.0",
+          "published_at": "2021-01-27T20:50:43Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34954294,
+          "tag_name": "v2.9.3",
+          "published_at": "2020-12-07T23:08:20Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34442929,
+          "tag_name": "v2.9.2",
+          "published_at": "2020-11-26T02:41:52Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34436456,
+          "tag_name": "v2.9.1",
+          "published_at": "2020-11-25T21:41:57Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 34270952,
+          "tag_name": "v2.9.0",
+          "published_at": "2020-11-21T21:55:58Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33324316,
+          "tag_name": "v2.8.2",
+          "published_at": "2020-11-01T16:38:54Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33200120,
+          "tag_name": "v2.8.1",
+          "published_at": "2020-10-29T06:05:46Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 33198896,
+          "tag_name": "v2.8.0",
+          "published_at": "2020-10-29T05:01:52Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31092024,
+          "tag_name": "v2.7.1",
+          "published_at": "2020-09-10T23:07:11Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 30018852,
+          "tag_name": "v2.7.0",
+          "published_at": "2020-08-22T23:51:05Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.7.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "00bc1766a478ae9c697b20221b5c14bf19536caa9de8cea1e662d20d0ffc9f5f"
+    },
+    {
+      "url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:45.020Z",
+      "end": false,
+      "records": [
+        {
+          "id": 28130116,
+          "tag_name": "v2.6.0",
+          "published_at": "2020-07-01T19:43:04Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27388067,
+          "tag_name": "v2.5.1",
+          "published_at": "2020-06-09T21:21:12Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27346157,
+          "tag_name": "v2.5.0",
+          "published_at": "2020-06-08T22:19:28Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 26396298,
+          "tag_name": "v2.4.0",
+          "published_at": "2020-05-11T19:33:57Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 25785900,
+          "tag_name": "v2.3.0",
+          "published_at": "2020-04-22T21:17:26Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24477281,
+          "tag_name": "v2.2.0",
+          "published_at": "2020-03-12T19:38:55Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23937739,
+          "tag_name": "v2.1.1",
+          "published_at": "2020-02-24T17:10:08Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23778647,
+          "tag_name": "v2.1.0",
+          "published_at": "2020-02-18T18:55:23Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23241400,
+          "tag_name": "v2.0.1",
+          "published_at": "2020-01-30T02:48:05Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23206167,
+          "tag_name": "v2.0.0",
+          "published_at": "2020-01-29T02:41:15Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22559317,
+          "tag_name": "v1.21.0",
+          "published_at": "2020-01-02T17:48:38Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21038376,
+          "tag_name": "v1.20.0",
+          "published_at": "2019-10-28T23:31:36Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21000378,
+          "tag_name": "v1.19.0",
+          "published_at": "2019-10-26T19:50:11Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19569991,
+          "tag_name": "v1.18.3",
+          "published_at": "2019-08-27T17:40:09Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.18.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19318906,
+          "tag_name": "v1.18.2",
+          "published_at": "2019-08-15T17:08:52Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19217713,
+          "tag_name": "v1.18.1",
+          "published_at": "2019-08-11T21:10:12Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19060256,
+          "tag_name": "v1.18.0",
+          "published_at": "2019-08-03T22:24:00Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17829745,
+          "tag_name": "v1.17.0",
+          "published_at": "2019-06-06T15:31:35Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17225565,
+          "tag_name": "v1.16.1",
+          "published_at": "2019-05-08T15:27:34Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17150032,
+          "tag_name": "v1.16.0",
+          "published_at": "2019-05-04T15:42:28Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16803583,
+          "tag_name": "v1.15.2",
+          "published_at": "2019-04-16T18:34:21Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16482271,
+          "tag_name": "v1.15.1",
+          "published_at": "2019-04-01T17:23:46Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16456151,
+          "tag_name": "v1.15.0",
+          "published_at": "2019-03-30T23:15:41Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15625471,
+          "tag_name": "v1.14.4",
+          "published_at": "2019-02-18T17:15:08Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 15355195,
+          "tag_name": "v1.14.3",
+          "published_at": "2019-02-04T16:44:54Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14916756,
+          "tag_name": "v1.14.2",
+          "published_at": "2019-01-11T00:05:17Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14910889,
+          "tag_name": "v1.14.1",
+          "published_at": "2019-01-10T18:22:37Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14862639,
+          "tag_name": "v1.14.0",
+          "published_at": "2019-01-08T19:00:48Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14646913,
+          "tag_name": "v1.13.0",
+          "published_at": "2018-12-20T20:08:00Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13614393,
+          "tag_name": "v1.12.0",
+          "published_at": "2018-10-23T17:58:34Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.12.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "8424e2323729ca61b904965039091fcf0be9cc5b951c52d243e1e66f17be2437"
+    },
+    {
+      "url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:45.731Z",
+      "end": false,
+      "records": [
+        {
+          "id": 13364749,
+          "tag_name": "v1.11.2",
+          "published_at": "2018-10-11T03:45:45Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13040626,
+          "tag_name": "v1.11.1",
+          "published_at": "2018-09-22T19:04:30Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12695643,
+          "tag_name": "v1.11.0",
+          "published_at": "2018-09-03T02:58:35Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12278232,
+          "tag_name": "v1.10.5",
+          "published_at": "2018-08-06T21:04:21Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.10.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12044677,
+          "tag_name": "v1.10.4",
+          "published_at": "2018-07-22T15:49:42Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.10.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11744462,
+          "tag_name": "v1.10.3",
+          "published_at": "2018-07-02T18:05:02Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.10.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11428338,
+          "tag_name": "v1.10.2",
+          "published_at": "2018-06-11T20:31:56Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11211143,
+          "tag_name": "v1.10.1",
+          "published_at": "2018-05-29T00:29:05Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11191437,
+          "tag_name": "v1.10.0",
+          "published_at": "2018-05-26T20:41:03Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11106315,
+          "tag_name": "v1.9.0",
+          "published_at": "2018-05-22T03:49:22Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10138307,
+          "tag_name": "v1.8.2",
+          "published_at": "2018-03-18T03:40:59Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10054324,
+          "tag_name": "v1.8.1",
+          "published_at": "2018-03-12T22:35:26Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10037665,
+          "tag_name": "v1.8.0",
+          "published_at": "2018-03-12T03:20:27Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9926355,
+          "tag_name": "v1.7.0",
+          "published_at": "2018-03-04T00:32:52Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9526635,
+          "tag_name": "v1.6.0",
+          "published_at": "2018-02-04T20:27:18Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9371670,
+          "tag_name": "v1.5.1",
+          "published_at": "2018-01-24T17:47:29Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9226355,
+          "tag_name": "v1.5.0",
+          "published_at": "2018-01-14T04:02:56Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9167634,
+          "tag_name": "v1.4.5",
+          "published_at": "2018-01-09T18:35:47Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9140673,
+          "tag_name": "v1.4.4",
+          "published_at": "2018-01-08T05:29:07Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9087864,
+          "tag_name": "v1.4.3",
+          "published_at": "2018-01-03T03:36:40Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9085772,
+          "tag_name": "v1.4.2",
+          "published_at": "2018-01-02T22:16:10Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8453679,
+          "tag_name": "v1.4.1",
+          "published_at": "2017-11-09T16:37:51Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8439210,
+          "tag_name": "v1.4.0",
+          "published_at": "2017-11-08T20:08:50Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8040337,
+          "tag_name": "v1.3.0",
+          "published_at": "2017-10-08T22:09:19Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7988079,
+          "tag_name": "v1.2.0",
+          "published_at": "2017-10-04T04:20:39Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7823517,
+          "tag_name": "v1.1.2",
+          "published_at": "2017-09-20T12:52:05Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7785890,
+          "tag_name": "v1.1.1",
+          "published_at": "2017-09-18T00:08:21Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7710259,
+          "tag_name": "v1.1.0",
+          "published_at": "2017-09-11T16:09:30Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7672814,
+          "tag_name": "v1.0.1",
+          "published_at": "2017-09-07T16:58:14Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7671963,
+          "tag_name": "v1.0.0",
+          "published_at": "2017-09-07T15:53:30Z",
+          "html_url": "https://github.com/pre-commit/pre-commit/releases/tag/v1.0.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "8ef8ddf979c7846b396da3a30fc686afc37b88f4145e9ac3cf404e5ce3c20c90"
+    },
+    {
+      "url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=5",
+      "response_url": "https://api.github.com/repos/pre-commit/pre-commit/releases?per_page=30&page=5",
+      "size": 30,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:46.407Z",
+      "end": true,
+      "records": [],
+      "metadata_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  ]
+}

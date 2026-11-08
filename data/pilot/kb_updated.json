@@ -1,0 +1,132 @@
+[
+  {
+    "document_id": "pallets__flask",
+    "repository": "pallets/flask",
+    "release_id": 218299378,
+    "tag": "3.1.1",
+    "published_at": "2025-05-13T15:01:32Z",
+    "source_url": "https://github.com/pallets/flask/releases/tag/3.1.1",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: pallets/flask\nRelease tag: 3.1.1\nPublished at: 2025-05-13T15:01:32Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pallets/flask/releases/tag/3.1.1"
+  },
+  {
+    "document_id": "psf__requests",
+    "repository": "psf/requests",
+    "release_id": 158021607,
+    "tag": "v2.32.3",
+    "published_at": "2024-05-29T15:39:40Z",
+    "source_url": "https://github.com/psf/requests/releases/tag/v2.32.3",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: psf/requests\nRelease tag: v2.32.3\nPublished at: 2024-05-29T15:39:40Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/psf/requests/releases/tag/v2.32.3"
+  },
+  {
+    "document_id": "numpy__numpy",
+    "repository": "numpy/numpy",
+    "release_id": 219302212,
+    "tag": "v2.2.6",
+    "published_at": "2025-05-17T22:45:00Z",
+    "source_url": "https://github.com/numpy/numpy/releases/tag/v2.2.6",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: numpy/numpy\nRelease tag: v2.2.6\nPublished at: 2025-05-17T22:45:00Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/numpy/numpy/releases/tag/v2.2.6"
+  },
+  {
+    "document_id": "scipy__scipy",
+    "repository": "scipy/scipy",
+    "release_id": 217379942,
+    "tag": "v1.15.3",
+    "published_at": "2025-05-08T16:20:25Z",
+    "source_url": "https://github.com/scipy/scipy/releases/tag/v1.15.3",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: scipy/scipy\nRelease tag: v1.15.3\nPublished at: 2025-05-08T16:20:25Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/scipy/scipy/releases/tag/v1.15.3"
+  },
+  {
+    "document_id": "pandas-dev__pandas",
+    "repository": "pandas-dev/pandas",
+    "release_id": 176105602,
+    "tag": "v2.2.3",
+    "published_at": "2024-09-20T13:10:41Z",
+    "source_url": "https://github.com/pandas-dev/pandas/releases/tag/v2.2.3",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: pandas-dev/pandas\nRelease tag: v2.2.3\nPublished at: 2024-09-20T13:10:41Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pandas-dev/pandas/releases/tag/v2.2.3"
+  },
+  {
+    "document_id": "scikit-learn__scikit-learn",
+    "repository": "scikit-learn/scikit-learn",
+    "release_id": 194085391,
+    "tag": "1.6.1",
+    "published_at": "2025-01-10T10:51:11Z",
+    "source_url": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.6.1",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: scikit-learn/scikit-learn\nRelease tag: 1.6.1\nPublished at: 2025-01-10T10:51:11Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/scikit-learn/scikit-learn/releases/tag/1.6.1"
+  },
+  {
+    "document_id": "python-pillow__Pillow",
+    "repository": "python-pillow/Pillow",
+    "release_id": 192893636,
+    "tag": "11.2.1",
+    "published_at": "2025-04-12T17:56:01Z",
+    "source_url": "https://github.com/python-pillow/Pillow/releases/tag/11.2.1",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: python-pillow/Pillow\nRelease tag: 11.2.1\nPublished at: 2025-04-12T17:56:01Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/python-pillow/Pillow/releases/tag/11.2.1"
+  },
+  {
+    "document_id": "matplotlib__matplotlib",
+    "repository": "matplotlib/matplotlib",
+    "release_id": 217659889,
+    "tag": "v3.10.3",
+    "published_at": "2025-05-09T17:22:05Z",
+    "source_url": "https://github.com/matplotlib/matplotlib/releases/tag/v3.10.3",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: matplotlib/matplotlib\nRelease tag: v3.10.3\nPublished at: 2025-05-09T17:22:05Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/matplotlib/matplotlib/releases/tag/v3.10.3"
+  },
+  {
+    "document_id": "pytest-dev__pytest",
+    "repository": "pytest-dev/pytest",
+    "release_id": 203219661,
+    "tag": "8.3.5",
+    "published_at": "2025-03-02T12:56:47Z",
+    "source_url": "https://github.com/pytest-dev/pytest/releases/tag/8.3.5",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: pytest-dev/pytest\nRelease tag: 8.3.5\nPublished at: 2025-03-02T12:56:47Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pytest-dev/pytest/releases/tag/8.3.5"
+  },
+  {
+    "document_id": "encode__uvicorn",
+    "repository": "encode/uvicorn",
+    "release_id": 213453774,
+    "tag": "0.34.2",
+    "published_at": "2025-04-19T06:01:45Z",
+    "source_url": "https://github.com/Kludex/uvicorn/releases/tag/0.34.2",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: encode/uvicorn\nRelease tag: 0.34.2\nPublished at: 2025-04-19T06:01:45Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/Kludex/uvicorn/releases/tag/0.34.2"
+  },
+  {
+    "document_id": "encode__starlette",
+    "repository": "encode/starlette",
+    "release_id": 221873081,
+    "tag": "0.47.0",
+    "published_at": "2025-05-29T15:44:26Z",
+    "source_url": "https://github.com/Kludex/starlette/releases/tag/0.47.0",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: encode/starlette\nRelease tag: 0.47.0\nPublished at: 2025-05-29T15:44:26Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/Kludex/starlette/releases/tag/0.47.0"
+  },
+  {
+    "document_id": "pydantic__pydantic",
+    "repository": "pydantic/pydantic",
+    "release_id": 220586072,
+    "tag": "v2.11.5",
+    "published_at": "2025-05-23T08:58:29Z",
+    "source_url": "https://github.com/pydantic/pydantic/releases/tag/v2.11.5",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: pydantic/pydantic\nRelease tag: v2.11.5\nPublished at: 2025-05-23T08:58:29Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/pydantic/pydantic/releases/tag/v2.11.5"
+  },
+  {
+    "document_id": "fastapi__typer",
+    "repository": "fastapi/typer",
+    "release_id": 221026526,
+    "tag": "0.16.0",
+    "published_at": "2025-05-26T14:30:06Z",
+    "source_url": "https://github.com/fastapi/typer/releases/tag/0.16.0",
+    "snapshot_cutoff": "2025-06-01T00:00:00Z",
+    "text": "Repository: fastapi/typer\nRelease tag: 0.16.0\nPublished at: 2025-05-26T14:30:06Z\nStatus: non-prerelease, non-draft\nSource: https://github.com/fastapi/typer/releases/tag/0.16.0"
+  }
+]

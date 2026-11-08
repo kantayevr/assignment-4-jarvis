@@ -1,0 +1,10 @@
+{
+  "dataset": "pilot",
+  "questions": 13,
+  "complete_predictions": 52,
+  "a3_tfidf_predictions_compared": 26,
+  "a3_tfidf_prompt_hashes_matched": 26,
+  "a3_tfidf_raw_answers_matched": 26,
+  "closed_book_requests_with_retrieved_documents": 0,
+  "incomplete_run_rejected": true
+}

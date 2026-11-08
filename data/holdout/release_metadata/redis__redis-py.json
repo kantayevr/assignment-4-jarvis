@@ -1,0 +1,910 @@
+{
+  "candidate": "redis/redis-py",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:54.569Z",
+      "end": false,
+      "records": [
+        {
+          "id": 434154957,
+          "tag_name": "v8.2.0b1",
+          "published_at": "2026-11-04T17:01:27Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v8.2.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 359468998,
+          "tag_name": "v8.1.0",
+          "published_at": "2026-07-30T08:50:17Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v8.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 343568829,
+          "tag_name": "v8.0.1",
+          "published_at": "2026-06-23T14:52:01Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v8.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 334834755,
+          "tag_name": "v7.4.1",
+          "published_at": "2026-06-05T09:09:40Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 334825017,
+          "tag_name": "v7.3.1",
+          "published_at": "2026-06-05T08:46:14Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 334816750,
+          "tag_name": "v7.2.2",
+          "published_at": "2026-06-05T08:26:05Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 330835798,
+          "tag_name": "v8.0.0",
+          "published_at": "2026-05-28T12:44:42Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v8.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 310215678,
+          "tag_name": "v8.0.0b2",
+          "published_at": "2026-04-17T07:38:07Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v8.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 306562646,
+          "tag_name": "v8.0.0b1",
+          "published_at": "2026-04-08T12:20:07Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v8.0.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 300581802,
+          "tag_name": "v7.4.0",
+          "published_at": "2026-03-24T09:14:09Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 294036268,
+          "tag_name": "v7.3.0",
+          "published_at": "2026-03-06T18:15:23Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290548848,
+          "tag_name": "v7.2.1",
+          "published_at": "2026-02-25T20:04:47Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 286920570,
+          "tag_name": "v7.2.0",
+          "published_at": "2026-02-16T17:15:50Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 284483614,
+          "tag_name": "v7.1.1",
+          "published_at": "2026-02-09T18:39:13Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 263690314,
+          "tag_name": "v7.1.0",
+          "published_at": "2025-11-19T15:54:06Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 257438588,
+          "tag_name": "v7.0.1",
+          "published_at": "2025-10-27T14:32:24Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 256404045,
+          "tag_name": "v7.0.0",
+          "published_at": "2025-10-22T15:38:01Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252765440,
+          "tag_name": "v7.0.0b3",
+          "published_at": "2025-10-07T18:17:24Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.0.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 250337915,
+          "tag_name": "v7.0.0b2",
+          "published_at": "2025-09-26T17:27:12Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 245845616,
+          "tag_name": "v7.0.0b1",
+          "published_at": "2025-09-09T16:20:08Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v7.0.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 238208296,
+          "tag_name": "v6.4.0",
+          "published_at": "2025-08-07T08:09:44Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235143704,
+          "tag_name": "v6.3.0",
+          "published_at": "2025-08-05T08:12:05Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235086403,
+          "tag_name": "v5.3.1",
+          "published_at": "2025-07-25T08:05:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 222386537,
+          "tag_name": "v6.1.1",
+          "published_at": "2025-06-02T11:43:36Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221315470,
+          "tag_name": "v6.2.0",
+          "published_at": "2025-05-28T05:00:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 218213500,
+          "tag_name": "v6.1.0",
+          "published_at": "2025-05-13T12:16:26Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215546104,
+          "tag_name": "v6.0.0",
+          "published_at": "2025-04-30T19:08:59Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215540128,
+          "tag_name": "v5.3.0",
+          "published_at": "2025-04-30T14:53:55Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 210753507,
+          "tag_name": "v6.0.0b2",
+          "published_at": "2025-04-07T14:48:18Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 207906187,
+          "tag_name": "v6.0.0b1",
+          "published_at": "2025-03-24T18:12:38Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v6.0.0b1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "c050f47beacb36cba743021e68e0cd90a0dba9083a244a9d533a98572e710222"
+    },
+    {
+      "url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:55.357Z",
+      "end": false,
+      "records": [
+        {
+          "id": 199625259,
+          "tag_name": "v5.3.0b5",
+          "published_at": "2025-02-11T14:53:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.0b5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 192079319,
+          "tag_name": "v5.3.0b4",
+          "published_at": "2024-12-23T10:10:32Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 191906509,
+          "tag_name": "v5.3.0b3",
+          "published_at": "2024-12-20T18:21:02Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 191904724,
+          "tag_name": "v5.3.0b2",
+          "published_at": "2024-12-20T18:12:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 191902175,
+          "tag_name": "v5.3.0b1",
+          "published_at": "2024-12-20T18:07:30Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.3.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 189350245,
+          "tag_name": "v5.2.1",
+          "published_at": "2024-12-06T09:50:08Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 181742333,
+          "tag_name": "v5.2.0",
+          "published_at": "2024-10-24T15:03:34Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178393025,
+          "tag_name": "v5.1.1",
+          "published_at": "2024-10-04T13:02:26Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162267629,
+          "tag_name": "v5.1.0",
+          "published_at": "2024-09-27T16:17:37Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167860988,
+          "tag_name": "v5.0.9",
+          "published_at": "2024-07-30T14:11:09Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167659756,
+          "tag_name": "v5.0.8",
+          "published_at": "2024-07-29T13:56:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162526718,
+          "tag_name": "v5.0.7",
+          "published_at": "2024-06-26T13:19:34Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 160052652,
+          "tag_name": "v5.1.0b7",
+          "published_at": "2024-06-20T09:22:53Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 160331659,
+          "tag_name": "v5.0.6",
+          "published_at": "2024-06-13T16:08:19Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154891510,
+          "tag_name": "v5.1.0b6",
+          "published_at": "2024-06-06T18:03:00Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b6",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 159140533,
+          "tag_name": "v5.0.5",
+          "published_at": "2024-06-06T08:07:37Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145258347,
+          "tag_name": "v5.1.0b5",
+          "published_at": "2024-05-08T13:28:19Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 152432638,
+          "tag_name": "v5.0.4",
+          "published_at": "2024-04-23T17:11:18Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145728593,
+          "tag_name": "v5.0.3",
+          "published_at": "2024-03-10T15:18:02Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137879000,
+          "tag_name": "v5.1.0b4",
+          "published_at": "2024-02-29T12:39:07Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 143986180,
+          "tag_name": "v5.0.2",
+          "published_at": "2024-02-28T12:29:42Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 136308828,
+          "tag_name": "v5.1.0b3",
+          "published_at": "2024-01-15T15:53:50Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 135502376,
+          "tag_name": "v5.1.0b2",
+          "published_at": "2024-01-07T13:12:52Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 131837866,
+          "tag_name": "v5.1.0b1",
+          "published_at": "2024-01-01T14:00:59Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 123803697,
+          "tag_name": "v5.1.0a1",
+          "published_at": "2023-11-16T12:21:13Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.1.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 117952750,
+          "tag_name": "v5.0.1",
+          "published_at": "2023-09-26T06:50:30Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112408334,
+          "tag_name": "v5.0.0",
+          "published_at": "2023-08-15T09:57:30Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112404540,
+          "tag_name": "v5.0.0rc2",
+          "published_at": "2023-07-16T12:12:21Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 110062671,
+          "tag_name": "v5.0.0rc1",
+          "published_at": "2023-06-27T18:35:56Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 102470796,
+          "tag_name": "v4.6.0",
+          "published_at": "2023-06-25T13:12:47Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.6.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "e85d53783425cbdac172daacbdb40a6ee17bb6d460e58e13d139da10f57aace7"
+    },
+    {
+      "url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:56.280Z",
+      "end": false,
+      "records": [
+        {
+          "id": 104935163,
+          "tag_name": "v5.0.0b4",
+          "published_at": "2023-05-28T09:27:39Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 99383164,
+          "tag_name": "v4.5.5",
+          "published_at": "2023-05-08T11:53:57Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.5.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101843766,
+          "tag_name": "v5.0.0b3",
+          "published_at": "2023-05-04T09:42:34Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 100665464,
+          "tag_name": "v5.0.0b2",
+          "published_at": "2023-04-24T15:07:07Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 97087312,
+          "tag_name": "v4.5.4",
+          "published_at": "2023-03-29T13:23:00Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 97327935,
+          "tag_name": "v4.4.4",
+          "published_at": "2023-03-29T13:53:43Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96631625,
+          "tag_name": "v5.0.0b1",
+          "published_at": "2023-03-23T14:47:33Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v5.0.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 96516871,
+          "tag_name": "v4.5.3",
+          "published_at": "2023-03-22T16:06:14Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96518561,
+          "tag_name": "v4.4.3",
+          "published_at": "2023-03-22T16:16:10Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 96518965,
+          "tag_name": "v4.3.6",
+          "published_at": "2023-03-22T16:19:06Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 92547926,
+          "tag_name": "v4.5.2",
+          "published_at": "2023-03-20T10:00:42Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91736211,
+          "tag_name": "v4.5.1",
+          "published_at": "2023-02-08T14:21:35Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89537081,
+          "tag_name": "v4.5.0",
+          "published_at": "2023-02-07T15:18:05Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88551145,
+          "tag_name": "v4.4.2",
+          "published_at": "2023-01-11T14:01:37Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 85140739,
+          "tag_name": "v4.4.1",
+          "published_at": "2023-01-08T10:01:02Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 83727191,
+          "tag_name": "v4.4.0",
+          "published_at": "2022-12-04T10:47:59Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 83748727,
+          "tag_name": "v4.3.5",
+          "published_at": "2022-11-22T07:27:54Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82542339,
+          "tag_name": "v4.4.0rc4",
+          "published_at": "2022-11-10T14:22:58Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 79140190,
+          "tag_name": "v4.4.0rc3",
+          "published_at": "2022-11-08T14:04:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 74374695,
+          "tag_name": "v4.4.0rc2",
+          "published_at": "2022-09-29T13:44:17Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 71281635,
+          "tag_name": "v4.4.0rc1",
+          "published_at": "2022-08-04T14:01:30Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.4.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 69781059,
+          "tag_name": "v4.3.4",
+          "published_at": "2022-06-27T13:10:51Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68453062,
+          "tag_name": "v4.3.3",
+          "published_at": "2022-06-02T14:47:48Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66928394,
+          "tag_name": "v4.3.2",
+          "published_at": "2022-06-01T15:25:13Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 66366419,
+          "tag_name": "v4.3.1",
+          "published_at": "2022-05-09T12:57:20Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63849991,
+          "tag_name": "v4.3.0",
+          "published_at": "2022-05-08T14:11:16Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63242796,
+          "tag_name": "v4.2.2",
+          "published_at": "2022-04-04T11:49:01Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63226217,
+          "tag_name": "v4.2.1",
+          "published_at": "2022-03-31T09:34:55Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 61991252,
+          "tag_name": "v4.2.0",
+          "published_at": "2022-03-23T12:38:21Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 61467925,
+          "tag_name": "v4.2.0rc3",
+          "published_at": "2022-03-14T15:16:34Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.2.0rc3",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "77af9ce0128bc5ebf4c9022ea469a8e0c6aeafa09c835243db04e29973600c60"
+    },
+    {
+      "url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/redis/redis-py/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:57.354Z",
+      "end": true,
+      "records": [
+        {
+          "id": 60370009,
+          "tag_name": "v4.2.0rc2",
+          "published_at": "2022-03-08T08:54:20Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.2.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 58969606,
+          "tag_name": "v4.2.0rc1",
+          "published_at": "2022-02-22T14:03:00Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.2.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 59682183,
+          "tag_name": "v4.1.4",
+          "published_at": "2022-02-16T09:26:10Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58969269,
+          "tag_name": "v4.1.3",
+          "published_at": "2022-02-08T07:35:16Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 57382472,
+          "tag_name": "v4.1.2",
+          "published_at": "2022-01-27T11:27:11Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56179689,
+          "tag_name": "v4.1.1",
+          "published_at": "2022-01-17T10:59:28Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 55166248,
+          "tag_name": "v4.1.0",
+          "published_at": "2021-12-26T13:32:19Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54332893,
+          "tag_name": "v4.1.0rc2",
+          "published_at": "2021-12-09T10:07:56Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 54069473,
+          "tag_name": "v4.1.0rc1",
+          "published_at": "2021-11-25T14:58:36Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.1.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 53787720,
+          "tag_name": "v4.0.2",
+          "published_at": "2021-11-22T08:30:06Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53538852,
+          "tag_name": "v4.0.1",
+          "published_at": "2021-11-17T11:01:27Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53067224,
+          "tag_name": "v4.0.0",
+          "published_at": "2021-11-15T11:49:57Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52683656,
+          "tag_name": "v4.0.0rc2",
+          "published_at": "2021-11-09T14:22:16Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 52048200,
+          "tag_name": "v4.0.0rc1",
+          "published_at": "2021-11-04T12:15:32Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 52039953,
+          "tag_name": "v4.0.0b3",
+          "published_at": "2021-10-26T11:17:43Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 52032839,
+          "tag_name": "v4.0.0b2",
+          "published_at": "2021-10-26T08:08:56Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 52029930,
+          "tag_name": "v4.0.0b1",
+          "published_at": "2021-10-26T07:19:37Z",
+          "html_url": "https://github.com/redis/redis-py/releases/tag/v4.0.0b1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "38b6379762a8368f6a2dfe10a71ac013d87d860fa2e6a2be13be1cd70d593b15"
+    }
+  ]
+}

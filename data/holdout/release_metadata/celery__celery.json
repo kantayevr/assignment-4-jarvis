@@ -1,0 +1,626 @@
+{
+  "candidate": "celery/celery",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/celery/celery/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/celery/celery/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:53.624Z",
+      "end": false,
+      "records": [
+        {
+          "id": 435361140,
+          "tag_name": "v5.7.0",
+          "published_at": "2026-11-05T15:12:23Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416338262,
+          "tag_name": "v5.7.0rc1",
+          "published_at": "2026-10-18T08:55:10Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.7.0rc1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 404951835,
+          "tag_name": "v5.7.0b1",
+          "published_at": "2026-10-06T16:51:31Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.7.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 393565876,
+          "tag_name": "v5.7.0a1",
+          "published_at": "2026-09-22T08:34:45Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.7.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 301828611,
+          "tag_name": "v5.6.3",
+          "published_at": "2026-03-26T12:21:23Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 274052624,
+          "tag_name": "v5.6.2",
+          "published_at": "2026-01-04T12:36:35Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 273289734,
+          "tag_name": "v5.6.1",
+          "published_at": "2025-12-29T21:48:53Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 266221078,
+          "tag_name": "v5.6.0",
+          "published_at": "2025-11-30T17:40:27Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 264549249,
+          "tag_name": "v5.6.0rc2",
+          "published_at": "2025-11-22T17:54:49Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 259033720,
+          "tag_name": "v5.6.0rc1",
+          "published_at": "2025-11-01T23:53:30Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 255688011,
+          "tag_name": "v5.6.0b2",
+          "published_at": "2025-10-20T08:49:45Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 247138885,
+          "tag_name": "v5.6.0b1",
+          "published_at": "2025-09-15T00:46:40Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.6.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 222273897,
+          "tag_name": "v5.5.3",
+          "published_at": "2025-06-01T11:08:20Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 214876486,
+          "tag_name": "v5.5.2",
+          "published_at": "2025-04-25T20:10:41Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 210875375,
+          "tag_name": "v5.5.1",
+          "published_at": "2025-04-07T22:22:14Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209443767,
+          "tag_name": "v5.5.0",
+          "published_at": "2025-03-31T20:25:24Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 202359413,
+          "tag_name": "v5.5.0rc5",
+          "published_at": "2025-02-25T16:45:52Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0rc5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 191684191,
+          "tag_name": "v5.5.0rc4",
+          "published_at": "2024-12-19T15:09:32Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 188687031,
+          "tag_name": "v5.5.0rc3",
+          "published_at": "2024-12-03T12:00:29Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 186024012,
+          "tag_name": "v5.5.0rc2",
+          "published_at": "2024-11-18T18:01:16Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 178891657,
+          "tag_name": "v5.5.0rc1",
+          "published_at": "2024-10-08T12:43:27Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 177662371,
+          "tag_name": "v5.5.0b4",
+          "published_at": "2024-09-30T18:38:58Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 174014207,
+          "tag_name": "v5.5.0b3",
+          "published_at": "2024-09-08T13:40:09Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 168987113,
+          "tag_name": "v5.5.0b2",
+          "published_at": "2024-08-06T20:47:31Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 166912817,
+          "tag_name": "v5.5.0b1",
+          "published_at": "2024-07-24T13:49:39Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.5.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 151631710,
+          "tag_name": "v5.4.0",
+          "published_at": "2024-04-17T20:32:41Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148699620,
+          "tag_name": "v5.4.0rc2",
+          "published_at": "2024-03-27T15:20:37Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.4.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 137434169,
+          "tag_name": "v5.4.0rc1",
+          "published_at": "2024-01-17T18:00:33Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.4.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 131014914,
+          "tag_name": "v5.3.6",
+          "published_at": "2023-11-22T15:18:14Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 128911411,
+          "tag_name": "v5.3.5",
+          "published_at": "2023-11-10T13:32:30Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9c4f38882f6bafb7c3822e4f3cc8c1a49e83228ad2956185ac54688e80c01de5"
+    },
+    {
+      "url": "https://api.github.com/repos/celery/celery/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/celery/celery/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:54.571Z",
+      "end": false,
+      "records": [
+        {
+          "id": 119746154,
+          "tag_name": "v5.3.4",
+          "published_at": "2023-09-03T20:03:56Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 109008965,
+          "tag_name": "v5.3.1",
+          "published_at": "2023-06-18T14:18:25Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 107457910,
+          "tag_name": "v5.3.0",
+          "published_at": "2023-06-06T06:02:33Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 105544167,
+          "tag_name": "v5.3.0rc2",
+          "published_at": "2023-05-31T14:47:57Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.0rc2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 102639424,
+          "tag_name": "v5.3.0rc1",
+          "published_at": "2023-05-11T13:24:00Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.0rc1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 92942646,
+          "tag_name": "v5.3.0b2",
+          "published_at": "2023-02-19T11:47:50Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.0b2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73330296,
+          "tag_name": "v5.3.0b1",
+          "published_at": "2022-08-01T11:20:41Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.0b1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 70852581,
+          "tag_name": "v5.3.0a1",
+          "published_at": "2022-06-29T11:35:14Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.3.0a1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68093245,
+          "tag_name": "v5.2.7",
+          "published_at": "2022-05-29T12:59:05Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63600582,
+          "tag_name": "v5.2.6",
+          "published_at": "2022-04-05T08:36:05Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63472442,
+          "tag_name": "v5.2.5",
+          "published_at": "2022-04-03T17:45:11Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 63471665,
+          "tag_name": "v5.2.4",
+          "published_at": "2022-04-03T17:17:11Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56119872,
+          "tag_name": "v5.2.3",
+          "published_at": "2021-12-29T05:51:04Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 56000600,
+          "tag_name": "v5.2.2",
+          "published_at": "2021-12-26T14:32:57Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53478186,
+          "tag_name": "v5.2.1",
+          "published_at": "2021-11-16T14:56:22Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52883833,
+          "tag_name": "v5.2.0",
+          "published_at": "2021-11-08T01:15:16Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 52759928,
+          "tag_name": "v5.2.0rc2",
+          "published_at": "2021-11-05T05:19:47Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.0rc2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50312505,
+          "tag_name": "v5.2.0rc1",
+          "published_at": "2021-09-27T11:38:25Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 49012715,
+          "tag_name": "v5.2.0b3",
+          "published_at": "2021-09-04T15:58:18Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48830737,
+          "tag_name": "v5.2.0b2",
+          "published_at": "2021-09-01T16:19:20Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47691671,
+          "tag_name": "v5.2.0b1",
+          "published_at": "2021-08-11T17:48:56Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.2.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 46061289,
+          "tag_name": "v5.1.2",
+          "published_at": "2021-07-12T14:26:26Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 44843664,
+          "tag_name": "v5.1.1",
+          "published_at": "2021-06-18T05:54:40Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 43606729,
+          "tag_name": "v5.1.0",
+          "published_at": "2021-05-26T15:28:52Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 43215252,
+          "tag_name": "v5.1.0rc1",
+          "published_at": "2021-05-19T13:25:18Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.1.0rc1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 42327572,
+          "tag_name": "v5.1.0b2",
+          "published_at": "2021-05-02T13:32:41Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.1.0b2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 40857910,
+          "tag_name": "v5.1.0b1",
+          "published_at": "2021-04-02T04:55:05Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.1.0b1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35361443,
+          "tag_name": "v5.0.5",
+          "published_at": "2020-12-16T15:41:18Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35361416,
+          "tag_name": "v5.0.4",
+          "published_at": "2020-12-16T15:40:57Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35361373,
+          "tag_name": "v5.0.3",
+          "published_at": "2020-12-16T15:40:18Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.0.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "adf439726b91d24e028d03b67f42df3b0f2ae48f459cbb5dc85b483c8bf8fa73"
+    },
+    {
+      "url": "https://api.github.com/repos/celery/celery/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/celery/celery/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:55.505Z",
+      "end": true,
+      "records": [
+        {
+          "id": 33394603,
+          "tag_name": "v5.0.2",
+          "published_at": "2020-11-03T10:26:48Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32722134,
+          "tag_name": "v5.0.1",
+          "published_at": "2020-10-18T14:39:33Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 31793188,
+          "tag_name": "v5.0.0",
+          "published_at": "2020-09-25T02:59:44Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v5.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29175260,
+          "tag_name": "v4.4.7",
+          "published_at": "2020-07-31T17:44:53Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v4.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27862802,
+          "tag_name": "v4.4.6",
+          "published_at": "2020-06-24T08:42:18Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v4.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27312585,
+          "tag_name": "v4.4.5",
+          "published_at": "2020-06-08T06:11:15Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v4.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27162860,
+          "tag_name": "v4.4.4",
+          "published_at": "2020-06-03T05:09:42Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v4.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 27090136,
+          "tag_name": "4.4.3",
+          "published_at": "2020-06-01T09:53:44Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/4.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 25553314,
+          "tag_name": "4.4.2",
+          "published_at": "2020-04-16T01:55:03Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/4.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24126443,
+          "tag_name": "4.4.1",
+          "published_at": "2020-03-02T11:07:19Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/4.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22245341,
+          "tag_name": "4.4.0",
+          "published_at": "2019-12-16T06:01:53Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/4.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22048631,
+          "tag_name": "4.4.0rc5",
+          "published_at": "2019-12-07T15:09:04Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/4.4.0rc5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2285,
+          "tag_name": "v3.0.20",
+          "published_at": "2013-07-03T10:43:44Z",
+          "html_url": "https://github.com/celery/celery/releases/tag/v3.0.20",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f805ed54ccda1b55c661788e1b36e2dd32a38c3f59489746d10e3cfea1dc8670"
+    }
+  ]
+}

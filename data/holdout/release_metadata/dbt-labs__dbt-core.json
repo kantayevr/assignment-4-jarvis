@@ -1,0 +1,3200 @@
+{
+  "candidate": "dbt-labs/dbt-core",
+  "provider": "github_connector",
+  "redirect": {
+    "canonical": "dbt-labs/dbt",
+    "repository_id": 53548867,
+    "source_url": "https://api.github.com/repos/dbt-labs/dbt-core",
+    "redirect_url": "https://api.github.com/repositories/53548867"
+  },
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:31.016Z",
+      "end": false,
+      "records": [
+        {
+          "id": 436201045,
+          "tag_name": "v1.11.17",
+          "published_at": "2026-11-06T07:07:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 433846157,
+          "tag_name": "v1.13.0rc1",
+          "published_at": "2026-11-04T11:47:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.13.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 432488134,
+          "tag_name": "v2.0.11",
+          "published_at": "2026-11-03T09:23:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 412460319,
+          "tag_name": "v2.0.8",
+          "published_at": "2026-10-14T07:49:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 412454699,
+          "tag_name": "v1.13.0b1",
+          "published_at": "2026-10-14T07:41:52Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.13.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 412587540,
+          "tag_name": "v1.12.6",
+          "published_at": "2026-10-14T10:24:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 412489151,
+          "tag_name": "v1.11.16",
+          "published_at": "2026-10-14T08:25:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 394735400,
+          "tag_name": "v2.0.0-dev.41-test-pypi",
+          "published_at": "2026-09-23T14:17:38Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.41-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 391596258,
+          "tag_name": "v2.0.5",
+          "published_at": "2026-09-18T15:47:44Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389703567,
+          "tag_name": "v2.0.4",
+          "published_at": "2026-09-16T07:12:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389583686,
+          "tag_name": "v2.0.3",
+          "published_at": "2026-09-16T01:44:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389290591,
+          "tag_name": "v2.0.2",
+          "published_at": "2026-09-15T16:08:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389231988,
+          "tag_name": "v2.0.2-test-pypi",
+          "published_at": "2026-09-15T14:48:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.2-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 389402576,
+          "tag_name": "v1.12.5",
+          "published_at": "2026-09-15T19:07:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 388742516,
+          "tag_name": "v2.0.1",
+          "published_at": "2026-09-14T22:07:43Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 388703693,
+          "tag_name": "v2.0.0",
+          "published_at": "2026-09-14T20:50:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 385531672,
+          "tag_name": "v2.0.0-dev.39-test-pypi",
+          "published_at": "2026-09-09T13:17:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.39-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 385454456,
+          "tag_name": "v2.0.0-dev.38-test-pypi",
+          "published_at": "2026-09-09T11:24:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.38-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 385376502,
+          "tag_name": "v2.0.0-dev.37-test-pypi",
+          "published_at": "2026-09-09T09:21:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.37-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 384829763,
+          "tag_name": "v2.0.0-rc.2",
+          "published_at": "2026-09-08T14:57:16Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-rc.2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 384617677,
+          "tag_name": "v1.12.4",
+          "published_at": "2026-09-08T10:00:57Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 384496425,
+          "tag_name": "v1.11.15",
+          "published_at": "2026-09-08T06:42:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 382006650,
+          "tag_name": "v2.0.0-dev.35-test-pypi",
+          "published_at": "2026-09-03T12:35:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.35-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 381191586,
+          "tag_name": "v2.0.0-rc.1",
+          "published_at": "2026-09-02T11:20:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-rc.1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 379692646,
+          "tag_name": "v2.0.0-dev.34-test-pypi",
+          "published_at": "2026-08-31T11:13:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.34-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 379642338,
+          "tag_name": "v2.0.0-dev.33-test-pypi",
+          "published_at": "2026-08-31T09:35:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.33-test-pypi",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 377644701,
+          "tag_name": "v2.0.0-dev.30",
+          "published_at": "2026-08-27T07:48:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-dev.30",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 374103135,
+          "tag_name": "v1.12.3",
+          "published_at": "2026-08-21T00:28:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 373854648,
+          "tag_name": "v1.11.14",
+          "published_at": "2026-08-20T15:48:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 372543977,
+          "tag_name": "v2.0.0-beta.2",
+          "published_at": "2026-08-18T18:00:10Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-beta.2",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "92e1d0a68f8fd29234c9c69a0200dc8e3174c628d748a65b562b48f41ec8868a"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:32.054Z",
+      "end": false,
+      "records": [
+        {
+          "id": 370382883,
+          "tag_name": "v1.8.10",
+          "published_at": "2026-08-14T06:08:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370399005,
+          "tag_name": "v1.7.20",
+          "published_at": "2026-08-14T06:51:29Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370434009,
+          "tag_name": "v1.6.19",
+          "published_at": "2026-08-14T08:06:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370452698,
+          "tag_name": "v1.5.12",
+          "published_at": "2026-08-14T08:46:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370512934,
+          "tag_name": "v1.4.10",
+          "published_at": "2026-08-14T10:47:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370582756,
+          "tag_name": "v1.3.8",
+          "published_at": "2026-08-14T13:11:35Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370606932,
+          "tag_name": "v1.2.7",
+          "published_at": "2026-08-14T13:54:14Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370603335,
+          "tag_name": "v1.1.6",
+          "published_at": "2026-08-14T13:48:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370185431,
+          "tag_name": "v1.9.11",
+          "published_at": "2026-08-13T20:13:01Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 369477666,
+          "tag_name": "v1.12.2",
+          "published_at": "2026-08-12T19:27:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 369164512,
+          "tag_name": "v1.12.1",
+          "published_at": "2026-08-12T10:43:22Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 369358037,
+          "tag_name": "v1.11.13",
+          "published_at": "2026-08-12T15:48:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 369380892,
+          "tag_name": "v1.10.23",
+          "published_at": "2026-08-12T16:28:10Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368025069,
+          "tag_name": "v2.0.0-beta.1",
+          "published_at": "2026-08-10T15:35:44Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-beta.1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 356630413,
+          "tag_name": "v2.0.0-alpha.5",
+          "published_at": "2026-07-20T10:03:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-alpha.5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 355126219,
+          "tag_name": "v1.12.0",
+          "published_at": "2026-07-16T13:56:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 354115722,
+          "tag_name": "v1.12.0rc3",
+          "published_at": "2026-07-14T22:48:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 351770909,
+          "tag_name": "v1.12.0rc2",
+          "published_at": "2026-07-09T20:33:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 350300456,
+          "tag_name": "v1.12.0rc1",
+          "published_at": "2026-07-07T13:12:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 349408555,
+          "tag_name": "v2.0.0-alpha.4",
+          "published_at": "2026-07-06T08:20:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-alpha.4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 347471845,
+          "tag_name": "v1.11.12",
+          "published_at": "2026-07-01T13:16:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 346143981,
+          "tag_name": "v2.0.0-alpha.3",
+          "published_at": "2026-06-29T08:31:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-alpha.3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 341421765,
+          "tag_name": "v2.0.0-alpha.2",
+          "published_at": "2026-06-18T13:29:45Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-alpha.2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 339477932,
+          "tag_name": "v1.12.0b3",
+          "published_at": "2026-06-15T10:48:09Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 332291142,
+          "tag_name": "v2.0.0-alpha.1",
+          "published_at": "2026-06-01T05:04:24Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v2.0.0-alpha.1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 332419272,
+          "tag_name": "v1.12.0b2",
+          "published_at": "2026-06-01T10:19:30Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 325883385,
+          "tag_name": "v1.11.11",
+          "published_at": "2026-05-20T11:09:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 325867548,
+          "tag_name": "v1.10.22",
+          "published_at": "2026-05-20T10:52:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 322480173,
+          "tag_name": "v1.11.10",
+          "published_at": "2026-05-14T10:47:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 322481343,
+          "tag_name": "v1.10.21",
+          "published_at": "2026-05-14T10:50:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.21",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "c89535d7632f33f038d3049fd6f04ceeda5ee96270ca6599b5ea2832ce034469"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:32.852Z",
+      "end": false,
+      "records": [
+        {
+          "id": 321948372,
+          "tag_name": "v1.12.0b1",
+          "published_at": "2026-05-13T15:24:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.12.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 318606033,
+          "tag_name": "v1.11.9",
+          "published_at": "2026-05-06T20:01:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 306743400,
+          "tag_name": "v1.11.8",
+          "published_at": "2026-04-08T19:00:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 293058500,
+          "tag_name": "v1.11.7",
+          "published_at": "2026-03-04T16:15:19Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292709661,
+          "tag_name": "v1.10.20",
+          "published_at": "2026-03-03T20:25:12Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 287444211,
+          "tag_name": "v1.11.6",
+          "published_at": "2026-02-17T22:23:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 286183117,
+          "tag_name": "v1.11.5",
+          "published_at": "2026-02-13T17:42:26Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 284547462,
+          "tag_name": "v1.11.4",
+          "published_at": "2026-02-09T20:27:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 283468879,
+          "tag_name": "v1.11.3",
+          "published_at": "2026-02-05T18:16:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 278411300,
+          "tag_name": "v1.10.19",
+          "published_at": "2026-01-20T20:37:09Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 274667875,
+          "tag_name": "v1.10.18",
+          "published_at": "2026-01-06T23:06:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 272294323,
+          "tag_name": "v1.11.2",
+          "published_at": "2025-12-22T19:13:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 272282164,
+          "tag_name": "v1.11.2rc1",
+          "published_at": "2025-12-22T18:13:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 271906242,
+          "tag_name": "v1.10.17",
+          "published_at": "2025-12-20T01:31:24Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 271887855,
+          "tag_name": "v1.11.1",
+          "published_at": "2025-12-19T22:20:29Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 271842068,
+          "tag_name": "v1.11.0",
+          "published_at": "2025-12-19T19:02:58Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 271256575,
+          "tag_name": "v1.11.0rc4",
+          "published_at": "2025-12-17T22:46:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 270817839,
+          "tag_name": "v1.10.16",
+          "published_at": "2025-12-16T16:57:23Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 268524797,
+          "tag_name": "v1.11.0rc3",
+          "published_at": "2025-12-09T00:02:33Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 266528203,
+          "tag_name": "v1.11.0rc2",
+          "published_at": "2025-12-01T21:05:58Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 263410534,
+          "tag_name": "v1.11.0rc1",
+          "published_at": "2025-11-18T19:27:48Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 261882408,
+          "tag_name": "v1.10.15",
+          "published_at": "2025-11-12T20:10:49Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 261223884,
+          "tag_name": "v1.10.14",
+          "published_at": "2025-11-10T20:00:16Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 259579789,
+          "tag_name": "v1.11.0b4",
+          "published_at": "2025-11-04T14:07:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 252768137,
+          "tag_name": "v1.11.0b3",
+          "published_at": "2025-10-07T15:55:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 251868708,
+          "tag_name": "v1.11.0b2",
+          "published_at": "2025-10-02T22:23:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 251550810,
+          "tag_name": "v1.11.0b1",
+          "published_at": "2025-10-01T19:46:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.11.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 250128546,
+          "tag_name": "v1.10.13",
+          "published_at": "2025-09-25T20:33:48Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 246289076,
+          "tag_name": "v1.10.12",
+          "published_at": "2025-09-10T19:56:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244888130,
+          "tag_name": "v1.10.11",
+          "published_at": "2025-09-04T18:53:04Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.11",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9d32705cdaa295d329c28a0777430a79d178c445d3f1832b3fbaa19c1cb6aa97"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:35.755Z",
+      "end": false,
+      "records": [
+        {
+          "id": 243510254,
+          "tag_name": "v1.9.10",
+          "published_at": "2025-08-29T15:14:12Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 243271654,
+          "tag_name": "v1.10.10",
+          "published_at": "2025-08-28T18:22:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 240294248,
+          "tag_name": "v1.10.9",
+          "published_at": "2025-08-15T19:29:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 240303136,
+          "tag_name": "v1.9.9",
+          "published_at": "2025-08-15T20:23:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 239358713,
+          "tag_name": "v1.10.8",
+          "published_at": "2025-08-12T13:13:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 238446734,
+          "tag_name": "v1.10.7",
+          "published_at": "2025-08-07T21:54:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 236049111,
+          "tag_name": "v1.10.6",
+          "published_at": "2025-07-29T18:02:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 234253584,
+          "tag_name": "v1.10.5",
+          "published_at": "2025-07-22T13:55:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 231597852,
+          "tag_name": "v1.10.4",
+          "published_at": "2025-07-10T20:41:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 229551070,
+          "tag_name": "v1.10.3",
+          "published_at": "2025-07-02T21:32:30Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 226771524,
+          "tag_name": "v1.10.2",
+          "published_at": "2025-06-20T19:28:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 225683997,
+          "tag_name": "v1.10.1",
+          "published_at": "2025-06-16T20:52:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 225624358,
+          "tag_name": "v1.10.0",
+          "published_at": "2025-06-16T16:30:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 224380499,
+          "tag_name": "v1.9.8",
+          "published_at": "2025-06-10T16:09:49Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 224151583,
+          "tag_name": "v1.9.7",
+          "published_at": "2025-06-09T21:38:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223111504,
+          "tag_name": "v1.10.0rc2",
+          "published_at": "2025-06-04T15:11:49Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 222127601,
+          "tag_name": "v1.9.6",
+          "published_at": "2025-05-30T17:19:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 221663340,
+          "tag_name": "v1.10.0rc1",
+          "published_at": "2025-05-28T20:03:36Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 221435842,
+          "tag_name": "v1.9.5",
+          "published_at": "2025-05-28T04:33:07Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 218686337,
+          "tag_name": "v1.10.0b3",
+          "published_at": "2025-05-14T22:25:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 209935372,
+          "tag_name": "v1.10.0b2",
+          "published_at": "2025-04-02T19:12:32Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 209909301,
+          "tag_name": "v1.9.4",
+          "published_at": "2025-04-02T16:54:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 205424633,
+          "tag_name": "v1.10.0b1",
+          "published_at": "2025-03-12T21:45:49Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.10.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 204415793,
+          "tag_name": "v1.9.3",
+          "published_at": "2025-03-07T16:14:21Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 197462291,
+          "tag_name": "v1.9.2",
+          "published_at": "2025-01-29T21:50:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 191016103,
+          "tag_name": "v1.9.1",
+          "published_at": "2024-12-16T18:41:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 189786093,
+          "tag_name": "v1.9.0",
+          "published_at": "2024-12-09T18:04:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 188501226,
+          "tag_name": "v1.9.0rc2",
+          "published_at": "2024-12-02T14:58:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 188546951,
+          "tag_name": "v1.7.19",
+          "published_at": "2024-12-02T18:21:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187361277,
+          "tag_name": "v1.9.0rc1",
+          "published_at": "2024-11-25T18:11:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0rc1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "006107f0e7a30606e5c76343e12f32625a0e59cd4df90100d1633153289b5119"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=5",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=5",
+      "size": 30,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:36.651Z",
+      "end": false,
+      "records": [
+        {
+          "id": 186739382,
+          "tag_name": "v1.8.9",
+          "published_at": "2024-11-21T20:56:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184021276,
+          "tag_name": "v1.9.0b4",
+          "published_at": "2024-11-06T20:42:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 182781775,
+          "tag_name": "v1.9.0b3",
+          "published_at": "2024-10-30T19:43:25Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 181589863,
+          "tag_name": "v1.8.8",
+          "published_at": "2024-10-23T21:26:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178661515,
+          "tag_name": "v1.9.0b2",
+          "published_at": "2024-10-07T11:22:26Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 177873188,
+          "tag_name": "v1.9.0b1",
+          "published_at": "2024-10-01T19:01:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 176692454,
+          "tag_name": "v1.8.7",
+          "published_at": "2024-09-24T18:45:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172565055,
+          "tag_name": "v1.8.6",
+          "published_at": "2024-08-29T13:25:21Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169194850,
+          "tag_name": "v1.8.5",
+          "published_at": "2024-08-07T20:12:49Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169205896,
+          "tag_name": "v1.7.18",
+          "published_at": "2024-08-07T21:26:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169213902,
+          "tag_name": "v1.6.18",
+          "published_at": "2024-08-07T22:22:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 166146065,
+          "tag_name": "v1.8.4",
+          "published_at": "2024-07-18T22:16:17Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161557814,
+          "tag_name": "v1.8.3",
+          "published_at": "2024-06-20T20:55:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161560226,
+          "tag_name": "v1.7.17",
+          "published_at": "2024-06-20T21:13:45Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161559138,
+          "tag_name": "v1.6.17",
+          "published_at": "2024-06-20T21:04:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159061131,
+          "tag_name": "v1.8.2",
+          "published_at": "2024-06-05T19:32:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159063391,
+          "tag_name": "v1.7.16",
+          "published_at": "2024-06-05T19:49:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159062364,
+          "tag_name": "v1.6.16",
+          "published_at": "2024-06-05T19:41:17Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157011426,
+          "tag_name": "v1.8.1",
+          "published_at": "2024-05-22T23:12:43Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 156998886,
+          "tag_name": "v1.7.15",
+          "published_at": "2024-05-22T21:08:41Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 156999939,
+          "tag_name": "v1.6.15",
+          "published_at": "2024-05-22T21:18:07Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154972909,
+          "tag_name": "v1.8.0",
+          "published_at": "2024-05-09T16:13:33Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154684896,
+          "tag_name": "v1.8.0rc2",
+          "published_at": "2024-05-08T01:00:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 153883378,
+          "tag_name": "v1.8.0rc1",
+          "published_at": "2024-05-02T19:00:10Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 153914023,
+          "tag_name": "v1.7.14",
+          "published_at": "2024-05-02T23:30:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153917729,
+          "tag_name": "v1.6.14",
+          "published_at": "2024-05-03T00:29:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151785403,
+          "tag_name": "v1.8.0b3",
+          "published_at": "2024-04-18T16:24:19Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 151798332,
+          "tag_name": "v1.7.13",
+          "published_at": "2024-04-18T17:57:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151797588,
+          "tag_name": "v1.6.13",
+          "published_at": "2024-04-18T17:52:48Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151406983,
+          "tag_name": "v1.7.12",
+          "published_at": "2024-04-16T16:35:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.12",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b029e2124ec270970430bce44b001258dbd91756668b910c42dc948a9d329402"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=6",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=6",
+      "size": 30,
+      "page": 6,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:38.881Z",
+      "end": false,
+      "records": [
+        {
+          "id": 151422043,
+          "tag_name": "v1.6.12",
+          "published_at": "2024-04-16T18:11:57Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149611107,
+          "tag_name": "v1.8.0b2",
+          "published_at": "2024-04-03T15:22:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 148789827,
+          "tag_name": "v1.7.11",
+          "published_at": "2024-03-28T03:32:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148903406,
+          "tag_name": "v1.6.11",
+          "published_at": "2024-03-28T16:08:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148903390,
+          "tag_name": "v1.5.11",
+          "published_at": "2024-03-28T16:07:58Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146460192,
+          "tag_name": "v1.7.10",
+          "published_at": "2024-03-14T01:40:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144092066,
+          "tag_name": "v1.8.0b1",
+          "published_at": "2024-02-28T23:38:32Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.8.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 144082604,
+          "tag_name": "v1.7.9",
+          "published_at": "2024-02-28T21:52:33Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144082613,
+          "tag_name": "v1.6.10",
+          "published_at": "2024-02-28T21:52:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144082111,
+          "tag_name": "v1.5.10",
+          "published_at": "2024-02-28T21:47:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142058796,
+          "tag_name": "v1.7.8",
+          "published_at": "2024-02-14T21:41:04Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 139560068,
+          "tag_name": "v1.7.7",
+          "published_at": "2024-02-01T18:42:52Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 138564728,
+          "tag_name": "v1.7.6",
+          "published_at": "2024-01-25T18:36:26Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 137598247,
+          "tag_name": "v1.7.5",
+          "published_at": "2024-01-18T16:47:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 134006038,
+          "tag_name": "v1.7.4",
+          "published_at": "2023-12-14T20:32:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 131938268,
+          "tag_name": "v1.7.3",
+          "published_at": "2023-11-29T15:47:12Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 129820978,
+          "tag_name": "v1.7.2",
+          "published_at": "2023-11-16T19:16:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 129810722,
+          "tag_name": "v1.6.9",
+          "published_at": "2023-11-16T18:13:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 128631956,
+          "tag_name": "v1.6.8",
+          "published_at": "2023-11-08T23:54:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 128421019,
+          "tag_name": "v1.7.1",
+          "published_at": "2023-11-07T20:57:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 127722450,
+          "tag_name": "v1.7.0",
+          "published_at": "2023-11-02T16:03:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 127523020,
+          "tag_name": "v1.6.7",
+          "published_at": "2023-11-01T13:22:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 127408368,
+          "tag_name": "v1.5.9",
+          "published_at": "2023-10-31T17:51:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 124826798,
+          "tag_name": "v1.7.0rc1",
+          "published_at": "2023-10-12T13:56:52Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 124668559,
+          "tag_name": "v1.6.6",
+          "published_at": "2023-10-11T18:40:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 124660385,
+          "tag_name": "v1.5.8",
+          "published_at": "2023-10-11T18:00:27Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 124672990,
+          "tag_name": "v1.4.9",
+          "published_at": "2023-10-11T19:07:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 124671783,
+          "tag_name": "v1.3.7",
+          "published_at": "2023-10-11T19:01:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123373221,
+          "tag_name": "v1.6.5",
+          "published_at": "2023-10-02T18:01:17Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123042814,
+          "tag_name": "v1.6.4",
+          "published_at": "2023-09-28T21:47:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.4",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "f2010e069b0431c26b1cc5476ac3814b00cb8230fdf2702dc108a2a42a46dfc9"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=7",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=7",
+      "size": 30,
+      "page": 7,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:39.968Z",
+      "end": false,
+      "records": [
+        {
+          "id": 123046282,
+          "tag_name": "v1.5.7",
+          "published_at": "2023-09-28T22:37:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121930591,
+          "tag_name": "v1.4.8",
+          "published_at": "2023-09-20T19:40:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121929978,
+          "tag_name": "v1.3.6",
+          "published_at": "2023-09-20T19:34:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 121755004,
+          "tag_name": "v1.6.3",
+          "published_at": "2023-09-19T19:13:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 120354360,
+          "tag_name": "v1.6.2",
+          "published_at": "2023-09-07T22:05:38Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119603798,
+          "tag_name": "v1.7.0b2",
+          "published_at": "2023-09-01T13:53:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 118458474,
+          "tag_name": "v1.6.1",
+          "published_at": "2023-08-23T19:44:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 118052832,
+          "tag_name": "v1.5.6",
+          "published_at": "2023-08-21T17:20:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 117797967,
+          "tag_name": "v1.6.1rc1",
+          "published_at": "2023-08-18T17:34:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 117685144,
+          "tag_name": "v1.7.0b1",
+          "published_at": "2023-08-17T20:59:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.7.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 117668137,
+          "tag_name": "v1.5.5",
+          "published_at": "2023-08-17T18:29:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 115139841,
+          "tag_name": "v1.4.7",
+          "published_at": "2023-08-04T16:38:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 115139262,
+          "tag_name": "v1.3.5",
+          "published_at": "2023-08-04T16:31:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 114522463,
+          "tag_name": "v1.6.0",
+          "published_at": "2023-07-31T16:00:21Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 114065366,
+          "tag_name": "v1.6.0rc2",
+          "published_at": "2023-07-28T23:18:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 114006823,
+          "tag_name": "v1.5.4",
+          "published_at": "2023-07-28T14:59:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 113872939,
+          "tag_name": "v1.5.4rc1",
+          "published_at": "2023-07-27T17:47:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.4rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 112566333,
+          "tag_name": "v1.6.0rc1",
+          "published_at": "2023-07-17T21:06:07Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 112537869,
+          "tag_name": "v1.5.3",
+          "published_at": "2023-07-17T18:02:32Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 110542595,
+          "tag_name": "v1.6.0b8",
+          "published_at": "2023-06-30T19:23:27Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b8",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 110243101,
+          "tag_name": "v1.6.0b7",
+          "published_at": "2023-06-28T16:08:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b7",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 109748926,
+          "tag_name": "v1.6.0b6",
+          "published_at": "2023-06-23T21:16:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b6",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 109607702,
+          "tag_name": "v1.6.0b5",
+          "published_at": "2023-06-22T20:13:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 109582828,
+          "tag_name": "v1.5.2",
+          "published_at": "2023-06-22T16:49:04Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 108898139,
+          "tag_name": "v1.5.2rc2",
+          "published_at": "2023-06-16T16:10:33Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.2rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 108446636,
+          "tag_name": "v1.6.0b4",
+          "published_at": "2023-06-13T21:45:32Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 107903536,
+          "tag_name": "v1.6.0b3",
+          "published_at": "2023-06-08T20:56:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 107907306,
+          "tag_name": "v1.5.2rc1",
+          "published_at": "2023-06-08T21:36:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 105384884,
+          "tag_name": "v1.5.1",
+          "published_at": "2023-05-30T15:24:14Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 104284949,
+          "tag_name": "v1.6.0b2",
+          "published_at": "2023-05-25T15:45:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b2",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "5e16121fdd50f19ff34763e931091eb8a82a25d8962ffb0e48e089116e0052aa"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=8",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=8",
+      "size": 30,
+      "page": 8,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:42.513Z",
+      "end": false,
+      "records": [
+        {
+          "id": 104287043,
+          "tag_name": "v1.5.1rc2",
+          "published_at": "2023-05-25T16:01:07Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 102819350,
+          "tag_name": "v1.6.0b1",
+          "published_at": "2023-05-12T17:42:27Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.6.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 102806495,
+          "tag_name": "v1.5.1rc1",
+          "published_at": "2023-05-12T15:33:48Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 101103002,
+          "tag_name": "v1.5.0",
+          "published_at": "2023-04-27T13:29:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100263433,
+          "tag_name": "v1.5.0rc2",
+          "published_at": "2023-04-20T21:16:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 100096471,
+          "tag_name": "v1.4.6",
+          "published_at": "2023-04-19T17:14:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100095568,
+          "tag_name": "v1.3.4",
+          "published_at": "2023-04-19T17:10:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100096546,
+          "tag_name": "v1.2.6",
+          "published_at": "2023-04-19T17:15:36Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100057736,
+          "tag_name": "v1.1.5",
+          "published_at": "2023-04-19T13:41:16Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 99478515,
+          "tag_name": "v1.5.0rc1",
+          "published_at": "2023-04-14T00:25:14Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 97514891,
+          "tag_name": "v1.5.0b5",
+          "published_at": "2023-03-30T16:58:22Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0b5",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 95864535,
+          "tag_name": "v1.5.0b4",
+          "published_at": "2023-03-16T15:36:26Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0b4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 95264905,
+          "tag_name": "v1.4.5",
+          "published_at": "2023-03-10T23:35:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 94294607,
+          "tag_name": "v1.5.0b3",
+          "published_at": "2023-03-02T18:07:38Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 94018221,
+          "tag_name": "v1.5.0b2",
+          "published_at": "2023-03-01T00:47:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 93949450,
+          "tag_name": "v1.4.4",
+          "published_at": "2023-02-28T15:12:04Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93951609,
+          "tag_name": "v1.3.3",
+          "published_at": "2023-02-28T15:26:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93952445,
+          "tag_name": "v1.2.5",
+          "published_at": "2023-02-28T15:32:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93950721,
+          "tag_name": "v1.1.4",
+          "published_at": "2023-02-28T15:20:23Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93519869,
+          "tag_name": "v1.4.3",
+          "published_at": "2023-02-24T02:16:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93475818,
+          "tag_name": "v1.4.2",
+          "published_at": "2023-02-23T17:46:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93353709,
+          "tag_name": "v1.4.2rc2",
+          "published_at": "2023-02-22T20:44:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.2rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 92872836,
+          "tag_name": "v1.5.0b1",
+          "published_at": "2023-02-17T18:44:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.5.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 92608784,
+          "tag_name": "v1.4.2rc1",
+          "published_at": "2023-02-15T20:20:41Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 90253959,
+          "tag_name": "v1.4.1",
+          "published_at": "2023-01-26T01:52:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 90193269,
+          "tag_name": "v1.4.0",
+          "published_at": "2023-01-25T15:31:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 89577997,
+          "tag_name": "v1.4.0rc2",
+          "published_at": "2023-01-19T17:18:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 88610894,
+          "tag_name": "v1.4.0rc1",
+          "published_at": "2023-01-11T16:33:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 88009964,
+          "tag_name": "v1.2.4",
+          "published_at": "2023-01-05T13:58:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 88012375,
+          "tag_name": "v1.1.3",
+          "published_at": "2023-01-05T14:17:30Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "7d6f46239505f263fe1c8920fd855827093c78bbba1d22a09e7bffda993d5585"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=9",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=9",
+      "size": 30,
+      "page": 9,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:43.457Z",
+      "end": false,
+      "records": [
+        {
+          "id": 88026164,
+          "tag_name": "v1.0.9",
+          "published_at": "2023-01-05T16:11:33Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87937877,
+          "tag_name": "v1.3.2",
+          "published_at": "2023-01-04T20:35:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 87902389,
+          "tag_name": "v1.3.2rc1",
+          "published_at": "2023-01-04T15:11:27Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 86177089,
+          "tag_name": "v1.4.0b1",
+          "published_at": "2022-12-15T14:59:38Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.4.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 83305678,
+          "tag_name": "v1.3.1",
+          "published_at": "2022-11-16T19:32:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 83296758,
+          "tag_name": "v1.2.3",
+          "published_at": "2022-11-16T18:05:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 79634109,
+          "tag_name": "v1.3.0",
+          "published_at": "2022-10-12T11:43:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78859229,
+          "tag_name": "v1.3.0rc2",
+          "published_at": "2022-10-03T15:29:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 78876228,
+          "tag_name": "v1.2.2",
+          "published_at": "2022-10-03T18:49:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 78498772,
+          "tag_name": "v1.3.0rc1",
+          "published_at": "2022-09-28T20:08:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 75655847,
+          "tag_name": "v1.3.0b2",
+          "published_at": "2022-08-29T15:37:01Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 75384735,
+          "tag_name": "v1.2.1",
+          "published_at": "2022-08-25T19:17:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74759241,
+          "tag_name": "v1.2.1rc2",
+          "published_at": "2022-08-18T17:36:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 74193418,
+          "tag_name": "v1.2.1rc1",
+          "published_at": "2022-08-11T11:35:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 73185714,
+          "tag_name": "v1.3.0b1",
+          "published_at": "2022-07-29T16:22:52Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.3.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 73157903,
+          "tag_name": "v1.1.2",
+          "published_at": "2022-07-29T12:04:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72868007,
+          "tag_name": "v1.2.0",
+          "published_at": "2022-07-26T14:59:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 72429123,
+          "tag_name": "v1.2.0rc2",
+          "published_at": "2022-07-20T13:33:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 72430279,
+          "tag_name": "v1.1.2rc1",
+          "published_at": "2022-07-20T13:43:14Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 71748918,
+          "tag_name": "v1.2.0rc1",
+          "published_at": "2022-07-11T21:49:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 70500130,
+          "tag_name": "v1.2.0b1",
+          "published_at": "2022-06-24T15:07:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.2.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 69537641,
+          "tag_name": "v1.1.1",
+          "published_at": "2022-06-15T15:44:17Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 69544983,
+          "tag_name": "v1.0.8",
+          "published_at": "2022-06-15T17:08:09Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 68853734,
+          "tag_name": "v1.1.1rc2",
+          "published_at": "2022-06-07T16:03:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 67415012,
+          "tag_name": "v1.1.1rc1",
+          "published_at": "2022-05-20T18:16:22Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 67408003,
+          "tag_name": "v1.0.7",
+          "published_at": "2022-05-20T16:46:31Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65605381,
+          "tag_name": "v1.1.0",
+          "published_at": "2022-04-28T17:21:30Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65509653,
+          "tag_name": "v1.0.6",
+          "published_at": "2022-04-27T19:53:12Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 65400793,
+          "tag_name": "v1.1.0rc3",
+          "published_at": "2022-04-26T19:54:21Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 65380177,
+          "tag_name": "v1.0.6rc1",
+          "published_at": "2022-04-26T17:34:04Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.6rc1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "adbadcc6786eb919105d204c973e0673afa0645c4a70c2dc3235bb4d4a61e041"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=10",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=10",
+      "size": 30,
+      "page": 10,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:44.527Z",
+      "end": false,
+      "records": [
+        {
+          "id": 64983588,
+          "tag_name": "v1.1.0rc2",
+          "published_at": "2022-04-21T16:27:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 64871526,
+          "tag_name": "v1.0.5",
+          "published_at": "2022-04-20T17:30:04Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 64297125,
+          "tag_name": "v1.1.0rc1",
+          "published_at": "2022-04-12T21:31:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 64261051,
+          "tag_name": "v1.0.5rc3",
+          "published_at": "2022-04-12T15:39:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.5rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 63990570,
+          "tag_name": "v1.0.5rc2",
+          "published_at": "2022-04-08T16:47:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.5rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 62607218,
+          "tag_name": "v1.1.0b1",
+          "published_at": "2022-03-23T20:59:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.1.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 62360886,
+          "tag_name": "v1.0.5rc1",
+          "published_at": "2022-03-21T18:33:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.5rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 62196457,
+          "tag_name": "v1.0.4",
+          "published_at": "2022-03-18T14:24:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 60077580,
+          "tag_name": "v1.0.3",
+          "published_at": "2022-02-21T19:59:19Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 59914130,
+          "tag_name": "v1.0.2",
+          "published_at": "2022-02-18T14:46:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 58721175,
+          "tag_name": "v1.0.2rc1",
+          "published_at": "2022-02-04T20:11:17Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 56329563,
+          "tag_name": "v1.0.1",
+          "published_at": "2022-01-03T19:01:38Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 55699724,
+          "tag_name": "v1.0.1rc1",
+          "published_at": "2021-12-20T20:34:58Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 54600940,
+          "tag_name": "v1.0.0",
+          "published_at": "2021-12-03T18:50:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 54329528,
+          "tag_name": "v1.0.0rc3",
+          "published_at": "2021-11-30T14:45:30Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.0rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 54259708,
+          "tag_name": "v0.21.1",
+          "published_at": "2021-11-29T17:23:24Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 53868867,
+          "tag_name": "v1.0.0rc2",
+          "published_at": "2021-11-22T20:31:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 53420314,
+          "tag_name": "v0.21.1rc2",
+          "published_at": "2021-11-15T20:38:38Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 53090685,
+          "tag_name": "v1.0.0rc1",
+          "published_at": "2021-11-10T14:10:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 52619009,
+          "tag_name": "v0.21.1rc1",
+          "published_at": "2021-11-03T17:33:07Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 51981072,
+          "tag_name": "v1.0.0b2",
+          "published_at": "2021-10-25T14:14:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 51157028,
+          "tag_name": "v1.0.0b1",
+          "published_at": "2021-10-11T17:07:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.0.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 50764730,
+          "tag_name": "v0.21.0",
+          "published_at": "2021-10-04T18:44:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50341773,
+          "tag_name": "v0.21.0rc2",
+          "published_at": "2021-09-27T18:16:12Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 49926874,
+          "tag_name": "v0.21.0rc1",
+          "published_at": "2021-09-20T17:05:29Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 49160502,
+          "tag_name": "v0.20.2",
+          "published_at": "2021-09-07T22:26:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 48541295,
+          "tag_name": "v0.20.2rc2",
+          "published_at": "2021-08-27T02:14:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.2rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 48197505,
+          "tag_name": "v0.21.0b2",
+          "published_at": "2021-08-20T17:59:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47932905,
+          "tag_name": "v0.20.2rc1",
+          "published_at": "2021-08-16T20:07:44Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47699990,
+          "tag_name": "v0.20.1",
+          "published_at": "2021-08-11T20:06:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "a3c1b851fbcdb76c7bb1a05d6b4d72343817417373b8cbdc97d3bd43542a7afb"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=11",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=11",
+      "size": 30,
+      "page": 11,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:45.676Z",
+      "end": false,
+      "records": [
+        {
+          "id": 47248419,
+          "tag_name": "v0.21.0b1",
+          "published_at": "2021-08-03T19:11:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.21.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47174277,
+          "tag_name": "v0.20.1rc1",
+          "published_at": "2021-08-02T17:34:35Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 46073127,
+          "tag_name": "v0.20.0",
+          "published_at": "2021-07-12T17:50:44Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 45516831,
+          "tag_name": "v0.20.0rc2",
+          "published_at": "2021-06-30T20:17:25Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 45382765,
+          "tag_name": "v0.19.2",
+          "published_at": "2021-06-28T20:37:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 44128181,
+          "tag_name": "v0.20.0rc1",
+          "published_at": "2021-06-04T19:23:14Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 44060594,
+          "tag_name": "v0.19.2rc2",
+          "published_at": "2021-06-03T17:24:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.2rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 42354551,
+          "tag_name": "v0.20.0b1",
+          "published_at": "2021-05-03T11:50:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.20.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 42167543,
+          "tag_name": "v0.19.2rc1",
+          "published_at": "2021-04-28T21:55:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 40777393,
+          "tag_name": "v0.19.1",
+          "published_at": "2021-03-31T18:19:23Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 40416593,
+          "tag_name": "v0.19.1rc2",
+          "published_at": "2021-03-25T13:51:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 40170084,
+          "tag_name": "v0.18.2",
+          "published_at": "2021-03-22T15:39:41Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 39839701,
+          "tag_name": "v0.19.1rc1",
+          "published_at": "2021-03-15T19:32:23Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 39736089,
+          "tag_name": "v0.18.2rc1",
+          "published_at": "2021-03-12T20:03:17Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 38071846,
+          "tag_name": "v0.19.1b2",
+          "published_at": "2021-02-15T17:07:20Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.1b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 36987319,
+          "tag_name": "v0.19.0",
+          "published_at": "2021-01-27T18:24:45Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 36404005,
+          "tag_name": "v0.19.0rc2",
+          "published_at": "2021-01-14T17:54:01Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.0rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 35843007,
+          "tag_name": "v0.19.0rc1",
+          "published_at": "2020-12-30T14:44:57Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 32840779,
+          "tag_name": "v0.19.0b1",
+          "published_at": "2020-10-21T00:55:13Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.19.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 32532861,
+          "tag_name": "v0.18.1",
+          "published_at": "2020-10-13T21:51:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 32057765,
+          "tag_name": "v0.18.1rc1",
+          "published_at": "2020-10-01T17:01:39Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 31832174,
+          "tag_name": "v0.18.1b3",
+          "published_at": "2020-09-25T21:14:48Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.1b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 31658977,
+          "tag_name": "v0.18.1b2",
+          "published_at": "2020-09-22T14:35:48Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.1b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 31492016,
+          "tag_name": "v0.18.1b1",
+          "published_at": "2020-09-17T19:42:01Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.1b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 30674810,
+          "tag_name": "v0.18.0",
+          "published_at": "2020-09-03T16:58:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29886479,
+          "tag_name": "v0.18.0rc1",
+          "published_at": "2020-08-19T20:34:02Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.0rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 29130445,
+          "tag_name": "v0.18.0b2",
+          "published_at": "2020-07-30T17:44:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.18.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 29087784,
+          "tag_name": "v0.17.2",
+          "published_at": "2020-07-29T19:29:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 29046613,
+          "tag_name": "v0.17.2rc1",
+          "published_at": "2020-07-28T20:39:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.2rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 28784112,
+          "tag_name": "v0.17.2b1",
+          "published_at": "2020-07-21T13:48:50Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.2b1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "6622c7ea6042fb1bd204ec885a0eedd0226d54f9b77196091cafed40030158dc"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=12",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=12",
+      "size": 30,
+      "page": 12,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:46.542Z",
+      "end": false,
+      "records": [
+        {
+          "id": 28744774,
+          "tag_name": "v0.17.1",
+          "published_at": "2020-07-20T15:41:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 28366833,
+          "tag_name": "v0.17.1rc4",
+          "published_at": "2020-07-08T16:30:36Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.1rc4",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 28115363,
+          "tag_name": "v0.17.1rc3",
+          "published_at": "2020-07-01T13:34:59Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.1rc3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 27935993,
+          "tag_name": "v0.17.1rc2",
+          "published_at": "2020-06-25T21:20:16Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.1rc2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 27741271,
+          "tag_name": "v0.17.1rc1",
+          "published_at": "2020-06-19T21:27:51Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.1rc1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 27337822,
+          "tag_name": "v0.17.0",
+          "published_at": "2020-06-08T18:09:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 25489916,
+          "tag_name": "v0.16.1",
+          "published_at": "2020-04-14T16:03:25Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24758584,
+          "tag_name": "v0.16.0",
+          "published_at": "2020-03-23T14:02:26Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23350445,
+          "tag_name": "v0.15.2",
+          "published_at": "2020-02-03T19:20:34Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 22981918,
+          "tag_name": "v0.15.1",
+          "published_at": "2020-01-20T16:55:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21736854,
+          "tag_name": "v0.15.0",
+          "published_at": "2019-11-25T21:10:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 21331210,
+          "tag_name": "v0.14.4",
+          "published_at": "2019-11-08T20:40:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 20649023,
+          "tag_name": "v0.14.3",
+          "published_at": "2019-10-11T18:41:28Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19980761,
+          "tag_name": "v0.14.2",
+          "published_at": "2019-09-13T17:55:12Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 19734982,
+          "tag_name": "v0.14.1",
+          "published_at": "2019-09-04T13:51:03Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18510509,
+          "tag_name": "v0.14.0",
+          "published_at": "2019-07-10T14:11:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 17314260,
+          "tag_name": "v0.13.1",
+          "published_at": "2019-05-13T19:25:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 16266367,
+          "tag_name": "v0.13.0",
+          "published_at": "2019-03-22T14:54:10Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14840050,
+          "tag_name": "v0.12.2",
+          "published_at": "2019-01-08T15:53:46Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 14007387,
+          "tag_name": "v0.12.1",
+          "published_at": "2018-11-15T17:08:54Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13978140,
+          "tag_name": "v0.12.0",
+          "published_at": "2018-11-13T15:40:06Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12970068,
+          "tag_name": "0.11.1",
+          "published_at": "2018-09-19T00:01:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/0.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12752871,
+          "tag_name": "v0.11.0",
+          "published_at": "2018-09-06T14:39:29Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 12248293,
+          "tag_name": "v0.10.2",
+          "published_at": "2018-08-03T18:22:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 11071547,
+          "tag_name": "v0.10.1",
+          "published_at": "2018-05-18T16:56:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 10007699,
+          "tag_name": "v0.10.0",
+          "published_at": "2018-03-09T02:45:23Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 9084093,
+          "tag_name": "v0.9.1",
+          "published_at": "2018-01-05T18:41:05Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 8277724,
+          "tag_name": "v0.9.0",
+          "published_at": "2017-10-26T19:39:00Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7833826,
+          "tag_name": "v0.9.0a2",
+          "published_at": "2017-09-21T03:50:43Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.9.0a2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 7565820,
+          "tag_name": "v0.9.0a1",
+          "published_at": "2017-08-29T23:35:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.9.0a1",
+          "draft": false,
+          "prerelease": true
+        }
+      ],
+      "metadata_sha256": "0bf599484bb189a5d0a5a04e9821ee2d772e628132244f460d77aa7746b0ac96"
+    },
+    {
+      "url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=13",
+      "response_url": "https://api.github.com/repos/dbt-labs/dbt/releases?per_page=30&page=13",
+      "size": 30,
+      "page": 13,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:50:47.388Z",
+      "end": true,
+      "records": [
+        {
+          "id": 7048993,
+          "tag_name": "v0.8.3",
+          "published_at": "2017-07-14T20:42:23Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.8.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6562996,
+          "tag_name": "v0.8.2",
+          "published_at": "2017-05-31T19:33:53Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6344246,
+          "tag_name": "v0.8.1",
+          "published_at": "2017-05-10T19:56:47Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6101360,
+          "tag_name": "v0.8.0",
+          "published_at": "2017-04-17T20:43:11Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5600274,
+          "tag_name": "v0.7.1",
+          "published_at": "2017-03-01T00:13:09Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5423875,
+          "tag_name": "v0.7.0",
+          "published_at": "2017-02-10T18:47:27Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5173654,
+          "tag_name": "v0.6.2",
+          "published_at": "2017-01-16T18:51:09Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 5131687,
+          "tag_name": "v0.6.1",
+          "published_at": "2017-01-11T17:22:08Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4987266,
+          "tag_name": "v0.6.0",
+          "published_at": "2016-12-22T05:13:40Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4780376,
+          "tag_name": "v0.5.4",
+          "published_at": "2016-11-29T07:14:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4496183,
+          "tag_name": "v0.5.3",
+          "published_at": "2016-10-27T04:15:42Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4473310,
+          "tag_name": "0.5.2",
+          "published_at": "2016-10-25T01:56:15Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/0.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4453052,
+          "tag_name": "v0.5.1",
+          "published_at": "2016-10-21T17:11:32Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4246760,
+          "tag_name": "v0.5.0",
+          "published_at": "2016-09-28T01:17:18Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 4183303,
+          "tag_name": "v0.4.7",
+          "published_at": "2016-09-20T16:17:21Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3937414,
+          "tag_name": "0.4.1",
+          "published_at": "2016-08-22T04:49:55Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/0.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3894558,
+          "tag_name": "v0.4.0",
+          "published_at": "2016-08-16T07:11:32Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3809063,
+          "tag_name": "0.3.0",
+          "published_at": "2016-08-04T04:26:33Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/0.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3668795,
+          "tag_name": "v0.2.3.0",
+          "published_at": "2016-07-15T17:12:56Z",
+          "html_url": "https://github.com/dbt-labs/dbt/releases/tag/v0.2.3.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "471913b16df9c048b238d0765b99e8ca07dbce8f4c0fcac336d143bffb7da7a9"
+    }
+  ]
+}

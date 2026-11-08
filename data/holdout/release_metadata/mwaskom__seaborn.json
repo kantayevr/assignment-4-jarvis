@@ -1,0 +1,326 @@
+{
+  "candidate": "mwaskom/seaborn",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/mwaskom/seaborn/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/mwaskom/seaborn/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:47.770Z",
+      "end": false,
+      "records": [
+        {
+          "id": 138513425,
+          "tag_name": "v0.13.2",
+          "published_at": "2024-01-25T13:21:20Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 135446982,
+          "tag_name": "v0.13.1",
+          "published_at": "2023-12-31T22:09:55Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 123166036,
+          "tag_name": "v0.13.0",
+          "published_at": "2023-09-29T19:01:44Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 122620687,
+          "tag_name": "v0.13.0rc0",
+          "published_at": "2023-09-26T14:02:31Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 87609310,
+          "tag_name": "v0.12.2",
+          "published_at": "2022-12-30T19:12:05Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 80204577,
+          "tag_name": "v0.12.1",
+          "published_at": "2022-10-18T12:58:20Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 76334368,
+          "tag_name": "v0.12.0",
+          "published_at": "2022-09-06T03:03:00Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 74389277,
+          "tag_name": "v0.12.0rc0",
+          "published_at": "2022-08-14T21:34:19Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 73600413,
+          "tag_name": "v0.12.0b3",
+          "published_at": "2022-08-04T03:04:33Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0b3",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 71959734,
+          "tag_name": "v0.12.0b2",
+          "published_at": "2022-07-14T03:00:46Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 70627092,
+          "tag_name": "v0.12.0b1",
+          "published_at": "2022-06-27T10:51:21Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 68497945,
+          "tag_name": "v0.12.0a1",
+          "published_at": "2022-06-03T00:29:58Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0a1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 66916514,
+          "tag_name": "v0.12.0a0",
+          "published_at": "2022-05-16T00:46:10Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.12.0a0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 47880151,
+          "tag_name": "v0.11.2",
+          "published_at": "2021-08-16T00:39:03Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 47503461,
+          "tag_name": "v0.11.2.rc0",
+          "published_at": "2021-08-08T21:28:30Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.11.2.rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 40649471,
+          "tag_name": "joss_paper",
+          "published_at": "2021-03-29T17:36:25Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/joss_paper",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 35545493,
+          "tag_name": "v0.11.1",
+          "published_at": "2020-12-20T20:50:15Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 30915781,
+          "tag_name": "v0.11.0",
+          "published_at": "2020-09-08T14:49:16Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 30616989,
+          "tag_name": "v0.11.0.rc0",
+          "published_at": "2020-09-02T22:23:25Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.11.0.rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 25900568,
+          "tag_name": "v0.10.1",
+          "published_at": "2020-04-26T21:17:05Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23107996,
+          "tag_name": "v0.10.0",
+          "published_at": "2020-01-24T15:44:37Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23107876,
+          "tag_name": "v0.9.1",
+          "published_at": "2020-01-24T15:40:02Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 23101421,
+          "tag_name": "v0.10.0.rc0",
+          "published_at": "2020-01-24T12:13:55Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.10.0.rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 23043657,
+          "tag_name": "v0.9.1.rc0",
+          "published_at": "2020-01-22T15:47:36Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.9.1.rc0",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 11954285,
+          "tag_name": "v0.9.0",
+          "published_at": "2018-07-16T21:21:04Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 7618693,
+          "tag_name": "v0.8.1",
+          "published_at": "2017-09-03T16:25:49Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 6975002,
+          "tag_name": "v0.8.0",
+          "published_at": "2017-07-08T22:53:16Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 3375080,
+          "tag_name": "v0.7.1",
+          "published_at": "2016-06-05T02:38:48Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 2484144,
+          "tag_name": "v0.7.0",
+          "published_at": "2016-01-25T04:05:31Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 1473551,
+          "tag_name": "v0.6.0",
+          "published_at": "2015-06-29T15:05:56Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.6.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "73f782cdcdc5519781859d85a9bffe7999748e0579d3131c51400bd154666c39"
+    },
+    {
+      "url": "https://api.github.com/repos/mwaskom/seaborn/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/mwaskom/seaborn/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:48.804Z",
+      "end": true,
+      "records": [
+        {
+          "id": 726190,
+          "tag_name": "v0.5.1",
+          "published_at": "2014-11-22T20:54:02Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 705516,
+          "tag_name": "v0.5.0",
+          "published_at": "2014-11-14T18:39:37Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 531540,
+          "tag_name": "v0.4.0",
+          "published_at": "2014-09-03T04:38:13Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 281311,
+          "tag_name": "v0.3.1",
+          "published_at": "2014-04-21T16:07:04Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 236198,
+          "tag_name": "v0.3.0",
+          "published_at": "2014-03-23T00:52:00Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149255,
+          "tag_name": "v0.2.1",
+          "published_at": "2014-01-15T16:31:10Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 130494,
+          "tag_name": "v0.2.0",
+          "published_at": "2013-12-23T19:54:08Z",
+          "html_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.2.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "ab72070a5a9e6475b4f7009986a4e106646b8b76ee90a5477b59c30315ccce29"
+    }
+  ]
+}

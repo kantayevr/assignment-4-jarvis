@@ -1,0 +1,2546 @@
+{
+  "candidate": "pypa/virtualenv",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=1",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=1",
+      "size": 30,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:34.177Z",
+      "end": false,
+      "records": [
+        {
+          "id": 436838417,
+          "tag_name": "21.15.6",
+          "published_at": "2026-11-06T18:18:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 433538801,
+          "tag_name": "21.15.5",
+          "published_at": "2026-11-04T05:14:14Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 433409711,
+          "tag_name": "21.15.4",
+          "published_at": "2026-11-04T01:30:13Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 433045775,
+          "tag_name": "21.15.3",
+          "published_at": "2026-11-03T18:02:14Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 429403312,
+          "tag_name": "21.15.2",
+          "published_at": "2026-10-30T19:18:43Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 426159304,
+          "tag_name": "21.15.1",
+          "published_at": "2026-10-28T01:13:34Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 425085111,
+          "tag_name": "21.15.0",
+          "published_at": "2026-10-27T06:02:56Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 421153394,
+          "tag_name": "21.14.13",
+          "published_at": "2026-10-22T20:10:24Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 419061628,
+          "tag_name": "21.14.12",
+          "published_at": "2026-10-21T01:58:58Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416294368,
+          "tag_name": "21.14.11",
+          "published_at": "2026-10-18T07:06:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 415960848,
+          "tag_name": "21.14.10",
+          "published_at": "2026-10-17T17:32:00Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 415914362,
+          "tag_name": "21.14.9",
+          "published_at": "2026-10-17T16:09:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 414392058,
+          "tag_name": "21.14.8",
+          "published_at": "2026-10-16T00:09:16Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 410042538,
+          "tag_name": "21.14.7",
+          "published_at": "2026-10-12T01:27:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 406945146,
+          "tag_name": "21.14.6",
+          "published_at": "2026-10-08T14:50:05Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 402029370,
+          "tag_name": "21.14.5",
+          "published_at": "2026-10-02T17:42:33Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 401857645,
+          "tag_name": "21.14.4",
+          "published_at": "2026-10-02T13:49:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 401415742,
+          "tag_name": "21.14.3",
+          "published_at": "2026-10-01T22:55:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 400697403,
+          "tag_name": "21.14.2",
+          "published_at": "2026-10-01T06:22:55Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 399601507,
+          "tag_name": "21.14.1",
+          "published_at": "2026-09-29T23:33:43Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 399501513,
+          "tag_name": "21.14.0",
+          "published_at": "2026-09-29T20:25:42Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 397315566,
+          "tag_name": "21.13.0",
+          "published_at": "2026-09-26T16:42:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 395988213,
+          "tag_name": "21.12.1",
+          "published_at": "2026-09-24T19:03:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 395219879,
+          "tag_name": "21.12.0",
+          "published_at": "2026-09-24T01:27:50Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 394776391,
+          "tag_name": "21.11.1",
+          "published_at": "2026-09-23T15:01:16Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 394271357,
+          "tag_name": "21.11.0",
+          "published_at": "2026-09-23T03:09:43Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 393921563,
+          "tag_name": "21.10.0",
+          "published_at": "2026-09-22T16:19:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 393387399,
+          "tag_name": "21.9.1",
+          "published_at": "2026-09-22T01:00:25Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 392263772,
+          "tag_name": "21.9.0",
+          "published_at": "2026-09-20T00:29:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 392126473,
+          "tag_name": "21.8.1",
+          "published_at": "2026-09-19T15:56:11Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.8.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "19339e151c5f6fb321169685fffc3f08c1f320c65bbf364498d894bf50f806da"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=2",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=2",
+      "size": 30,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:35.251Z",
+      "end": false,
+      "records": [
+        {
+          "id": 391966353,
+          "tag_name": "21.7.16",
+          "published_at": "2026-09-19T06:59:15Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391836500,
+          "tag_name": "21.7.15",
+          "published_at": "2026-09-18T23:16:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391235009,
+          "tag_name": "21.7.14",
+          "published_at": "2026-09-18T05:24:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391219124,
+          "tag_name": "21.7.13",
+          "published_at": "2026-09-18T04:35:55Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391159938,
+          "tag_name": "21.7.12",
+          "published_at": "2026-09-18T01:40:49Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 390883425,
+          "tag_name": "21.7.11",
+          "published_at": "2026-09-17T16:32:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389542657,
+          "tag_name": "21.7.10",
+          "published_at": "2026-09-15T23:36:11Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 385156015,
+          "tag_name": "21.7.9",
+          "published_at": "2026-09-09T01:03:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 380530440,
+          "tag_name": "21.7.8",
+          "published_at": "2026-09-01T13:36:21Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 378702791,
+          "tag_name": "21.7.7",
+          "published_at": "2026-08-28T18:59:55Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 378611222,
+          "tag_name": "21.7.6",
+          "published_at": "2026-08-28T16:17:59Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 376167907,
+          "tag_name": "21.7.5",
+          "published_at": "2026-08-25T05:39:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 368244346,
+          "tag_name": "21.7.4",
+          "published_at": "2026-08-10T22:54:38Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 367224615,
+          "tag_name": "21.7.3",
+          "published_at": "2026-08-08T14:43:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 367044092,
+          "tag_name": "21.7.2",
+          "published_at": "2026-08-07T22:56:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 362542293,
+          "tag_name": "21.7.1",
+          "published_at": "2026-07-30T15:40:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357358529,
+          "tag_name": "21.7.0",
+          "published_at": "2026-07-21T13:12:21Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 352292858,
+          "tag_name": "21.6.1",
+          "published_at": "2026-07-10T19:33:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 349927051,
+          "tag_name": "21.6.0",
+          "published_at": "2026-07-06T22:50:01Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 349642922,
+          "tag_name": "21.5.2",
+          "published_at": "2026-07-06T15:21:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 340272261,
+          "tag_name": "21.5.1",
+          "published_at": "2026-06-16T16:24:04Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 339044353,
+          "tag_name": "21.5.0",
+          "published_at": "2026-06-13T20:36:49Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 338105310,
+          "tag_name": "21.4.3",
+          "published_at": "2026-06-11T16:47:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 332171582,
+          "tag_name": "21.4.2",
+          "published_at": "2026-05-31T17:01:29Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 330651762,
+          "tag_name": "21.4.1",
+          "published_at": "2026-05-28T04:12:55Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 330611037,
+          "tag_name": "21.4.0",
+          "published_at": "2026-05-28T01:25:17Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 322037521,
+          "tag_name": "21.3.3",
+          "published_at": "2026-05-13T18:01:36Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 321212435,
+          "tag_name": "21.3.2",
+          "published_at": "2026-05-12T14:44:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 317569480,
+          "tag_name": "21.3.1",
+          "published_at": "2026-05-05T01:34:38Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 314171323,
+          "tag_name": "21.3.0",
+          "published_at": "2026-04-27T17:06:07Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.3.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "603efcd13c00cf2fd420afcf71ebfa6fb38c9468a8e6f397070a9c58ca24b4bf"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=3",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=3",
+      "size": 30,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:36.210Z",
+      "end": false,
+      "records": [
+        {
+          "id": 309077069,
+          "tag_name": "21.2.4",
+          "published_at": "2026-04-14T22:15:36Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 308609578,
+          "tag_name": "21.2.3",
+          "published_at": "2026-04-14T01:10:42Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 308592028,
+          "tag_name": "21.2.2",
+          "published_at": "2026-04-13T23:34:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 307236756,
+          "tag_name": "21.2.1",
+          "published_at": "2026-04-09T19:30:09Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 294814653,
+          "tag_name": "21.2.0",
+          "published_at": "2026-03-09T17:24:46Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 291269759,
+          "tag_name": "21.1.0",
+          "published_at": "2026-02-27T08:49:36Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290556262,
+          "tag_name": "21.0.0",
+          "published_at": "2026-02-25T20:21:12Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/21.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290531371,
+          "tag_name": "20.39.1",
+          "published_at": "2026-02-25T19:26:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.39.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289529895,
+          "tag_name": "20.39.0",
+          "published_at": "2026-02-23T18:09:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.39.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 288051942,
+          "tag_name": "20.38.0",
+          "published_at": "2026-02-19T07:48:09Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.38.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416645545,
+          "tag_name": "20.36.1",
+          "published_at": "2026-10-18T19:12:01Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.36.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 274901469,
+          "tag_name": "20.36.0",
+          "published_at": "2026-01-07T17:24:16Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.36.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 258058204,
+          "tag_name": "20.35.4",
+          "published_at": "2025-10-29T06:57:35Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.35.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253752719,
+          "tag_name": "20.35.3",
+          "published_at": "2025-10-10T21:24:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.35.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253704847,
+          "tag_name": "20.35.2",
+          "published_at": "2025-10-10T17:18:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.35.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253490753,
+          "tag_name": "20.35.1",
+          "published_at": "2025-10-09T22:21:22Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.35.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253154598,
+          "tag_name": "20.35.0",
+          "published_at": "2025-10-08T20:27:42Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.35.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 239704167,
+          "tag_name": "20.34.0",
+          "published_at": "2025-08-13T14:24:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.34.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 237717886,
+          "tag_name": "20.33.1",
+          "published_at": "2025-08-05T16:10:36Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.33.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 237117534,
+          "tag_name": "20.33.0",
+          "published_at": "2025-08-03T08:10:20Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.33.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 233798781,
+          "tag_name": "20.32.0",
+          "published_at": "2025-07-21T04:10:37Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.32.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 217401158,
+          "tag_name": "20.31.2",
+          "published_at": "2025-05-08T17:59:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.31.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 216619179,
+          "tag_name": "20.31.1",
+          "published_at": "2025-05-05T22:59:56Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.31.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 216619160,
+          "tag_name": "20.31.0",
+          "published_at": "2025-05-05T22:59:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.31.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209398816,
+          "tag_name": "20.30.0",
+          "published_at": "2025-03-31T16:46:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.30.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 204209346,
+          "tag_name": "20.29.3",
+          "published_at": "2025-03-06T19:56:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.29.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 199453816,
+          "tag_name": "20.29.2",
+          "published_at": "2025-02-10T19:04:13Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.29.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195379041,
+          "tag_name": "20.29.1",
+          "published_at": "2025-01-17T17:32:54Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.29.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195006163,
+          "tag_name": "20.29.0",
+          "published_at": "2025-01-15T21:23:22Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.29.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 193008009,
+          "tag_name": "20.28.1",
+          "published_at": "2025-01-03T01:57:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.28.1",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "3ec3bb8a60edc1d0d91e9c9180a7bcb17c271abddf002389e9d17820d6e38978"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=4",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=4",
+      "size": 30,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:37.084Z",
+      "end": false,
+      "records": [
+        {
+          "id": 187452172,
+          "tag_name": "20.28.0",
+          "published_at": "2024-11-26T04:33:22Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.28.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187435266,
+          "tag_name": "20.27.2",
+          "published_at": "2024-11-26T01:50:04Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.27.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 182314983,
+          "tag_name": "20.27.1",
+          "published_at": "2024-10-28T17:59:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.27.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180568062,
+          "tag_name": "20.27.0",
+          "published_at": "2024-10-18T01:28:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.27.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180568161,
+          "tag_name": "20.26.6",
+          "published_at": "2024-10-18T01:29:46Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 177327897,
+          "tag_name": "20.26.5",
+          "published_at": "2024-09-27T16:27:33Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173979993,
+          "tag_name": "20.26.4",
+          "published_at": "2024-09-07T18:13:17Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161759184,
+          "tag_name": "20.26.3",
+          "published_at": "2024-06-22T02:00:50Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161759181,
+          "tag_name": "20.26.2",
+          "published_at": "2024-06-22T02:00:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161759161,
+          "tag_name": "20.26.1",
+          "published_at": "2024-06-22T02:00:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152443976,
+          "tag_name": "20.26.0",
+          "published_at": "2024-04-23T16:49:06Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.26.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151577361,
+          "tag_name": "20.25.3",
+          "published_at": "2024-04-17T14:46:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.25.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151577325,
+          "tag_name": "20.25.2",
+          "published_at": "2024-04-17T14:46:28Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.25.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151577274,
+          "tag_name": "20.25.1",
+          "published_at": "2024-04-17T14:46:16Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.25.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 132311784,
+          "tag_name": "20.25.0",
+          "published_at": "2023-12-01T16:24:25Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.25.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 130712056,
+          "tag_name": "20.24.7",
+          "published_at": "2023-11-21T17:53:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 126306132,
+          "tag_name": "20.24.6",
+          "published_at": "2023-10-23T18:36:13Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 120444055,
+          "tag_name": "20.24.5",
+          "published_at": "2023-09-08T14:38:13Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 119281598,
+          "tag_name": "20.24.4",
+          "published_at": "2023-08-30T14:33:07Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 116089346,
+          "tag_name": "20.24.3",
+          "published_at": "2023-08-11T15:48:43Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 113335827,
+          "tag_name": "20.24.2",
+          "published_at": "2023-07-24T14:48:39Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112899199,
+          "tag_name": "20.24.1",
+          "published_at": "2023-07-20T02:24:46Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 112322371,
+          "tag_name": "20.24.0",
+          "published_at": "2023-07-14T23:01:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.24.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 108918894,
+          "tag_name": "20.23.1",
+          "published_at": "2023-06-16T18:39:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.23.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101194634,
+          "tag_name": "20.23.0",
+          "published_at": "2023-04-27T23:37:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.23.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 101194631,
+          "tag_name": "20.22.0",
+          "published_at": "2023-04-27T23:37:22Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.22.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100114114,
+          "tag_name": "20.21.1",
+          "published_at": "2023-04-19T20:02:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.21.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 100114097,
+          "tag_name": "20.21.0",
+          "published_at": "2023-04-19T20:02:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.21.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93979890,
+          "tag_name": "20.20.0",
+          "published_at": "2023-02-28T18:51:11Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.20.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 93979862,
+          "tag_name": "20.19.0",
+          "published_at": "2023-02-28T18:50:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.19.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "d3810f55d70d1b24ed7452e4572693bdecd5672b3e785d459ecbd6df0de404df"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=5",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=5",
+      "size": 30,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:38.135Z",
+      "end": false,
+      "records": [
+        {
+          "id": 91530407,
+          "tag_name": "20.18.0",
+          "published_at": "2023-02-06T22:53:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.18.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 91530429,
+          "tag_name": "20.17.1",
+          "published_at": "2023-02-06T22:54:03Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.17.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 84285561,
+          "tag_name": "20.17.0",
+          "published_at": "2022-11-28T03:56:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.17.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82890207,
+          "tag_name": "20.16.7",
+          "published_at": "2022-11-12T21:39:19Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 82890201,
+          "tag_name": "20.16.6",
+          "published_at": "2022-11-12T21:39:05Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 76549273,
+          "tag_name": "20.16.5",
+          "published_at": "2022-09-08T03:30:59Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 75798224,
+          "tag_name": "20.16.4",
+          "published_at": "2022-08-30T16:10:03Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 75798196,
+          "tag_name": "20.16.3",
+          "published_at": "2022-08-30T16:09:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73004861,
+          "tag_name": "20.16.2",
+          "published_at": "2022-07-27T21:06:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73004830,
+          "tag_name": "20.16.1",
+          "published_at": "2022-07-27T21:06:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 73004808,
+          "tag_name": "20.16.0",
+          "published_at": "2022-07-27T21:06:04Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.16.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644459,
+          "tag_name": "20.15.1",
+          "published_at": "2026-10-18T19:09:49Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.15.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 70562806,
+          "tag_name": "20.15.0",
+          "published_at": "2022-06-25T19:07:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.15.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644424,
+          "tag_name": "20.14.1",
+          "published_at": "2026-10-18T19:09:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.14.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644409,
+          "tag_name": "20.14.0",
+          "published_at": "2026-10-18T19:09:42Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.14.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644394,
+          "tag_name": "20.13.4",
+          "published_at": "2026-10-18T19:09:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.13.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644381,
+          "tag_name": "20.13.3",
+          "published_at": "2026-10-18T19:09:38Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.13.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644367,
+          "tag_name": "20.13.2",
+          "published_at": "2026-10-18T19:09:35Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644349,
+          "tag_name": "20.13.1",
+          "published_at": "2026-10-18T19:09:33Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644330,
+          "tag_name": "20.13.0",
+          "published_at": "2026-10-18T19:09:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644309,
+          "tag_name": "20.12.1",
+          "published_at": "2026-10-18T19:09:28Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644294,
+          "tag_name": "20.12.0",
+          "published_at": "2026-10-18T19:09:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644272,
+          "tag_name": "20.11.2",
+          "published_at": "2026-10-18T19:09:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644249,
+          "tag_name": "20.11.1",
+          "published_at": "2026-10-18T19:09:21Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644229,
+          "tag_name": "20.11.0",
+          "published_at": "2026-10-18T19:09:19Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644209,
+          "tag_name": "20.10.0",
+          "published_at": "2026-10-18T19:09:17Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644193,
+          "tag_name": "20.9.0",
+          "published_at": "2026-10-18T19:09:14Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 50196743,
+          "tag_name": "20.8.1",
+          "published_at": "2021-09-24T10:46:05Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644150,
+          "tag_name": "20.8.0",
+          "published_at": "2026-10-18T19:09:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.8.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644135,
+          "tag_name": "20.7.2",
+          "published_at": "2026-10-18T19:09:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.7.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "700f01804a9392abf8513db9705dfce6e3c7020c4b333be2b3e4ba1f88fcf69d"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=6",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=6",
+      "size": 30,
+      "page": 6,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:38.979Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416644113,
+          "tag_name": "20.7.1",
+          "published_at": "2026-10-18T19:09:05Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644087,
+          "tag_name": "20.7.0",
+          "published_at": "2026-10-18T19:09:03Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643098,
+          "tag_name": "16.7.12",
+          "published_at": "2026-10-18T19:06:56Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643078,
+          "tag_name": "16.7.11",
+          "published_at": "2026-10-18T19:06:54Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 46235990,
+          "tag_name": "20.6.0",
+          "published_at": "2021-07-15T08:00:33Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644057,
+          "tag_name": "20.5.0",
+          "published_at": "2026-10-18T19:08:59Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644039,
+          "tag_name": "20.4.7",
+          "published_at": "2026-10-18T19:08:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644026,
+          "tag_name": "20.4.6",
+          "published_at": "2026-10-18T19:08:54Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416644011,
+          "tag_name": "20.4.5",
+          "published_at": "2026-10-18T19:08:52Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643981,
+          "tag_name": "20.4.4",
+          "published_at": "2026-10-18T19:08:50Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643968,
+          "tag_name": "20.4.3",
+          "published_at": "2026-10-18T19:08:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643953,
+          "tag_name": "20.4.2",
+          "published_at": "2026-10-18T19:08:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643937,
+          "tag_name": "20.4.1",
+          "published_at": "2026-10-18T19:08:43Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643915,
+          "tag_name": "20.4.0",
+          "published_at": "2026-10-18T19:08:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643897,
+          "tag_name": "20.3.1",
+          "published_at": "2026-10-18T19:08:38Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643882,
+          "tag_name": "20.3.0",
+          "published_at": "2026-10-18T19:08:36Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643860,
+          "tag_name": "20.2.2",
+          "published_at": "2026-10-18T19:08:34Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643840,
+          "tag_name": "20.2.1",
+          "published_at": "2026-10-18T19:08:31Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643827,
+          "tag_name": "20.2.0",
+          "published_at": "2026-10-18T19:08:29Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643804,
+          "tag_name": "20.1.0",
+          "published_at": "2026-10-18T19:08:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643785,
+          "tag_name": "20.0.35",
+          "published_at": "2026-10-18T19:08:24Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.35",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643770,
+          "tag_name": "20.0.34",
+          "published_at": "2026-10-18T19:08:22Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.34",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643748,
+          "tag_name": "20.0.33",
+          "published_at": "2026-10-18T19:08:20Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.33",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643731,
+          "tag_name": "20.0.32",
+          "published_at": "2026-10-18T19:08:17Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.32",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643700,
+          "tag_name": "20.0.31",
+          "published_at": "2026-10-18T19:08:15Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.31",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643677,
+          "tag_name": "20.0.30",
+          "published_at": "2026-10-18T19:08:12Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643659,
+          "tag_name": "20.0.29",
+          "published_at": "2026-10-18T19:08:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.29",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643639,
+          "tag_name": "20.0.28",
+          "published_at": "2026-10-18T19:08:07Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.28",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 28591019,
+          "tag_name": "20.0.27",
+          "published_at": "2020-07-15T14:54:35Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643605,
+          "tag_name": "20.0.26",
+          "published_at": "2026-10-18T19:08:03Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.26",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "15f38b652deb342eb864ad8fe1dd87bebaf1f7cd2d28ff8fd4fb3e042047fd6d"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=7",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=7",
+      "size": 30,
+      "page": 7,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:40.013Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416643590,
+          "tag_name": "20.0.25",
+          "published_at": "2026-10-18T19:08:01Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643577,
+          "tag_name": "20.0.24",
+          "published_at": "2026-10-18T19:07:58Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643560,
+          "tag_name": "20.0.23",
+          "published_at": "2026-10-18T19:07:56Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643547,
+          "tag_name": "20.0.22",
+          "published_at": "2026-10-18T19:07:54Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643530,
+          "tag_name": "20.0.21",
+          "published_at": "2026-10-18T19:07:52Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643515,
+          "tag_name": "20.0.20",
+          "published_at": "2026-10-18T19:07:49Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643500,
+          "tag_name": "20.0.19",
+          "published_at": "2026-10-18T19:07:47Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643487,
+          "tag_name": "20.0.18",
+          "published_at": "2026-10-18T19:07:44Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643471,
+          "tag_name": "20.0.17",
+          "published_at": "2026-10-18T19:07:42Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643455,
+          "tag_name": "20.0.16",
+          "published_at": "2026-10-18T19:07:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643442,
+          "tag_name": "20.0.15",
+          "published_at": "2026-10-18T19:07:38Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643423,
+          "tag_name": "20.0.14",
+          "published_at": "2026-10-18T19:07:35Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643409,
+          "tag_name": "20.0.13",
+          "published_at": "2026-10-18T19:07:33Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643386,
+          "tag_name": "20.0.12",
+          "published_at": "2026-10-18T19:07:31Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643363,
+          "tag_name": "20.0.11",
+          "published_at": "2026-10-18T19:07:28Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643349,
+          "tag_name": "20.0.10",
+          "published_at": "2026-10-18T19:07:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643325,
+          "tag_name": "20.0.9",
+          "published_at": "2026-10-18T19:07:24Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643306,
+          "tag_name": "20.0.8",
+          "published_at": "2026-10-18T19:07:21Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643287,
+          "tag_name": "20.0.7",
+          "published_at": "2026-10-18T19:07:19Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643265,
+          "tag_name": "20.0.6",
+          "published_at": "2026-10-18T19:07:17Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 24002018,
+          "tag_name": "16.7.10",
+          "published_at": "2020-02-26T13:55:28Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643244,
+          "tag_name": "20.0.5",
+          "published_at": "2026-10-18T19:07:14Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643223,
+          "tag_name": "20.0.4",
+          "published_at": "2026-10-18T19:07:12Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643208,
+          "tag_name": "20.0.3",
+          "published_at": "2026-10-18T19:07:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643186,
+          "tag_name": "20.0.2",
+          "published_at": "2026-10-18T19:07:07Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643168,
+          "tag_name": "20.0.1",
+          "published_at": "2026-10-18T19:07:05Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643149,
+          "tag_name": "20.0.0",
+          "published_at": "2026-10-18T19:07:03Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416643136,
+          "tag_name": "20.0.0b2",
+          "published_at": "2026-10-18T19:07:00Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.0b2",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416643118,
+          "tag_name": "20.0.0b1",
+          "published_at": "2026-10-18T19:06:58Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/20.0.0b1",
+          "draft": false,
+          "prerelease": true
+        },
+        {
+          "id": 416643029,
+          "tag_name": "16.7.9",
+          "published_at": "2026-10-18T19:06:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.9",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "281b8b63aaa7541ca44a328d7a5626890c0f2647c91b7a5cccb7670114c7e319"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=8",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=8",
+      "size": 30,
+      "page": 8,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:40.900Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416643005,
+          "tag_name": "16.7.8",
+          "published_at": "2026-10-18T19:06:46Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642986,
+          "tag_name": "16.7.7",
+          "published_at": "2026-10-18T19:06:44Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642962,
+          "tag_name": "16.7.6",
+          "published_at": "2026-10-18T19:06:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642942,
+          "tag_name": "16.7.5",
+          "published_at": "2026-10-18T19:06:39Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642918,
+          "tag_name": "16.7.4",
+          "published_at": "2026-10-18T19:06:37Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642891,
+          "tag_name": "16.7.3",
+          "published_at": "2026-10-18T19:06:34Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642871,
+          "tag_name": "16.7.2",
+          "published_at": "2026-10-18T19:06:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642850,
+          "tag_name": "16.7.1",
+          "published_at": "2026-10-18T19:06:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642831,
+          "tag_name": "16.7.0",
+          "published_at": "2026-10-18T19:06:27Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642813,
+          "tag_name": "16.6.2",
+          "published_at": "2026-10-18T19:06:25Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 18086731,
+          "tag_name": "16.6.1",
+          "published_at": "2019-06-19T09:26:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642781,
+          "tag_name": "16.6.0",
+          "published_at": "2026-10-18T19:06:20Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642755,
+          "tag_name": "16.5.0",
+          "published_at": "2026-10-18T19:06:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642739,
+          "tag_name": "16.4.3",
+          "published_at": "2026-10-18T19:06:15Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642722,
+          "tag_name": "16.4.1",
+          "published_at": "2026-10-18T19:06:13Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642701,
+          "tag_name": "16.4.0",
+          "published_at": "2026-10-18T19:06:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642682,
+          "tag_name": "16.3.0",
+          "published_at": "2026-10-18T19:06:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642664,
+          "tag_name": "16.2.0",
+          "published_at": "2026-10-18T19:06:06Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 13758300,
+          "tag_name": "16.1.0",
+          "published_at": "2018-10-31T15:25:31Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642628,
+          "tag_name": "16.0.0",
+          "published_at": "2026-10-18T19:06:01Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/16.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642611,
+          "tag_name": "15.2.0",
+          "published_at": "2026-10-18T19:05:59Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/15.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642593,
+          "tag_name": "15.1.0",
+          "published_at": "2026-10-18T19:05:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/15.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642566,
+          "tag_name": "15.0.3",
+          "published_at": "2026-10-18T19:05:55Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/15.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642548,
+          "tag_name": "15.0.2",
+          "published_at": "2026-10-18T19:05:52Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/15.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642529,
+          "tag_name": "15.0.1",
+          "published_at": "2026-10-18T19:05:50Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/15.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642509,
+          "tag_name": "15.0.0",
+          "published_at": "2026-10-18T19:05:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/15.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642493,
+          "tag_name": "14.0.6",
+          "published_at": "2026-10-18T19:05:46Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642474,
+          "tag_name": "14.0.5",
+          "published_at": "2026-10-18T19:05:44Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642455,
+          "tag_name": "14.0.4",
+          "published_at": "2026-10-18T19:05:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642437,
+          "tag_name": "14.0.3",
+          "published_at": "2026-10-18T19:05:39Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0d22f0de2613d1d1835783c458247116bfbc04a1c4129ef9270266b43d57d3cc"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=9",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=9",
+      "size": 30,
+      "page": 9,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:41.710Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416642428,
+          "tag_name": "14.0.2",
+          "published_at": "2026-10-18T19:05:37Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642410,
+          "tag_name": "14.0.1",
+          "published_at": "2026-10-18T19:05:35Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642390,
+          "tag_name": "14.0.0",
+          "published_at": "2026-10-18T19:05:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/14.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642372,
+          "tag_name": "13.1.2",
+          "published_at": "2026-10-18T19:05:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642354,
+          "tag_name": "13.1.1",
+          "published_at": "2026-10-18T19:05:28Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642340,
+          "tag_name": "13.1.0",
+          "published_at": "2026-10-18T19:05:25Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642315,
+          "tag_name": "13.0.3",
+          "published_at": "2026-10-18T19:05:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.0.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642286,
+          "tag_name": "13.0.2",
+          "published_at": "2026-10-18T19:05:20Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642271,
+          "tag_name": "13.0.1",
+          "published_at": "2026-10-18T19:05:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642250,
+          "tag_name": "13.0.0",
+          "published_at": "2026-10-18T19:05:15Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/13.0.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642238,
+          "tag_name": "12.1.1",
+          "published_at": "2026-10-18T19:05:13Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642219,
+          "tag_name": "12.1.0",
+          "published_at": "2026-10-18T19:05:11Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642200,
+          "tag_name": "12.0.7",
+          "published_at": "2026-10-18T19:05:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642177,
+          "tag_name": "12.0.6",
+          "published_at": "2026-10-18T19:05:06Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642158,
+          "tag_name": "12.0.5",
+          "published_at": "2026-10-18T19:05:04Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642135,
+          "tag_name": "12.0.4",
+          "published_at": "2026-10-18T19:05:02Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642122,
+          "tag_name": "12.0.2",
+          "published_at": "2026-10-18T19:04:59Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642099,
+          "tag_name": "12.0.1",
+          "published_at": "2026-10-18T19:04:57Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642073,
+          "tag_name": "12.0",
+          "published_at": "2026-10-18T19:04:54Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642056,
+          "tag_name": "1.11.6",
+          "published_at": "2026-10-18T19:04:52Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642037,
+          "tag_name": "1.11.5",
+          "published_at": "2026-10-18T19:04:50Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642018,
+          "tag_name": "1.11.4",
+          "published_at": "2026-10-18T19:04:48Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416642002,
+          "tag_name": "1.11.3",
+          "published_at": "2026-10-18T19:04:45Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641988,
+          "tag_name": "1.11.2",
+          "published_at": "2026-10-18T19:04:43Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641971,
+          "tag_name": "1.11.1",
+          "published_at": "2026-10-18T19:04:40Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641952,
+          "tag_name": "1.11",
+          "published_at": "2026-10-18T19:04:38Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641937,
+          "tag_name": "1.10.1",
+          "published_at": "2026-10-18T19:04:36Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641923,
+          "tag_name": "1.10",
+          "published_at": "2026-10-18T19:04:33Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641894,
+          "tag_name": "1.9.1",
+          "published_at": "2026-10-18T19:04:31Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641877,
+          "tag_name": "1.9",
+          "published_at": "2026-10-18T19:04:29Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.9",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b5ad2a27e788697337ceb1c7a28d7ed48ad7c03a90bc34826a6995b3bf0bf94b"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=10",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=10",
+      "size": 30,
+      "page": 10,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:42.519Z",
+      "end": false,
+      "records": [
+        {
+          "id": 416641863,
+          "tag_name": "1.8.4",
+          "published_at": "2026-10-18T19:04:26Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.8.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641846,
+          "tag_name": "1.8.3",
+          "published_at": "2026-10-18T19:04:24Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.8.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641825,
+          "tag_name": "1.8.2",
+          "published_at": "2026-10-18T19:04:22Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641808,
+          "tag_name": "1.8.1",
+          "published_at": "2026-10-18T19:04:19Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641798,
+          "tag_name": "1.8",
+          "published_at": "2026-10-18T19:04:17Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641785,
+          "tag_name": "1.7.2",
+          "published_at": "2026-10-18T19:04:14Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641757,
+          "tag_name": "1.7.1.2",
+          "published_at": "2026-10-18T19:04:12Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.7.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641744,
+          "tag_name": "1.7.1.1",
+          "published_at": "2026-10-18T19:04:10Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.7.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641723,
+          "tag_name": "1.7.1",
+          "published_at": "2026-10-18T19:04:08Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641706,
+          "tag_name": "1.7",
+          "published_at": "2026-10-18T19:04:06Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641684,
+          "tag_name": "1.6.4",
+          "published_at": "2026-10-18T19:04:03Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.6.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641668,
+          "tag_name": "1.6.3",
+          "published_at": "2026-10-18T19:04:01Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641653,
+          "tag_name": "1.6.2",
+          "published_at": "2026-10-18T19:03:59Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641634,
+          "tag_name": "1.6.1",
+          "published_at": "2026-10-18T19:03:56Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641612,
+          "tag_name": "1.6",
+          "published_at": "2026-10-18T19:03:54Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641593,
+          "tag_name": "1.5.2",
+          "published_at": "2026-10-18T19:03:51Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641575,
+          "tag_name": "1.5.1",
+          "published_at": "2026-10-18T19:03:49Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641550,
+          "tag_name": "1.5",
+          "published_at": "2026-10-18T19:03:46Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641522,
+          "tag_name": "1.4.9",
+          "published_at": "2026-10-18T19:03:44Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641504,
+          "tag_name": "1.4.8",
+          "published_at": "2026-10-18T19:03:41Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641481,
+          "tag_name": "1.4.6",
+          "published_at": "2026-10-18T19:03:39Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641463,
+          "tag_name": "1.4.3",
+          "published_at": "2026-10-18T19:03:37Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641451,
+          "tag_name": "1.4.2",
+          "published_at": "2026-10-18T19:03:34Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641431,
+          "tag_name": "1.4.1",
+          "published_at": "2026-10-18T19:03:32Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641408,
+          "tag_name": "1.4",
+          "published_at": "2026-10-18T19:03:30Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641379,
+          "tag_name": "1.3.4",
+          "published_at": "2026-10-18T19:03:27Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641364,
+          "tag_name": "1.3.3",
+          "published_at": "2026-10-18T19:03:25Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641343,
+          "tag_name": "1.3.2",
+          "published_at": "2026-10-18T19:03:23Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641317,
+          "tag_name": "1.3.1",
+          "published_at": "2026-10-18T19:03:20Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 416641296,
+          "tag_name": "1.3",
+          "published_at": "2026-10-18T19:03:18Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "97400646f6c1951701c417b52ef20ef63cd091ac1c84e734b945a02ca2429dfc"
+    },
+    {
+      "url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=11",
+      "response_url": "https://api.github.com/repos/pypa/virtualenv/releases?per_page=30&page=11",
+      "size": 30,
+      "page": 11,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:43.644Z",
+      "end": true,
+      "records": [
+        {
+          "id": 416641281,
+          "tag_name": "1.2",
+          "published_at": "2026-10-18T19:03:16Z",
+          "html_url": "https://github.com/pypa/virtualenv/releases/tag/1.2",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "22b9d08ab1d37b4b2b7cbdfd7608f1f602a11487f415e0d4309a5af6fe1df72b"
+    }
+  ]
+}

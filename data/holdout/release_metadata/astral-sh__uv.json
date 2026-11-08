@@ -1,0 +1,2921 @@
+{
+  "candidate": "astral-sh/uv",
+  "provider": "github_connector",
+  "pages": [
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=1",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=1",
+      "size": 15,
+      "page": 1,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:33.925Z",
+      "end": false,
+      "records": [
+        {
+          "id": 432220693,
+          "tag_name": "0.13.7",
+          "published_at": "2026-11-03T02:45:04Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 424920657,
+          "tag_name": "0.13.6",
+          "published_at": "2026-10-27T00:47:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 420219944,
+          "tag_name": "0.13.5",
+          "published_at": "2026-10-22T01:35:54Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 418555132,
+          "tag_name": "0.13.4",
+          "published_at": "2026-10-20T15:24:59Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 417904289,
+          "tag_name": "0.13.3",
+          "published_at": "2026-10-20T01:15:17Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 417751044,
+          "tag_name": "0.13.2",
+          "published_at": "2026-10-19T21:02:37Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 412359628,
+          "tag_name": "0.13.1",
+          "published_at": "2026-10-14T05:15:30Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 408286693,
+          "tag_name": "0.13.0",
+          "published_at": "2026-10-09T19:49:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 407218952,
+          "tag_name": "0.12.24",
+          "published_at": "2026-10-08T20:06:20Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 402618784,
+          "tag_name": "0.12.23",
+          "published_at": "2026-10-03T17:34:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 401449793,
+          "tag_name": "0.12.22",
+          "published_at": "2026-10-02T00:20:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 399533040,
+          "tag_name": "0.12.21",
+          "published_at": "2026-09-29T21:14:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 398699866,
+          "tag_name": "0.12.20",
+          "published_at": "2026-09-28T23:20:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 396184598,
+          "tag_name": "0.12.19",
+          "published_at": "2026-09-25T00:33:02Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 394178000,
+          "tag_name": "0.12.18",
+          "published_at": "2026-09-22T23:00:51Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.18",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "2523bb136f1dbd3a8d240147835670cdb0190b4c90e42399b05b1d3d26f0a85a"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=2",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=2",
+      "size": 15,
+      "page": 2,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:35.682Z",
+      "end": false,
+      "records": [
+        {
+          "id": 391716851,
+          "tag_name": "0.12.17",
+          "published_at": "2026-09-18T18:59:24Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 391148109,
+          "tag_name": "0.12.16",
+          "published_at": "2026-09-18T01:01:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 389112346,
+          "tag_name": "0.12.15",
+          "published_at": "2026-09-15T12:09:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 388826415,
+          "tag_name": "0.12.14",
+          "published_at": "2026-09-15T02:19:30Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 386563016,
+          "tag_name": "0.12.13",
+          "published_at": "2026-09-10T19:27:24Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 385690522,
+          "tag_name": "0.12.12",
+          "published_at": "2026-09-09T16:45:15Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 385051405,
+          "tag_name": "0.12.11",
+          "published_at": "2026-09-08T20:45:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 383059524,
+          "tag_name": "0.12.10",
+          "published_at": "2026-09-04T23:15:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 380848277,
+          "tag_name": "0.12.9",
+          "published_at": "2026-09-01T21:58:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 380087785,
+          "tag_name": "0.12.8",
+          "published_at": "2026-08-31T22:18:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 378153813,
+          "tag_name": "0.12.7",
+          "published_at": "2026-08-27T22:14:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 376663447,
+          "tag_name": "0.12.6",
+          "published_at": "2026-08-25T19:41:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370794065,
+          "tag_name": "0.12.5",
+          "published_at": "2026-08-14T19:57:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 370218653,
+          "tag_name": "0.12.4",
+          "published_at": "2026-08-13T21:16:08Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 366879609,
+          "tag_name": "0.12.3",
+          "published_at": "2026-08-07T16:34:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.3",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "1100d457f323eb4ffc75a4be4297c1c85960e4133d875d58fbb520100c252b00"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=3",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=3",
+      "size": 15,
+      "page": 3,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:37.279Z",
+      "end": false,
+      "records": [
+        {
+          "id": 365766687,
+          "tag_name": "0.12.2",
+          "published_at": "2026-08-05T19:22:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 363289111,
+          "tag_name": "0.12.1",
+          "published_at": "2026-07-31T19:43:31Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 361308705,
+          "tag_name": "0.12.0",
+          "published_at": "2026-07-28T18:58:12Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 361008397,
+          "tag_name": "0.11.33",
+          "published_at": "2026-07-28T10:37:25Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.33",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 359002367,
+          "tag_name": "0.11.32",
+          "published_at": "2026-07-23T23:17:45Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.32",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 357733488,
+          "tag_name": "0.11.31",
+          "published_at": "2026-07-22T01:49:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.31",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 356986027,
+          "tag_name": "0.11.30",
+          "published_at": "2026-07-20T20:48:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 354640213,
+          "tag_name": "0.11.29",
+          "published_at": "2026-07-15T18:44:43Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.29",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 350619820,
+          "tag_name": "0.11.28",
+          "published_at": "2026-07-07T23:14:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.28",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 349879200,
+          "tag_name": "0.11.27",
+          "published_at": "2026-07-06T21:01:23Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 346907873,
+          "tag_name": "0.11.26",
+          "published_at": "2026-06-30T14:53:17Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.26",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 345584204,
+          "tag_name": "0.11.25",
+          "published_at": "2026-06-27T00:49:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 343768402,
+          "tag_name": "0.11.24",
+          "published_at": "2026-06-23T21:16:31Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 342082268,
+          "tag_name": "0.11.23",
+          "published_at": "2026-06-19T18:42:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 341682539,
+          "tag_name": "0.11.22",
+          "published_at": "2026-06-18T23:05:10Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.22",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "dd948cc22406dc7ba7061d60d7d1c9718bfd7d3830d2e0909ffb94661d8fde84"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=4",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=4",
+      "size": 15,
+      "page": 4,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:39.341Z",
+      "end": false,
+      "records": [
+        {
+          "id": 338153758,
+          "tag_name": "0.11.21",
+          "published_at": "2026-06-11T18:20:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 337389495,
+          "tag_name": "0.11.20",
+          "published_at": "2026-06-10T17:21:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 334038116,
+          "tag_name": "0.11.19",
+          "published_at": "2026-06-03T22:38:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 332732594,
+          "tag_name": "0.11.18",
+          "published_at": "2026-06-01T19:44:30Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 331127211,
+          "tag_name": "0.11.17",
+          "published_at": "2026-05-28T20:41:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 327331652,
+          "tag_name": "0.11.16",
+          "published_at": "2026-05-21T22:11:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 324526469,
+          "tag_name": "0.11.15",
+          "published_at": "2026-05-18T19:59:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 321322637,
+          "tag_name": "0.11.14",
+          "published_at": "2026-05-12T18:04:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 320228846,
+          "tag_name": "0.11.13",
+          "published_at": "2026-05-11T01:40:21Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 319770216,
+          "tag_name": "0.11.12",
+          "published_at": "2026-05-08T22:38:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 318608965,
+          "tag_name": "0.11.11",
+          "published_at": "2026-05-06T20:08:24Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 318048243,
+          "tag_name": "0.11.10",
+          "published_at": "2026-05-05T20:24:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 317640128,
+          "tag_name": "0.11.9",
+          "published_at": "2026-05-05T06:56:09Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 314062629,
+          "tag_name": "0.11.8",
+          "published_at": "2026-04-27T13:18:17Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 309578422,
+          "tag_name": "0.11.7",
+          "published_at": "2026-04-15T21:47:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.7",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "feaa340abee57de8f2f70cf0a1ea1638a8e5261c2df0c249c92a67cefdd7fbdc"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=5",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=5",
+      "size": 15,
+      "page": 5,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:41.279Z",
+      "end": false,
+      "records": [
+        {
+          "id": 307042667,
+          "tag_name": "0.11.6",
+          "published_at": "2026-04-09T12:12:24Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 306784698,
+          "tag_name": "0.11.5",
+          "published_at": "2026-04-08T20:36:22Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 306364174,
+          "tag_name": "0.11.4",
+          "published_at": "2026-04-08T02:01:48Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 304428942,
+          "tag_name": "0.11.3",
+          "published_at": "2026-04-01T21:50:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 302107898,
+          "tag_name": "0.11.2",
+          "published_at": "2026-03-26T21:32:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 300929983,
+          "tag_name": "0.11.1",
+          "published_at": "2026-03-24T23:17:29Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 300426132,
+          "tag_name": "0.11.0",
+          "published_at": "2026-03-23T22:08:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.11.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 299172630,
+          "tag_name": "0.10.12",
+          "published_at": "2026-03-19T21:54:14Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 297721083,
+          "tag_name": "0.10.11",
+          "published_at": "2026-03-17T00:03:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 296857543,
+          "tag_name": "0.10.10",
+          "published_at": "2026-03-13T20:07:44Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 294104714,
+          "tag_name": "0.10.9",
+          "published_at": "2026-03-06T21:24:15Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 292733393,
+          "tag_name": "0.10.8",
+          "published_at": "2026-03-03T21:39:09Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 291338960,
+          "tag_name": "0.10.7",
+          "published_at": "2026-02-27T12:36:47Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 290114335,
+          "tag_name": "0.10.6",
+          "published_at": "2026-02-25T00:30:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 289691756,
+          "tag_name": "0.10.5",
+          "published_at": "2026-02-24T04:06:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "0fe332777e49273ac1967bf005cb8e9ab455f084bb79d3ef3b60889748c19114"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=6",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=6",
+      "size": 15,
+      "page": 6,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:43.171Z",
+      "end": false,
+      "records": [
+        {
+          "id": 287439221,
+          "tag_name": "0.10.4",
+          "published_at": "2026-02-17T22:04:18Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 286808868,
+          "tag_name": "0.10.3",
+          "published_at": "2026-02-16T11:28:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 284974889,
+          "tag_name": "0.10.2",
+          "published_at": "2026-02-10T19:20:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 284791208,
+          "tag_name": "0.10.1",
+          "published_at": "2026-02-10T11:50:02Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 283522844,
+          "tag_name": "0.10.0",
+          "published_at": "2026-02-05T21:01:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.10.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 283146554,
+          "tag_name": "0.9.30",
+          "published_at": "2026-02-04T21:49:01Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 282703970,
+          "tag_name": "0.9.29",
+          "published_at": "2026-02-03T19:42:02Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.29",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 281266755,
+          "tag_name": "0.9.28",
+          "published_at": "2026-01-29T20:19:18Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.28",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 280105973,
+          "tag_name": "0.9.27",
+          "published_at": "2026-01-26T23:30:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 277194827,
+          "tag_name": "0.9.26",
+          "published_at": "2026-01-15T20:55:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.26",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 276550310,
+          "tag_name": "0.9.25",
+          "published_at": "2026-01-13T23:24:44Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 275631306,
+          "tag_name": "0.9.24",
+          "published_at": "2026-01-09T22:36:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 275597420,
+          "tag_name": "0.9.23",
+          "published_at": "2026-01-09T19:48:53Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 274481846,
+          "tag_name": "0.9.22",
+          "published_at": "2026-01-06T10:52:01Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 273434921,
+          "tag_name": "0.9.21",
+          "published_at": "2025-12-30T16:14:58Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.21",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "555df071d508201bad7b7d9d6a89cbcebc6aab6613768c642cb2e93d95d0e82e"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=7",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=7",
+      "size": 15,
+      "page": 7,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:45.018Z",
+      "end": false,
+      "records": [
+        {
+          "id": 273282479,
+          "tag_name": "0.9.20",
+          "published_at": "2025-12-29T20:57:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 270793577,
+          "tag_name": "0.9.18",
+          "published_at": "2025-12-16T15:47:46Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 268920805,
+          "tag_name": "0.9.17",
+          "published_at": "2025-12-09T23:05:20Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 267993746,
+          "tag_name": "0.9.16",
+          "published_at": "2025-12-06T14:22:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 266930740,
+          "tag_name": "0.9.15",
+          "published_at": "2025-12-03T01:34:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 266468635,
+          "tag_name": "0.9.14",
+          "published_at": "2025-12-01T17:24:46Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 265517097,
+          "tag_name": "0.9.13",
+          "published_at": "2025-11-26T16:30:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 265227314,
+          "tag_name": "0.9.12",
+          "published_at": "2025-11-25T18:21:25Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 264157943,
+          "tag_name": "0.9.11",
+          "published_at": "2025-11-20T23:46:39Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 263038065,
+          "tag_name": "0.9.10",
+          "published_at": "2025-11-17T17:03:23Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 261858306,
+          "tag_name": "0.9.9",
+          "published_at": "2025-11-12T18:46:15Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 260760305,
+          "tag_name": "0.9.8",
+          "published_at": "2025-11-07T20:42:24Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 258646100,
+          "tag_name": "0.9.7",
+          "published_at": "2025-10-30T23:02:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 258273582,
+          "tag_name": "0.9.6",
+          "published_at": "2025-10-29T19:41:31Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 256081101,
+          "tag_name": "0.9.5",
+          "published_at": "2025-10-21T16:51:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "1939cdccd4d267d79a93d4e9ae9bc92bbe23fc301c497064d4b2ca6eeb29d323"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=8",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=8",
+      "size": 15,
+      "page": 8,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:52.318Z",
+      "end": false,
+      "records": [
+        {
+          "id": 255559081,
+          "tag_name": "0.9.4",
+          "published_at": "2025-10-18T21:35:41Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 254736292,
+          "tag_name": "0.9.3",
+          "published_at": "2025-10-15T15:21:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253725007,
+          "tag_name": "0.9.2",
+          "published_at": "2025-10-10T19:02:50Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 253451196,
+          "tag_name": "0.9.1",
+          "published_at": "2025-10-09T19:11:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252874938,
+          "tag_name": "0.9.0",
+          "published_at": "2025-10-07T23:45:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.9.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252586642,
+          "tag_name": "0.8.24",
+          "published_at": "2025-10-07T03:35:03Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 252205073,
+          "tag_name": "0.8.23",
+          "published_at": "2025-10-04T18:24:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 249477483,
+          "tag_name": "0.8.22",
+          "published_at": "2025-09-23T20:35:51Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 249375439,
+          "tag_name": "0.8.21",
+          "published_at": "2025-09-23T14:25:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 249183286,
+          "tag_name": "0.8.20",
+          "published_at": "2025-09-22T23:03:03Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 248716074,
+          "tag_name": "0.8.19",
+          "published_at": "2025-09-19T20:08:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 248120279,
+          "tag_name": "0.8.18",
+          "published_at": "2025-09-17T21:37:24Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 246315194,
+          "tag_name": "0.8.17",
+          "published_at": "2025-09-10T21:52:02Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 246039217,
+          "tag_name": "0.8.16",
+          "published_at": "2025-09-10T02:41:21Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 244470094,
+          "tag_name": "0.8.15",
+          "published_at": "2025-09-03T14:32:54Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.15",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9dfbd401f248d8401a9a16d301fe388fb25a91a44e597c1b934c4e4a99b8e6d0"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=9",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=9",
+      "size": 15,
+      "page": 9,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:48:57.526Z",
+      "end": false,
+      "records": [
+        {
+          "id": 243323575,
+          "tag_name": "0.8.14",
+          "published_at": "2025-08-28T21:56:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 241623543,
+          "tag_name": "0.8.13",
+          "published_at": "2025-08-21T19:20:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 240743499,
+          "tag_name": "0.8.12",
+          "published_at": "2025-08-19T00:01:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 240075531,
+          "tag_name": "0.8.11",
+          "published_at": "2025-08-14T19:49:01Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 239804677,
+          "tag_name": "0.8.10",
+          "published_at": "2025-08-13T20:36:12Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 239226444,
+          "tag_name": "0.8.9",
+          "published_at": "2025-08-12T02:33:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 238728667,
+          "tag_name": "0.8.8",
+          "published_at": "2025-08-09T00:26:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 238703179,
+          "tag_name": "0.8.7",
+          "published_at": "2025-08-08T20:37:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 238359471,
+          "tag_name": "0.8.6",
+          "published_at": "2025-08-07T15:44:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 237790432,
+          "tag_name": "0.8.5",
+          "published_at": "2025-08-05T20:51:00Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 236351266,
+          "tag_name": "0.8.4",
+          "published_at": "2025-07-30T17:11:33Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 235014447,
+          "tag_name": "0.8.3",
+          "published_at": "2025-07-24T21:15:09Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 234366794,
+          "tag_name": "0.8.2",
+          "published_at": "2025-07-22T20:37:14Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 234314370,
+          "tag_name": "0.8.1",
+          "published_at": "2025-07-22T17:03:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 233340454,
+          "tag_name": "0.8.0",
+          "published_at": "2025-07-17T22:52:22Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.8.0",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "2abf00d8b148d04ee8bf2ec08c851c750215e094a70b3814762186cdca560355"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=10",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=10",
+      "size": 15,
+      "page": 10,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:02.163Z",
+      "end": false,
+      "records": [
+        {
+          "id": 233261578,
+          "tag_name": "0.7.22",
+          "published_at": "2025-07-17T17:01:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 232310367,
+          "tag_name": "0.7.21",
+          "published_at": "2025-07-14T18:36:14Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 231271937,
+          "tag_name": "0.7.20",
+          "published_at": "2025-07-09T21:02:53Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 229552881,
+          "tag_name": "0.7.19",
+          "published_at": "2025-07-02T21:42:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 229235389,
+          "tag_name": "0.7.18",
+          "published_at": "2025-07-01T20:55:15Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 228603492,
+          "tag_name": "0.7.17",
+          "published_at": "2025-06-29T14:20:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 228483121,
+          "tag_name": "0.7.16",
+          "published_at": "2025-06-27T22:08:59Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 227634132,
+          "tag_name": "0.7.15",
+          "published_at": "2025-06-25T10:31:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 227155995,
+          "tag_name": "0.7.14",
+          "published_at": "2025-06-23T17:56:58Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 225028793,
+          "tag_name": "0.7.13",
+          "published_at": "2025-06-12T23:02:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223735417,
+          "tag_name": "0.7.12",
+          "published_at": "2025-06-06T20:39:39Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 223186986,
+          "tag_name": "0.7.11",
+          "published_at": "2025-06-04T20:07:50Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 222836799,
+          "tag_name": "0.7.10",
+          "published_at": "2025-06-03T16:30:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 222155943,
+          "tag_name": "0.7.9",
+          "published_at": "2025-05-30T19:55:00Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 220755490,
+          "tag_name": "0.7.8",
+          "published_at": "2025-05-24T00:28:51Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.8",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9b47ae5622a879534439fd6f0843d606c3b8deba11c7aa0c7cc680d6d80348cd"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=11",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=11",
+      "size": 15,
+      "page": 11,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:03.852Z",
+      "end": false,
+      "records": [
+        {
+          "id": 220473601,
+          "tag_name": "0.7.7",
+          "published_at": "2025-05-22T19:20:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 219645011,
+          "tag_name": "0.7.6",
+          "published_at": "2025-05-20T00:32:21Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 219233869,
+          "tag_name": "0.7.5",
+          "published_at": "2025-05-17T02:56:31Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 218912365,
+          "tag_name": "0.7.4",
+          "published_at": "2025-05-15T17:21:23Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 217143752,
+          "tag_name": "0.7.3",
+          "published_at": "2025-05-07T20:02:53Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215851197,
+          "tag_name": "0.7.2",
+          "published_at": "2025-04-30T19:25:58Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215708146,
+          "tag_name": "0.7.1",
+          "published_at": "2025-04-30T10:08:29Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 215605023,
+          "tag_name": "0.7.0",
+          "published_at": "2025-04-29T22:04:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.7.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 214862482,
+          "tag_name": "0.6.17",
+          "published_at": "2025-04-25T18:52:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 213828029,
+          "tag_name": "0.6.16",
+          "published_at": "2025-04-22T04:18:15Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 213798378,
+          "tag_name": "0.6.15",
+          "published_at": "2025-04-22T00:51:50Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 211395378,
+          "tag_name": "0.6.14",
+          "published_at": "2025-04-09T21:57:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 210852753,
+          "tag_name": "0.6.13",
+          "published_at": "2025-04-07T20:04:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209954291,
+          "tag_name": "0.6.12",
+          "published_at": "2025-04-02T20:58:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 209224266,
+          "tag_name": "0.6.11",
+          "published_at": "2025-03-30T20:03:08Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.11",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "a27735192adf6e4406bffe4408820cb015e7467e60d5e685db987a8933a7b7fe"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=12",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=12",
+      "size": 15,
+      "page": 12,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:05.767Z",
+      "end": false,
+      "records": [
+        {
+          "id": 208277623,
+          "tag_name": "0.6.10",
+          "published_at": "2025-03-26T01:09:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 207288719,
+          "tag_name": "0.6.9",
+          "published_at": "2025-03-20T21:09:14Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 206668173,
+          "tag_name": "0.6.8",
+          "published_at": "2025-03-18T19:43:28Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 206395979,
+          "tag_name": "0.6.7",
+          "published_at": "2025-03-17T23:51:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 205164154,
+          "tag_name": "0.6.6",
+          "published_at": "2025-03-12T00:31:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 204232067,
+          "tag_name": "0.6.5",
+          "published_at": "2025-03-06T21:59:45Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 203460684,
+          "tag_name": "0.6.4",
+          "published_at": "2025-03-03T23:40:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 202156671,
+          "tag_name": "0.6.3",
+          "published_at": "2025-02-24T22:50:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 201271047,
+          "tag_name": "0.6.2",
+          "published_at": "2025-02-19T19:34:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 200767182,
+          "tag_name": "0.6.1",
+          "published_at": "2025-02-17T18:20:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 200444153,
+          "tag_name": "0.6.0",
+          "published_at": "2025-02-14T18:22:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.6.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 199969914,
+          "tag_name": "0.5.31",
+          "published_at": "2025-02-12T21:29:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.31",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 199486739,
+          "tag_name": "0.5.30",
+          "published_at": "2025-02-10T22:23:37Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 198719759,
+          "tag_name": "0.5.29",
+          "published_at": "2025-02-06T01:51:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.29",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 198492571,
+          "tag_name": "0.5.28",
+          "published_at": "2025-02-05T04:21:51Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.28",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "4955221c9139b05a7c757f16469878f984e5b6cd633b44ee688fccb8ead94745"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=13",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=13",
+      "size": 15,
+      "page": 13,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:07.413Z",
+      "end": false,
+      "records": [
+        {
+          "id": 198215237,
+          "tag_name": "0.5.27",
+          "published_at": "2025-02-03T23:34:43Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 197673639,
+          "tag_name": "0.5.26",
+          "published_at": "2025-01-30T21:59:53Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.26",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 197253100,
+          "tag_name": "0.5.25",
+          "published_at": "2025-01-28T22:23:18Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 196543167,
+          "tag_name": "0.5.24",
+          "published_at": "2025-01-24T00:34:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 196301551,
+          "tag_name": "0.5.23",
+          "published_at": "2025-01-23T00:59:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195950015,
+          "tag_name": "0.5.22",
+          "published_at": "2025-01-21T22:25:46Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195409313,
+          "tag_name": "0.5.21",
+          "published_at": "2025-01-17T21:16:39Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195021026,
+          "tag_name": "0.5.20",
+          "published_at": "2025-01-15T23:38:44Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 195005791,
+          "tag_name": "0.5.19",
+          "published_at": "2025-01-15T21:20:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 194244286,
+          "tag_name": "0.5.18",
+          "published_at": "2025-01-11T15:07:47Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 194193297,
+          "tag_name": "0.5.17",
+          "published_at": "2025-01-10T21:15:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 193741975,
+          "tag_name": "0.5.16",
+          "published_at": "2025-01-08T16:42:08Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 193401442,
+          "tag_name": "0.5.15",
+          "published_at": "2025-01-07T00:39:33Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 192980556,
+          "tag_name": "0.5.14",
+          "published_at": "2025-01-02T19:52:48Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 192478659,
+          "tag_name": "0.5.13",
+          "published_at": "2024-12-27T13:59:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.13",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "716d2e444961f27300e09a8a1548d357979fd6bbd2f641f5125c93e508b7e42a"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=14",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=14",
+      "size": 15,
+      "page": 14,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:09.246Z",
+      "end": false,
+      "records": [
+        {
+          "id": 192408634,
+          "tag_name": "0.5.12",
+          "published_at": "2024-12-26T19:39:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 191770038,
+          "tag_name": "0.5.11",
+          "published_at": "2024-12-20T00:28:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 191274198,
+          "tag_name": "0.5.10",
+          "published_at": "2024-12-17T21:15:53Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190727231,
+          "tag_name": "0.5.9",
+          "published_at": "2024-12-13T22:48:33Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 190236970,
+          "tag_name": "0.5.8",
+          "published_at": "2024-12-11T15:41:02Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 189507546,
+          "tag_name": "0.5.7",
+          "published_at": "2024-12-07T00:11:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 188806535,
+          "tag_name": "0.5.6",
+          "published_at": "2024-12-03T21:11:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 187880743,
+          "tag_name": "0.5.5",
+          "published_at": "2024-11-27T17:58:54Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 186513216,
+          "tag_name": "0.5.4",
+          "published_at": "2024-11-20T21:22:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 186271655,
+          "tag_name": "0.5.3",
+          "published_at": "2024-11-19T19:36:51Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 185530705,
+          "tag_name": "0.5.2",
+          "published_at": "2024-11-14T22:22:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184461616,
+          "tag_name": "0.5.1",
+          "published_at": "2024-11-08T23:36:25Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 184258483,
+          "tag_name": "0.5.0",
+          "published_at": "2024-11-07T23:06:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.5.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 183494268,
+          "tag_name": "0.4.30",
+          "published_at": "2024-11-05T01:14:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 182819030,
+          "tag_name": "0.4.29",
+          "published_at": "2024-10-30T23:44:28Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.29",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "752a2e630d46f8810e37670e0e479d173932b69ab0bcb6807ac9549243ca5f81"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=15",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=15",
+      "size": 15,
+      "page": 15,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:11.162Z",
+      "end": false,
+      "records": [
+        {
+          "id": 182359499,
+          "tag_name": "0.4.28",
+          "published_at": "2024-10-28T22:30:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.28",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 182017872,
+          "tag_name": "0.4.27",
+          "published_at": "2024-10-25T19:29:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 181575606,
+          "tag_name": "0.4.26",
+          "published_at": "2024-10-23T20:08:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.26",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180954948,
+          "tag_name": "0.4.25",
+          "published_at": "2024-10-21T08:59:45Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180561603,
+          "tag_name": "0.4.24",
+          "published_at": "2024-10-18T00:11:16Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180475281,
+          "tag_name": "0.4.23",
+          "published_at": "2024-10-17T14:50:49Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 180099780,
+          "tag_name": "0.4.22",
+          "published_at": "2024-10-15T20:31:30Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 179895901,
+          "tag_name": "0.4.21",
+          "published_at": "2024-10-14T21:07:43Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178981340,
+          "tag_name": "0.4.20",
+          "published_at": "2024-10-08T20:18:01Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 178787449,
+          "tag_name": "0.4.19",
+          "published_at": "2024-10-07T22:52:39Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 177908063,
+          "tag_name": "0.4.18",
+          "published_at": "2024-10-01T23:45:46Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 177344329,
+          "tag_name": "0.4.17",
+          "published_at": "2024-09-27T17:48:05Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 176706166,
+          "tag_name": "0.4.16",
+          "published_at": "2024-09-24T20:01:33Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 176232976,
+          "tag_name": "0.4.15",
+          "published_at": "2024-09-21T13:19:00Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 176185974,
+          "tag_name": "0.4.14",
+          "published_at": "2024-09-20T20:27:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.14",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "9843e57631f506f1a44071c294e6a6cdf03a0b23190b94f3fd9205c4706db916"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=16",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=16",
+      "size": 15,
+      "page": 16,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:13.131Z",
+      "end": false,
+      "records": [
+        {
+          "id": 175988149,
+          "tag_name": "0.4.13",
+          "published_at": "2024-09-19T21:08:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 175678854,
+          "tag_name": "0.4.12",
+          "published_at": "2024-09-18T14:10:48Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 175561620,
+          "tag_name": "0.4.11",
+          "published_at": "2024-09-18T00:17:05Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 175014595,
+          "tag_name": "0.4.10",
+          "published_at": "2024-09-13T18:06:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 174438445,
+          "tag_name": "0.4.9",
+          "published_at": "2024-09-10T22:41:43Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 174217729,
+          "tag_name": "0.4.8",
+          "published_at": "2024-09-09T21:39:32Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173947809,
+          "tag_name": "0.4.7",
+          "published_at": "2024-09-07T02:46:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173743750,
+          "tag_name": "0.4.6",
+          "published_at": "2024-09-05T22:59:01Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173514317,
+          "tag_name": "0.4.5",
+          "published_at": "2024-09-04T21:16:00Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173324790,
+          "tag_name": "0.4.4",
+          "published_at": "2024-09-04T00:58:43Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 173111406,
+          "tag_name": "0.4.3",
+          "published_at": "2024-09-02T21:40:14Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172948785,
+          "tag_name": "0.4.2",
+          "published_at": "2024-09-01T17:56:19Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172787442,
+          "tag_name": "0.4.1",
+          "published_at": "2024-08-30T14:43:41Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172416250,
+          "tag_name": "0.4.0",
+          "published_at": "2024-08-28T18:01:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.4.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 172198999,
+          "tag_name": "0.3.5",
+          "published_at": "2024-08-27T17:11:41Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.3.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "dcafd239f3e39476dcee83ef25d38e3e27fcd754ae6a7f77e43d22fc4fc6d4ee"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=17",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=17",
+      "size": 15,
+      "page": 17,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:15.111Z",
+      "end": false,
+      "records": [
+        {
+          "id": 172024942,
+          "tag_name": "0.3.4",
+          "published_at": "2024-08-26T21:09:33Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.3.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 171756468,
+          "tag_name": "0.3.3",
+          "published_at": "2024-08-23T23:59:28Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.3.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 171594480,
+          "tag_name": "0.3.2",
+          "published_at": "2024-08-23T03:32:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.3.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 171371100,
+          "tag_name": "0.3.1",
+          "published_at": "2024-08-21T23:29:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.3.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 171126154,
+          "tag_name": "0.3.0",
+          "published_at": "2024-08-20T17:53:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.3.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 170462321,
+          "tag_name": "0.2.37",
+          "published_at": "2024-08-16T02:46:55Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.37",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 170022721,
+          "tag_name": "0.2.36",
+          "published_at": "2024-08-13T17:29:54Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.36",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169599971,
+          "tag_name": "0.2.35",
+          "published_at": "2024-08-10T00:43:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.35",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 169202201,
+          "tag_name": "0.2.34",
+          "published_at": "2024-08-07T21:00:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.34",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 168345602,
+          "tag_name": "0.2.33",
+          "published_at": "2024-08-01T22:15:08Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.33",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167944936,
+          "tag_name": "0.2.32",
+          "published_at": "2024-07-30T23:19:08Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.32",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167710676,
+          "tag_name": "0.2.31",
+          "published_at": "2024-07-29T18:29:18Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.31",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167410613,
+          "tag_name": "0.2.30",
+          "published_at": "2024-07-26T17:57:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 167023241,
+          "tag_name": "0.2.29",
+          "published_at": "2024-07-24T22:50:38Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.29",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 166777385,
+          "tag_name": "0.2.28",
+          "published_at": "2024-07-23T19:26:44Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.28",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "b537ecb6cc3a8a226f22b4d13bedb4b8317393e5d571a7a4d8dc681c58aae7c6"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=18",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=18",
+      "size": 15,
+      "page": 18,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:16.531Z",
+      "end": false,
+      "records": [
+        {
+          "id": 166311034,
+          "tag_name": "0.2.27",
+          "published_at": "2024-07-19T22:27:57Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165899463,
+          "tag_name": "0.2.26",
+          "published_at": "2024-07-17T17:37:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.26",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 165542103,
+          "tag_name": "0.2.25",
+          "published_at": "2024-07-15T23:00:05Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 164866599,
+          "tag_name": "0.2.24",
+          "published_at": "2024-07-10T19:13:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 164460168,
+          "tag_name": "0.2.23",
+          "published_at": "2024-07-08T17:50:16Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 164308359,
+          "tag_name": "0.2.22",
+          "published_at": "2024-07-07T19:51:07Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 163727310,
+          "tag_name": "0.2.21",
+          "published_at": "2024-07-03T04:48:39Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 163691054,
+          "tag_name": "0.2.20",
+          "published_at": "2024-07-02T22:51:43Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 163682997,
+          "tag_name": "0.2.19",
+          "published_at": "2024-07-02T21:46:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 163148920,
+          "tag_name": "0.2.18",
+          "published_at": "2024-06-29T18:50:20Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162656870,
+          "tag_name": "0.2.17",
+          "published_at": "2024-06-26T23:40:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162644622,
+          "tag_name": "0.2.16",
+          "published_at": "2024-06-26T21:46:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162095474,
+          "tag_name": "0.2.15",
+          "published_at": "2024-06-24T15:25:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 162077425,
+          "tag_name": "0.2.14",
+          "published_at": "2024-06-24T14:12:13Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.14",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 161125043,
+          "tag_name": "0.2.13",
+          "published_at": "2024-06-18T17:09:06Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.13",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "5be0eb8e631e5405088c0699657a47bae33826a54a1d4a42b91fd22c8789cc17"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=19",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=19",
+      "size": 15,
+      "page": 19,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:18.076Z",
+      "end": false,
+      "records": [
+        {
+          "id": 160953749,
+          "tag_name": "0.2.12",
+          "published_at": "2024-06-17T22:08:45Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159987908,
+          "tag_name": "0.2.11",
+          "published_at": "2024-06-12T01:08:28Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159711924,
+          "tag_name": "0.2.10",
+          "published_at": "2024-06-10T17:01:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159251233,
+          "tag_name": "0.2.9",
+          "published_at": "2024-06-06T18:42:28Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159078752,
+          "tag_name": "0.2.8",
+          "published_at": "2024-06-05T21:29:25Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 159054525,
+          "tag_name": "0.2.7",
+          "published_at": "2024-06-05T18:46:22Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 158665158,
+          "tag_name": "0.2.6",
+          "published_at": "2024-06-03T18:23:15Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157853828,
+          "tag_name": "0.2.5",
+          "published_at": "2024-05-28T18:34:46Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157528512,
+          "tag_name": "0.2.4",
+          "published_at": "2024-05-26T17:36:03Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157399320,
+          "tag_name": "0.2.3",
+          "published_at": "2024-05-24T18:44:00Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 157006778,
+          "tag_name": "0.2.2",
+          "published_at": "2024-05-22T22:09:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 156990518,
+          "tag_name": "0.2.1",
+          "published_at": "2024-05-22T20:32:58Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 156968713,
+          "tag_name": "0.2.0",
+          "published_at": "2024-05-22T19:12:45Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.2.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 156584885,
+          "tag_name": "0.1.45",
+          "published_at": "2024-05-20T21:07:00Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.45",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 155710149,
+          "tag_name": "0.1.44",
+          "published_at": "2024-05-14T14:29:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.44",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "1f50d38d597d6f9ec022fa522172ebe06842fdc15fb44ae6f20dd567fae10e1c"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=20",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=20",
+      "size": 15,
+      "page": 20,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:19.765Z",
+      "end": false,
+      "records": [
+        {
+          "id": 155601366,
+          "tag_name": "0.1.43",
+          "published_at": "2024-05-14T01:04:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.43",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154857127,
+          "tag_name": "0.1.42",
+          "published_at": "2024-05-08T22:36:03Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.42",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154686702,
+          "tag_name": "0.1.41",
+          "published_at": "2024-05-08T01:30:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.41",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 154634819,
+          "tag_name": "0.1.40",
+          "published_at": "2024-05-07T17:56:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.40",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 153089530,
+          "tag_name": "0.1.39",
+          "published_at": "2024-04-27T12:18:42Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.39",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152677302,
+          "tag_name": "0.1.38",
+          "published_at": "2024-04-24T18:53:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.38",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152432035,
+          "tag_name": "0.1.37",
+          "published_at": "2024-04-23T15:41:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.37",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152280476,
+          "tag_name": "0.1.36",
+          "published_at": "2024-04-22T19:37:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.36",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 152023630,
+          "tag_name": "0.1.35",
+          "published_at": "2024-04-20T00:43:17Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.35",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151853723,
+          "tag_name": "0.1.34",
+          "published_at": "2024-04-19T02:56:12Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.34",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151591605,
+          "tag_name": "0.1.33",
+          "published_at": "2024-04-17T15:58:37Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.33",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 151251057,
+          "tag_name": "0.1.32",
+          "published_at": "2024-04-15T20:54:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.32",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 150463949,
+          "tag_name": "0.1.31",
+          "published_at": "2024-04-09T19:57:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.31",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 150436248,
+          "tag_name": "0.1.30",
+          "published_at": "2024-04-09T16:40:30Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.30",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149842339,
+          "tag_name": "0.1.29",
+          "published_at": "2024-04-04T20:15:37Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.29",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "287e1a9c4ba29f80ba61864c76545e0345d0ee2ed8b48d1018acd44b19f884b4"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=21",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=21",
+      "size": 15,
+      "page": 21,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:22.142Z",
+      "end": false,
+      "records": [
+        {
+          "id": 149481047,
+          "tag_name": "0.1.28",
+          "published_at": "2024-04-02T22:00:25Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.28",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 149277008,
+          "tag_name": "0.1.27",
+          "published_at": "2024-04-01T19:14:41Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.27",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148927291,
+          "tag_name": "0.1.26",
+          "published_at": "2024-03-28T18:44:34Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.26",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 148895082,
+          "tag_name": "0.1.25",
+          "published_at": "2024-03-28T15:34:52Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.25",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 147991701,
+          "tag_name": "0.1.24",
+          "published_at": "2024-03-22T20:16:05Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.24",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 147635787,
+          "tag_name": "0.1.23",
+          "published_at": "2024-03-21T03:10:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.23",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 147092952,
+          "tag_name": "0.1.22",
+          "published_at": "2024-03-18T18:18:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.22",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146606966,
+          "tag_name": "0.1.21",
+          "published_at": "2024-03-14T14:58:41Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.21",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146472258,
+          "tag_name": "0.1.20",
+          "published_at": "2024-03-14T04:14:37Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.20",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146452884,
+          "tag_name": "0.1.19",
+          "published_at": "2024-03-14T00:10:26Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.19",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 146169722,
+          "tag_name": "0.1.18",
+          "published_at": "2024-03-13T00:48:50Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.18",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145737423,
+          "tag_name": "0.1.17",
+          "published_at": "2024-03-10T19:43:20Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.17",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 145379999,
+          "tag_name": "0.1.16",
+          "published_at": "2024-03-07T23:34:14Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.16",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144949327,
+          "tag_name": "0.1.15",
+          "published_at": "2024-03-05T21:08:27Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.15",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144687182,
+          "tag_name": "0.1.14",
+          "published_at": "2024-03-04T17:05:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.14",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "3130cc50406399a0674cdb3e4541850dfe649285735e3e417ef3110bdc75e4fa"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=22",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=22",
+      "size": 15,
+      "page": 22,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:23.583Z",
+      "end": false,
+      "records": [
+        {
+          "id": 144248245,
+          "tag_name": "0.1.13",
+          "published_at": "2024-02-29T18:15:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.13",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 144077908,
+          "tag_name": "0.1.12",
+          "published_at": "2024-02-28T21:11:48Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.12",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143659475,
+          "tag_name": "0.1.11",
+          "published_at": "2024-02-26T16:16:30Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.11",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143395962,
+          "tag_name": "0.1.10",
+          "published_at": "2024-02-23T18:00:12Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.10",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143290812,
+          "tag_name": "0.1.9",
+          "published_at": "2024-02-23T02:50:01Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.9",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143247198,
+          "tag_name": "0.1.8",
+          "published_at": "2024-02-22T19:27:40Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.8",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 143096932,
+          "tag_name": "0.1.7",
+          "published_at": "2024-02-22T03:53:35Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.7",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142829432,
+          "tag_name": "0.1.6",
+          "published_at": "2024-02-20T17:51:36Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.6",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142524706,
+          "tag_name": "0.1.5",
+          "published_at": "2024-02-19T02:43:22Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.5",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142475229,
+          "tag_name": "0.1.4",
+          "published_at": "2024-02-17T22:59:53Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.4",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142428699,
+          "tag_name": "0.1.3",
+          "published_at": "2024-02-17T01:14:18Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.3",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142274621,
+          "tag_name": "0.1.2",
+          "published_at": "2024-02-16T06:45:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.2",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142241890,
+          "tag_name": "0.1.1",
+          "published_at": "2024-02-15T22:07:16Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.1",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142222356,
+          "tag_name": "0.1.0",
+          "published_at": "2024-02-15T19:45:56Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.1.0",
+          "draft": false,
+          "prerelease": false
+        },
+        {
+          "id": 142213543,
+          "tag_name": "0.0.5",
+          "published_at": "2024-02-15T18:57:11Z",
+          "html_url": "https://github.com/astral-sh/uv/releases/tag/0.0.5",
+          "draft": false,
+          "prerelease": false
+        }
+      ],
+      "metadata_sha256": "d19f9a770bbd296a39e2460e27004752596e9ca6908f2c5fb674a53c2e2b9793"
+    },
+    {
+      "url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=23",
+      "response_url": "https://api.github.com/repos/astral-sh/uv/releases?per_page=15&page=23",
+      "size": 15,
+      "page": 23,
+      "status": 200,
+      "retrieved_at_utc": "2026-11-08T11:49:24.207Z",
+      "end": true,
+      "records": [],
+      "metadata_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  ]
+}

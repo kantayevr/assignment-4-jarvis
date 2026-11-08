@@ -1,0 +1,93 @@
+[
+  {
+    "id": "Q01",
+    "repository": "pallets/flask",
+    "split": "development",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pallets/flask, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q02",
+    "repository": "psf/requests",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For psf/requests, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q03",
+    "repository": "numpy/numpy",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For numpy/numpy, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q04",
+    "repository": "scipy/scipy",
+    "split": "development",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For scipy/scipy, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q05",
+    "repository": "pandas-dev/pandas",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pandas-dev/pandas, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q06",
+    "repository": "scikit-learn/scikit-learn",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For scikit-learn/scikit-learn, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q07",
+    "repository": "python-pillow/Pillow",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For python-pillow/Pillow, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q08",
+    "repository": "matplotlib/matplotlib",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For matplotlib/matplotlib, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q09",
+    "repository": "pytest-dev/pytest",
+    "split": "development",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pytest-dev/pytest, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q10",
+    "repository": "encode/uvicorn",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For encode/uvicorn, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q11",
+    "repository": "encode/starlette",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For encode/starlette, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q12",
+    "repository": "pydantic/pydantic",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For pydantic/pydantic, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  },
+  {
+    "id": "Q13",
+    "repository": "fastapi/typer",
+    "split": "evaluation",
+    "answer_date": "2025-06-01T00:00:00Z",
+    "question": "For fastapi/typer, what is the tag of the most recently published non-prerelease, non-draft release in the archived GitHub release records as of 2025-06-01 00:00 UTC? Return only its release tag."
+  }
+]

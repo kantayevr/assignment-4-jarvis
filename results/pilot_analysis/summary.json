@@ -1,0 +1,154 @@
+{
+  "dataset": "pilot",
+  "n_questions": 13,
+  "n_predictions": 52,
+  "conditions": {
+    "tfidf_frozen": {
+      "n": 13,
+      "correct": 2,
+      "accuracy": 0.15384615384615385,
+      "wilson_95_ci": [
+        0.043258178358081184,
+        0.4223463101948254
+      ],
+      "latency_seconds": {
+        "median": 3.8675755000003846,
+        "q1": 3.5026331999979448,
+        "q3": 4.168614100002742,
+        "iqr": 0.6659809000047971
+      },
+      "error_categories": {
+        "outdated": 11
+      },
+      "retrieval_metrics": {
+        "target_record_recall_at_3": 1.0,
+        "gold_evidence_coverage_at_3": 0.15384615384615385,
+        "unsupported_tag_count": 0
+      }
+    },
+    "tfidf_updated": {
+      "n": 13,
+      "correct": 13,
+      "accuracy": 1.0,
+      "wilson_95_ci": [
+        0.7719046276458016,
+        0.9999999999999999
+      ],
+      "latency_seconds": {
+        "median": 3.823216599994339,
+        "q1": 3.6416532000002917,
+        "q3": 3.9564581000013277,
+        "iqr": 0.314804900001036
+      },
+      "error_categories": {},
+      "retrieval_metrics": {
+        "target_record_recall_at_3": 1.0,
+        "gold_evidence_coverage_at_3": 1.0,
+        "unsupported_tag_count": 0
+      }
+    },
+    "closed_book": {
+      "n": 13,
+      "correct": 0,
+      "accuracy": 0.0,
+      "wilson_95_ci": [
+        0.0,
+        0.22809537235419838
+      ],
+      "latency_seconds": {
+        "median": 1.004116800002521,
+        "q1": 0.95522119999805,
+        "q3": 1.088528899999801,
+        "iqr": 0.13330770000175107
+      },
+      "error_categories": {
+        "abstention": 13
+      },
+      "retrieval_metrics": null
+    },
+    "bm25_updated": {
+      "n": 13,
+      "correct": 13,
+      "accuracy": 1.0,
+      "wilson_95_ci": [
+        0.7719046276458016,
+        0.9999999999999999
+      ],
+      "latency_seconds": {
+        "median": 3.760961200001475,
+        "q1": 3.686723200000415,
+        "q3": 4.016115400001581,
+        "iqr": 0.3293922000011662
+      },
+      "error_categories": {},
+      "retrieval_metrics": {
+        "target_record_recall_at_3": 1.0,
+        "gold_evidence_coverage_at_3": 1.0,
+        "unsupported_tag_count": 0
+      }
+    }
+  },
+  "primary_tfidf_updated_vs_frozen": {
+    "updated_only_correct": 11,
+    "comparator_only_correct": 0,
+    "both_correct": 2,
+    "both_incorrect": 0,
+    "accuracy_difference_percentage_points": 84.61538461538461,
+    "mcnemar_exact_two_sided_p": 0.0009765625,
+    "paired_bootstrap_95_ci_percentage_points": [
+      61.53846153846154,
+      100.0
+    ],
+    "supports_h1": true
+  },
+  "secondary_tfidf_updated_vs": {
+    "closed_book": {
+      "updated_only_correct": 13,
+      "comparator_only_correct": 0,
+      "both_correct": 0,
+      "both_incorrect": 0,
+      "accuracy_difference_percentage_points": 100.0,
+      "mcnemar_exact_two_sided_p": 0.000244140625,
+      "holm_adjusted_p": 0.00048828125
+    },
+    "bm25_updated": {
+      "updated_only_correct": 0,
+      "comparator_only_correct": 0,
+      "both_correct": 13,
+      "both_incorrect": 0,
+      "accuracy_difference_percentage_points": 0.0,
+      "mcnemar_exact_two_sided_p": 1.0,
+      "holm_adjusted_p": 1.0
+    }
+  },
+  "strata": {
+    "changed": {
+      "n": 11,
+      "correct": {
+        "tfidf_frozen": 0,
+        "tfidf_updated": 11,
+        "closed_book": 0,
+        "bm25_updated": 11
+      }
+    },
+    "unchanged": {
+      "n": 2,
+      "correct": {
+        "tfidf_frozen": 2,
+        "tfidf_updated": 2,
+        "closed_book": 0,
+        "bm25_updated": 2
+      }
+    }
+  },
+  "analysis_inputs_sha256": {
+    "questions.json": "2208772684de3c520187b0d4d447bdad524ec9086654292fa3dade7c062c13f4",
+    "answer_key.json": "fe9ffbc8e5db256d8730df292b8bf8915f2dee31ac5c4e13161798dd2ca3ad8c",
+    "predictions.jsonl": "c937cd1aae518cf78a6c86185ee5ba4004b9e9e37c44ef9e26fd0eef75f574b1"
+  },
+  "analysis_source_sha256": {
+    "analyze_results.py": "324946dac9b47a9eb91f0b0874b97f0ec8e6ada31b30a9234c8c6e0455e8b49e",
+    "a3_metrics.py": "3213ab7622489101966e8e52f7cf0120ebd670e6d561997a1d8217291174f1ff",
+    "protocol.py": "53a536457579b946e6b3abc9c846d4e6b6b93e33b354b8af60cf8d38906e6990"
+  }
+}

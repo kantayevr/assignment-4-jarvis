@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Q01",
+    "answer_tag": "3.1.1",
+    "old_tag": "3.1.0",
+    "changed": true,
+    "source_url": "https://github.com/pallets/flask/releases/tag/3.1.1",
+    "release_published_at": "2025-05-13T15:01:32Z",
+    "release_id": 218299378
+  },
+  {
+    "id": "Q02",
+    "answer_tag": "v2.32.3",
+    "old_tag": "v2.32.3",
+    "changed": false,
+    "source_url": "https://github.com/psf/requests/releases/tag/v2.32.3",
+    "release_published_at": "2024-05-29T15:39:40Z",
+    "release_id": 158021607
+  },
+  {
+    "id": "Q03",
+    "answer_tag": "v2.2.6",
+    "old_tag": "v2.2.1",
+    "changed": true,
+    "source_url": "https://github.com/numpy/numpy/releases/tag/v2.2.6",
+    "release_published_at": "2025-05-17T22:45:00Z",
+    "release_id": 219302212
+  },
+  {
+    "id": "Q04",
+    "answer_tag": "v1.15.3",
+    "old_tag": "v1.14.1",
+    "changed": true,
+    "source_url": "https://github.com/scipy/scipy/releases/tag/v1.15.3",
+    "release_published_at": "2025-05-08T16:20:25Z",
+    "release_id": 217379942
+  },
+  {
+    "id": "Q05",
+    "answer_tag": "v2.2.3",
+    "old_tag": "v2.2.3",
+    "changed": false,
+    "source_url": "https://github.com/pandas-dev/pandas/releases/tag/v2.2.3",
+    "release_published_at": "2024-09-20T13:10:41Z",
+    "release_id": 176105602
+  },
+  {
+    "id": "Q06",
+    "answer_tag": "1.6.1",
+    "old_tag": "1.6.0",
+    "changed": true,
+    "source_url": "https://github.com/scikit-learn/scikit-learn/releases/tag/1.6.1",
+    "release_published_at": "2025-01-10T10:51:11Z",
+    "release_id": 194085391
+  },
+  {
+    "id": "Q07",
+    "answer_tag": "11.2.1",
+    "old_tag": "11.0.0",
+    "changed": true,
+    "source_url": "https://github.com/python-pillow/Pillow/releases/tag/11.2.1",
+    "release_published_at": "2025-04-12T17:56:01Z",
+    "release_id": 192893636
+  },
+  {
+    "id": "Q08",
+    "answer_tag": "v3.10.3",
+    "old_tag": "v3.10.0",
+    "changed": true,
+    "source_url": "https://github.com/matplotlib/matplotlib/releases/tag/v3.10.3",
+    "release_published_at": "2025-05-09T17:22:05Z",
+    "release_id": 217659889
+  },
+  {
+    "id": "Q09",
+    "answer_tag": "8.3.5",
+    "old_tag": "8.3.4",
+    "changed": true,
+    "source_url": "https://github.com/pytest-dev/pytest/releases/tag/8.3.5",
+    "release_published_at": "2025-03-02T12:56:47Z",
+    "release_id": 203219661
+  },
+  {
+    "id": "Q10",
+    "answer_tag": "0.34.2",
+    "old_tag": "0.34.0",
+    "changed": true,
+    "source_url": "https://github.com/Kludex/uvicorn/releases/tag/0.34.2",
+    "release_published_at": "2025-04-19T06:01:45Z",
+    "release_id": 213453774
+  },
+  {
+    "id": "Q11",
+    "answer_tag": "0.47.0",
+    "old_tag": "0.45.1",
+    "changed": true,
+    "source_url": "https://github.com/Kludex/starlette/releases/tag/0.47.0",
+    "release_published_at": "2025-05-29T15:44:26Z",
+    "release_id": 221873081
+  },
+  {
+    "id": "Q12",
+    "answer_tag": "v2.11.5",
+    "old_tag": "v2.10.4",
+    "changed": true,
+    "source_url": "https://github.com/pydantic/pydantic/releases/tag/v2.11.5",
+    "release_published_at": "2025-05-23T08:58:29Z",
+    "release_id": 220586072
+  },
+  {
+    "id": "Q13",
+    "answer_tag": "0.16.0",
+    "old_tag": "0.15.1",
+    "changed": true,
+    "source_url": "https://github.com/fastapi/typer/releases/tag/0.16.0",
+    "release_published_at": "2025-05-26T14:30:06Z",
+    "release_id": 221026526
+  }
+]

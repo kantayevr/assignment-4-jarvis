@@ -1,0 +1,155 @@
+{
+  "dataset": "holdout",
+  "n_questions": 34,
+  "n_predictions": 136,
+  "conditions": {
+    "tfidf_frozen": {
+      "n": 34,
+      "correct": 5,
+      "accuracy": 0.14705882352941177,
+      "wilson_95_ci": [
+        0.06449441444782457,
+        0.3012805649545216
+      ],
+      "latency_seconds": {
+        "median": 1.5534427000020514,
+        "q1": 1.4725497249983164,
+        "q3": 1.6158018249989254,
+        "iqr": 0.14325210000060906
+      },
+      "error_categories": {
+        "outdated": 29
+      },
+      "retrieval_metrics": {
+        "target_record_recall_at_3": 1.0,
+        "gold_evidence_coverage_at_3": 0.14705882352941177,
+        "unsupported_tag_count": 0
+      }
+    },
+    "tfidf_updated": {
+      "n": 34,
+      "correct": 34,
+      "accuracy": 1.0,
+      "wilson_95_ci": [
+        0.8984854458466761,
+        0.9999999999999999
+      ],
+      "latency_seconds": {
+        "median": 1.526683200001571,
+        "q1": 1.45497817499745,
+        "q3": 1.5976560249982867,
+        "iqr": 0.14267785000083677
+      },
+      "error_categories": {},
+      "retrieval_metrics": {
+        "target_record_recall_at_3": 1.0,
+        "gold_evidence_coverage_at_3": 1.0,
+        "unsupported_tag_count": 0
+      }
+    },
+    "closed_book": {
+      "n": 34,
+      "correct": 0,
+      "accuracy": 0.0,
+      "wilson_95_ci": [
+        0.0,
+        0.10151455415332376
+      ],
+      "latency_seconds": {
+        "median": 0.36610505000135163,
+        "q1": 0.3587669749977067,
+        "q3": 0.3783199749977939,
+        "iqr": 0.019553000000087195
+      },
+      "error_categories": {
+        "abstention": 34
+      },
+      "retrieval_metrics": null
+    },
+    "bm25_updated": {
+      "n": 34,
+      "correct": 34,
+      "accuracy": 1.0,
+      "wilson_95_ci": [
+        0.8984854458466761,
+        0.9999999999999999
+      ],
+      "latency_seconds": {
+        "median": 1.5488963999996486,
+        "q1": 1.4686189249987365,
+        "q3": 1.6045577750010125,
+        "iqr": 0.135938850002276
+      },
+      "error_categories": {},
+      "retrieval_metrics": {
+        "target_record_recall_at_3": 1.0,
+        "gold_evidence_coverage_at_3": 1.0,
+        "unsupported_tag_count": 0
+      }
+    }
+  },
+  "primary_tfidf_updated_vs_frozen": {
+    "updated_only_correct": 29,
+    "comparator_only_correct": 0,
+    "both_correct": 5,
+    "both_incorrect": 0,
+    "accuracy_difference_percentage_points": 85.29411764705883,
+    "mcnemar_exact_two_sided_p": 3.725290298461914e-09,
+    "paired_bootstrap_95_ci_percentage_points": [
+      73.52941176470588,
+      97.05882352941177
+    ],
+    "supports_h1": true
+  },
+  "secondary_tfidf_updated_vs": {
+    "closed_book": {
+      "updated_only_correct": 34,
+      "comparator_only_correct": 0,
+      "both_correct": 0,
+      "both_incorrect": 0,
+      "accuracy_difference_percentage_points": 100.0,
+      "mcnemar_exact_two_sided_p": 1.1641532182693481e-10,
+      "holm_adjusted_p": 2.3283064365386963e-10
+    },
+    "bm25_updated": {
+      "updated_only_correct": 0,
+      "comparator_only_correct": 0,
+      "both_correct": 34,
+      "both_incorrect": 0,
+      "accuracy_difference_percentage_points": 0.0,
+      "mcnemar_exact_two_sided_p": 1.0,
+      "holm_adjusted_p": 1.0
+    }
+  },
+  "strata": {
+    "changed": {
+      "n": 29,
+      "correct": {
+        "tfidf_frozen": 0,
+        "tfidf_updated": 29,
+        "closed_book": 0,
+        "bm25_updated": 29
+      }
+    },
+    "unchanged": {
+      "n": 5,
+      "correct": {
+        "tfidf_frozen": 5,
+        "tfidf_updated": 5,
+        "closed_book": 0,
+        "bm25_updated": 5
+      }
+    }
+  },
+  "analysis_inputs_sha256": {
+    "questions.json": "0d8c69b7cb46e9239547d879728811fa2d3c20e6fb203e835c4b0aef2a5d8ca5",
+    "answer_key.json": "740aa33d9cbff25124c86ae151255289dd58858a070d6109b7cb98f0f94ee93a",
+    "dataset_manifest.json": "efef89519962197ed1d748ed99c43ab90fcf23db6ef4be7e9f918f710b5ba788",
+    "predictions.jsonl": "f06a5754cbfb44c4cad8977ed7de53e6b7434a8ad31dcca82593136c5d6ebfe8"
+  },
+  "analysis_source_sha256": {
+    "analyze_results.py": "324946dac9b47a9eb91f0b0874b97f0ec8e6ada31b30a9234c8c6e0455e8b49e",
+    "a3_metrics.py": "3213ab7622489101966e8e52f7cf0120ebd670e6d561997a1d8217291174f1ff",
+    "protocol.py": "53a536457579b946e6b3abc9c846d4e6b6b93e33b354b8af60cf8d38906e6990"
+  }
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "A4Q001",
+    "answer_tag": "0.11.12",
+    "old_tag": "0.8.4",
+    "changed": true,
+    "source_url": "https://github.com/astral-sh/ruff/releases/tag/0.11.12",
+    "release_published_at": "2025-05-29T13:36:56Z",
+    "release_id": 221839748
+  },
+  {
+    "id": "A4Q002",
+    "answer_tag": "0.7.9",
+    "old_tag": "0.5.13",
+    "changed": true,
+    "source_url": "https://github.com/astral-sh/uv/releases/tag/0.7.9",
+    "release_published_at": "2025-05-30T19:55:00Z",
+    "release_id": 222155943
+  },
+  {
+    "id": "A4Q003",
+    "answer_tag": "2.1.3",
+    "old_tag": "1.8.5",
+    "changed": true,
+    "source_url": "https://github.com/python-poetry/poetry/releases/tag/2.1.3",
+    "release_published_at": "2025-05-04T13:37:05Z",
+    "release_id": 216353756
+  },
+  {
+    "id": "A4Q004",
+    "answer_tag": "6.1.0",
+    "old_tag": "6.0.1",
+    "changed": true,
+    "source_url": "https://github.com/pypa/twine/releases/tag/6.1.0",
+    "release_published_at": "2025-01-21T18:44:52Z",
+    "release_id": 195914293
+  },
+  {
+    "id": "A4Q005",
+    "answer_tag": "20.31.2",
+    "old_tag": "20.28.0",
+    "changed": true,
+    "source_url": "https://github.com/pypa/virtualenv/releases/tag/20.31.2",
+    "release_published_at": "2025-05-08T17:59:08Z",
+    "release_id": 217401158
+  },
+  {
+    "id": "A4Q006",
+    "answer_tag": "4.26.0",
+    "old_tag": "4.23.2",
+    "changed": true,
+    "source_url": "https://github.com/tox-dev/tox/releases/tag/4.26.0",
+    "release_published_at": "2025-05-13T15:02:01Z",
+    "release_id": 218301633
+  },
+  {
+    "id": "A4Q007",
+    "answer_tag": "v4.2.0",
+    "old_tag": "v4.0.1",
+    "changed": true,
+    "source_url": "https://github.com/pre-commit/pre-commit/releases/tag/v4.2.0",
+    "release_published_at": "2025-03-18T21:42:20Z",
+    "release_id": 206695099
+  },
+  {
+    "id": "A4Q008",
+    "answer_tag": "2025.5.1",
+    "old_tag": "2024.12.1",
+    "changed": true,
+    "source_url": "https://github.com/dask/dask/releases/tag/2025.5.1",
+    "release_published_at": "2025-05-20T19:54:12Z",
+    "release_id": 218758797
+  },
+  {
+    "id": "A4Q009",
+    "answer_tag": "2025.5.1",
+    "old_tag": "2024.12.1",
+    "changed": true,
+    "source_url": "https://github.com/dask/distributed/releases/tag/2025.5.1",
+    "release_published_at": "2025-05-20T19:54:11Z",
+    "release_id": 219884845
+  },
+  {
+    "id": "A4Q010",
+    "answer_tag": "v2025.04.0",
+    "old_tag": "v2024.11.0",
+    "changed": true,
+    "source_url": "https://github.com/pydata/xarray/releases/tag/v2025.04.0",
+    "release_published_at": "2025-04-29T23:26:55Z",
+    "release_id": 215614346
+  },
+  {
+    "id": "A4Q011",
+    "answer_tag": "v0.25.2",
+    "old_tag": "v0.25.0",
+    "changed": true,
+    "source_url": "https://github.com/scikit-image/scikit-image/releases/tag/v0.25.2",
+    "release_published_at": "2025-02-18T18:05:27Z",
+    "release_id": 200989185
+  },
+  {
+    "id": "A4Q012",
+    "answer_tag": "v6.1.2",
+    "old_tag": "v5.24.1",
+    "changed": true,
+    "source_url": "https://github.com/plotly/plotly.py/releases/tag/v6.1.2",
+    "release_published_at": "2025-05-27T20:20:08Z",
+    "release_id": 221372107
+  },
+  {
+    "id": "A4Q013",
+    "answer_tag": "v5.5.0",
+    "old_tag": "v5.5.0",
+    "changed": false,
+    "source_url": "https://github.com/vega/altair/releases/tag/v5.5.0",
+    "release_published_at": "2024-11-24T00:12:10Z",
+    "release_id": 187135273
+  },
+  {
+    "id": "A4Q014",
+    "answer_tag": "v0.13.2",
+    "old_tag": "v0.13.2",
+    "changed": false,
+    "source_url": "https://github.com/mwaskom/seaborn/releases/tag/v0.13.2",
+    "release_published_at": "2024-01-25T13:21:20Z",
+    "release_id": 138513425
+  },
+  {
+    "id": "A4Q015",
+    "answer_tag": "1.5.1",
+    "old_tag": "1.4.2",
+    "changed": true,
+    "source_url": "https://github.com/joblib/joblib/releases/tag/1.5.1",
+    "release_published_at": "2025-05-23T12:05:01Z",
+    "release_id": 220626134
+  },
+  {
+    "id": "A4Q016",
+    "answer_tag": "v0.14.4",
+    "old_tag": "v0.14.4",
+    "changed": false,
+    "source_url": "https://github.com/statsmodels/statsmodels/releases/tag/v0.14.4",
+    "release_published_at": "2024-10-03T15:37:29Z",
+    "release_id": 178241358
+  },
+  {
+    "id": "A4Q017",
+    "answer_tag": "v3.12.6",
+    "old_tag": "v3.11.11",
+    "changed": true,
+    "source_url": "https://github.com/aio-libs/aiohttp/releases/tag/v3.12.6",
+    "release_published_at": "2025-05-31T05:53:17Z",
+    "release_id": 222204421
+  },
+  {
+    "id": "A4Q018",
+    "answer_tag": "0.28.1",
+    "old_tag": "0.28.1",
+    "changed": false,
+    "source_url": "https://github.com/encode/httpx/releases/tag/0.28.1",
+    "release_published_at": "2024-12-06T15:36:24Z",
+    "release_id": 188917449
+  },
+  {
+    "id": "A4Q019",
+    "answer_tag": "1.0.9",
+    "old_tag": "1.0.7",
+    "changed": true,
+    "source_url": "https://github.com/encode/httpcore/releases/tag/1.0.9",
+    "release_published_at": "2025-04-24T22:03:52Z",
+    "release_id": 214640934
+  },
+  {
+    "id": "A4Q020",
+    "answer_tag": "3.16.0",
+    "old_tag": "3.15.2",
+    "changed": true,
+    "source_url": "https://github.com/encode/django-rest-framework/releases/tag/3.16.0",
+    "release_published_at": "2025-03-28T14:28:49Z",
+    "release_id": 208970899
+  },
+  {
+    "id": "A4Q021",
+    "answer_tag": "2.13.0",
+    "old_tag": "2.12.0",
+    "changed": true,
+    "source_url": "https://github.com/scrapy/scrapy/releases/tag/2.13.0",
+    "release_published_at": "2025-05-08T09:54:46Z",
+    "release_id": 217280631
+  },
+  {
+    "id": "A4Q022",
+    "answer_tag": "3.1.6",
+    "old_tag": "3.1.5",
+    "changed": true,
+    "source_url": "https://github.com/pallets/jinja/releases/tag/3.1.6",
+    "release_published_at": "2025-03-05T20:05:10Z",
+    "release_id": 203951295
+  },
+  {
+    "id": "A4Q023",
+    "answer_tag": "8.2.1",
+    "old_tag": "8.1.8",
+    "changed": true,
+    "source_url": "https://github.com/pallets/click/releases/tag/8.2.1",
+    "release_published_at": "2025-05-20T23:20:12Z",
+    "release_id": 219915865
+  },
+  {
+    "id": "A4Q024",
+    "answer_tag": "v5.5.2",
+    "old_tag": "v5.4.0",
+    "changed": true,
+    "source_url": "https://github.com/celery/celery/releases/tag/v5.5.2",
+    "release_published_at": "2025-04-25T20:10:41Z",
+    "release_id": 214876486
+  },
+  {
+    "id": "A4Q025",
+    "answer_tag": "v6.2.0",
+    "old_tag": "v5.2.1",
+    "changed": true,
+    "source_url": "https://github.com/redis/redis-py/releases/tag/v6.2.0",
+    "release_published_at": "2025-05-28T05:00:51Z",
+    "release_id": 221315470
+  },
+  {
+    "id": "A4Q026",
+    "answer_tag": "25.1.0",
+    "old_tag": "24.10.0",
+    "changed": true,
+    "source_url": "https://github.com/psf/black/releases/tag/25.1.0",
+    "release_published_at": "2025-01-29T04:15:11Z",
+    "release_id": 197284134
+  },
+  {
+    "id": "A4Q027",
+    "answer_tag": "v8.2.3",
+    "old_tag": "v8.1.3",
+    "changed": true,
+    "source_url": "https://github.com/sphinx-doc/sphinx/releases/tag/v8.2.3",
+    "release_published_at": "2025-03-02T22:31:26Z",
+    "release_id": 203242752
+  },
+  {
+    "id": "A4Q028",
+    "answer_tag": "1.6.1",
+    "old_tag": "1.6.1",
+    "changed": false,
+    "source_url": "https://github.com/mkdocs/mkdocs/releases/tag/1.6.1",
+    "release_published_at": "2024-08-30T12:23:09Z",
+    "release_id": 172752442
+  },
+  {
+    "id": "A4Q029",
+    "answer_tag": "0.29.1",
+    "old_tag": "0.27.0",
+    "changed": true,
+    "source_url": "https://github.com/mkdocstrings/mkdocstrings/releases/tag/0.29.1",
+    "release_published_at": "2025-03-31T08:33:08Z",
+    "release_id": 209281082
+  },
+  {
+    "id": "A4Q030",
+    "answer_tag": "v1.9.6",
+    "old_tag": "v1.9.1",
+    "changed": true,
+    "source_url": "https://github.com/dbt-labs/dbt/releases/tag/v1.9.6",
+    "release_published_at": "2025-05-30T17:19:05Z",
+    "release_id": 222127601
+  },
+  {
+    "id": "A4Q031",
+    "answer_tag": "3.4.4",
+    "old_tag": "3.1.10",
+    "changed": true,
+    "source_url": "https://github.com/PrefectHQ/prefect/releases/tag/3.4.4",
+    "release_published_at": "2025-05-29T21:36:08Z",
+    "release_id": 221945630
+  },
+  {
+    "id": "A4Q032",
+    "answer_tag": "1.45.1",
+    "old_tag": "1.41.1",
+    "changed": true,
+    "source_url": "https://github.com/streamlit/streamlit/releases/tag/1.45.1",
+    "release_published_at": "2025-05-12T20:40:35Z",
+    "release_id": 218099332
+  },
+  {
+    "id": "A4Q033",
+    "answer_tag": "v4.4.3",
+    "old_tag": "v4.3.4",
+    "changed": true,
+    "source_url": "https://github.com/jupyterlab/jupyterlab/releases/tag/v4.4.3",
+    "release_published_at": "2025-05-26T11:25:08Z",
+    "release_id": 220963130
+  },
+  {
+    "id": "A4Q034",
+    "answer_tag": "v7.4.3",
+    "old_tag": "v7.3.2",
+    "changed": true,
+    "source_url": "https://github.com/jupyter/notebook/releases/tag/v7.4.3",
+    "release_published_at": "2025-05-26T14:27:27Z",
+    "release_id": 221023764
+  }
+]
